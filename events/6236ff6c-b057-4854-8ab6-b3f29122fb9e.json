@@ -1,0 +1,119 @@
+{
+  "title": "Community Health Screening",
+  "description": "Free community health screening for eligible Singapore citizens.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "health screening",
+    "community"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 26 September 2026, 11:00 AM–2:00 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-26",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "11:00",
+          "literal": "11.00 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "14:00",
+          "literal": "2.00 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Multi-purpose Hall (MPH) and Courtyard, Sultan Mosque Annex Building",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [
+    "Singapore citizens aged 40 and above",
+    "Singapore citizens aged 60 and above"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Scan the QR code on the poster to register."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "The screening is advertised as free."
+  },
+  "sources": [
+    {
+      "id": "instagram:3988826523645977037",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdbKJbskyHN",
+      "post_id": "3988826523645977037",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-18T09:53:17.000Z",
+      "retrieved_at": "2026-09-21T09:24:03.240Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3988826523645977037",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/status",
+        "/schedule",
+        "/location",
+        "/registration",
+        "/pricing",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3988826523645977037",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/registration",
+        "/pricing",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster does not provide a street address or a direct registration URL."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "screening_components": [
+      "Falls and nutrition risks",
+      "Memory and mood",
+      "Eyes, ears and mouth test",
+      "Health counselling",
+      "Healthier SG enrolment",
+      "One-to-one personalised assistance"
+    ]
+  },
+  "id": "6236ff6c-b057-4854-8ab6-b3f29122fb9e",
+  "schema_version": "1.0"
+}
