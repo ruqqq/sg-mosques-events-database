@@ -17,7 +17,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 6
+    "count": 7
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -114,7 +114,7 @@
       },
       "recurring": {
         "path": "indexes/mosques/sultan/recurring.json",
-        "count": 6
+        "count": 7
       },
       "undated": {
         "path": "indexes/mosques/sultan/undated.json",
