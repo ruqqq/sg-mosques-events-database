@@ -2,6 +2,81 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "5a237d7e-9645-4be3-91a0-288ce03dbf4e",
+      "title": "Syarahan Majlis Maulidurrasul",
+      "description": "Religious lecture and Maulidurrasul gathering with qasidah and communal meal.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "religious lecture",
+        "maulid",
+        "qasidah"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sabtu, 12 September 2026; time unspecified",
+        "occurrences": [
+          {
+            "date": "2026-09-12",
+            "end_date": null,
+            "start_time": {
+              "kind": "unspecified",
+              "literal": "Time unspecified"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "jemaah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Start and end times were not provided.",
+          "Speaker and presenter names were not identified.",
+          "Exact street address was not provided."
+        ]
+      },
+      "path": "events/5a237d7e-9645-4be3-91a0-288ce03dbf4e.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-12",
+          "end_date": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Time unspecified"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "5a0ad811-b914-4588-a501-405e123b2d46",
       "title": "Khutbah Jumaat: Menangani Bisikan Hati Dengan Keimanan",
       "description": null,
