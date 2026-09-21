@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "id": "1a14897d-847e-4d65-934e-263361f2c5a2",
+  "title": "Let’s Do Lunch!",
+  "description": null,
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "youth",
+    "meal",
+    "question-and-answer"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 18 Sept 2026; After Jumaat Prayers!",
+    "occurrences": [
+      {
+        "date": "2026-09-18",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "jumuah",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Jumaat Prayers!"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "MPH Level 3, Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Luqman",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Syafiq",
+      "role": "speaker"
+    }
+  ],
+  "languages": [],
+  "audience": [
+    "youths",
+    "students"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Drop in, as invited by the caption."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Caption explicitly says everything is free."
+  },
+  "sources": [
+    {
+      "id": "instagram:3985945059600434782",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdQ6-nLtQZe/",
+      "post_id": "3985945059600434782",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [
+        "https://www.instagram.com/annahdhah/"
+      ],
+      "published_at": "2026-09-14T10:29:59.000Z",
+      "retrieved_at": "2026-09-21T07:22:51.731Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3985945059600434782",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3985945059600434782",
+      "locator": "caption",
+      "supports": [
+        "/pricing",
+        "/registration",
+        "/notes",
+        "/extra_data"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": "Lunch and a closed-door question-and-answer session; no age limits stated.",
+  "extra_data": {
+    "facilities": [
+      "air-conditioned room"
+    ],
+    "session_format": "closed-door Q&A"
+  }
+}

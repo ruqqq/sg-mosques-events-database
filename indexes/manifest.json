@@ -58,6 +58,30 @@
         "count": 0
       }
     },
+    "an-nur": {
+      "path": "mosques/an-nur.json",
+      "months": {},
+      "recurring": {
+        "path": "indexes/mosques/an-nur/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/an-nur/undated.json",
+        "count": 0
+      }
+    },
+    "assyafaah": {
+      "path": "mosques/assyafaah.json",
+      "months": {},
+      "recurring": {
+        "path": "indexes/mosques/assyafaah/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/assyafaah/undated.json",
+        "count": 0
+      }
+    },
     "sultan": {
       "path": "mosques/sultan.json",
       "months": {},

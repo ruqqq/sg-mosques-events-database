@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "e492c917-504e-44d3-b53c-4d9883a13bcf",
+  "title": "Jom Jumaat",
+  "description": null,
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "friday-prayers"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "2026-09-18; Friday prayers (exact start not stated)",
+    "occurrences": [
+      {
+        "date": "2026-09-18",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Md Tajuddin Noor",
+      "role": "speaker"
+    },
+    {
+      "name": "Akh Arsyad Rahmat",
+      "role": "leader"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3988164328315020759",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdYzlOPGeXX/",
+      "post_id": "3988164328315020759",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [
+        "https://www.instagram.com/annahdhah/"
+      ],
+      "published_at": "2026-09-17T11:57:37.000Z",
+      "retrieved_at": "2026-09-21T07:22:51.747Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3988164328315020759",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/extra_data"
+      ]
+    },
+    {
+      "source_id": "instagram:3988164328315020759",
+      "locator": "slide:2",
+      "supports": [
+        "/notes",
+        "/extra_data/donation_appeal_present"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Poster supplies the adhan time, not the exact start of the sermon/prayer."
+    ]
+  },
+  "notes": "The donation slide is general mosque fundraising, not an event admission charge.",
+  "extra_data": {
+    "sermon_title": "Overcoming the Whispers of the Heart with Faith",
+    "subtitle_languages": [
+      "en"
+    ],
+    "adhan": {
+      "label": "Azan Zohor",
+      "local_time": "13:00"
+    },
+    "donation_appeal_present": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "id": "an-nur",
+  "name": "An-Nur",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://www.annurmosque.sg/",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "masjidannursg",
+      "profile_id": "6942526208",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://linktr.ee/annurmosque",
+        "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nur/"
+      ],
+      "last_verified_at": "2026-09-21T08:42:25.885516+00:00",
+      "notes": "Current official Linktree links masjidannursg; earlier research listed annurmosque. No rename inferred without matching stable profile IDs."
+    },
+    {
+      "platform": "instagram",
+      "handle": "annurmosque",
+      "profile_id": "44602039271",
+      "role": "other",
+      "status": "probable",
+      "confidence": "historically_confirmed",
+      "evidence": [
+        "https://linktr.ee/annurmosque"
+      ],
+      "last_verified_at": "2026-09-21T08:44:30.904Z",
+      "notes": "Listed in earlier research; current Linktree instead points to masjidannursg. Historical association only; not scheduled."
+    }
+  ]
+}

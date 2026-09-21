@@ -1,11 +1,11 @@
 # Singapore mosque events database
 
 Public, versioned facts and source references for Singapore mosque events.
-This pilot covers **Sultan, An-Nahdhah and Al-Firdaus**. It is not a complete
+This pilot covers **Sultan, An-Nahdhah, Al-Firdaus, Assyafaah and An-Nur**. It is not a complete
 Singapore mosque directory or a guarantee that every event is captured.
 
 - `mosques/`: mosque identities and multiple social sources with confidence/evidence.
-- `events/<event-id>.json`: seven canonical candidate events/series at stable UUID paths.
+- `events/<event-id>.json`: canonical candidate events/series at stable UUID paths.
 - `indexes/`: generated listings by month and mosque, plus recurring and undated events.
 - `schemas/`: versioned JSON Schema contracts.
 - `docs/events.md`: field semantics, time handling and provenance.

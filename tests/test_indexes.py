@@ -17,7 +17,7 @@ class IndexTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
         for folder in ('events', 'mosques'):
-            shutil.copytree(ROOT / folder, self.root / folder)
+            shutil.copytree(ROOT / ('tests/fixtures/events' if folder == 'events' else folder), self.root / folder)
 
     def rows(self, output, path):
         return json.loads(output['indexes/' + path])['events']
