@@ -86,6 +86,96 @@
       ]
     },
     {
+      "id": "c398cc32-c1aa-436f-91bf-f1a98d4e05ff",
+      "title": "Qiyamullail & Subuh Fun Run",
+      "description": "Morning programme comprising Qiyamullail, Subuh prayer in congregation and a 5km fun run.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "religious programme",
+        "fun run"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 26 September 2026, 4:00 AM to 8:00 AM",
+        "occurrences": [
+          {
+            "label": "Qiyamullail & Subuh Fun Run",
+            "date": "2026-09-26",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "04:00",
+              "literal": "4.00AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "08:00",
+              "literal": "8.00AM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Sultan Prayer Hall, Level 1 & 2",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Zul Fadhli Abdul Razak",
+          "role": "leader"
+        },
+        {
+          "name": "Ustaz Hanan Farihin Jasmani",
+          "role": "leader"
+        }
+      ],
+      "languages": [],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://bit.ly/SubuhFunRun3",
+        "deadline_date": null,
+        "instructions": "Scan the QR code or follow the link to register."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "The poster states that registration is free."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The street address for the prayer hall is not provided.",
+          "The event language and audience are not specified."
+        ]
+      },
+      "path": "events/c398cc32-c1aa-436f-91bf-f1a98d4e05ff.json",
+      "matched_occurrences": [
+        {
+          "label": "Qiyamullail & Subuh Fun Run",
+          "date": "2026-09-26",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "04:00",
+            "literal": "4.00AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "08:00",
+            "literal": "8.00AM"
+          }
+        }
+      ]
+    },
+    {
       "id": "dcd01593-2141-44dc-9438-5874e3d9dee1",
       "title": "Harmoni Keluarga: Menyemai Cinta, Menuai Kebahagiaan",
       "description": "Talk on family harmony, balancing affection within the family, and Quranic guidance in raising righteous children.",

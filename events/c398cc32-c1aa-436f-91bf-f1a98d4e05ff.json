@@ -1,0 +1,155 @@
+{
+  "title": "Qiyamullail & Subuh Fun Run",
+  "description": "Morning programme comprising Qiyamullail, Subuh prayer in congregation and a 5km fun run.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "religious programme",
+    "fun run"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 26 September 2026, 4:00 AM to 8:00 AM",
+    "occurrences": [
+      {
+        "label": "Qiyamullail & Subuh Fun Run",
+        "date": "2026-09-26",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "04:00",
+          "literal": "4.00AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "08:00",
+          "literal": "8.00AM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Sultan Prayer Hall, Level 1 & 2",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Zul Fadhli Abdul Razak",
+      "role": "leader"
+    },
+    {
+      "name": "Ustaz Hanan Farihin Jasmani",
+      "role": "leader"
+    }
+  ],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "required",
+    "url": "https://bit.ly/SubuhFunRun3",
+    "deadline_date": null,
+    "instructions": "Scan the QR code or follow the link to register."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "The poster states that registration is free."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988107434463677165",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/mosque_ids",
+        "/schedule",
+        "/location",
+        "/people",
+        "/registration",
+        "/pricing",
+        "/status"
+      ]
+    },
+    {
+      "source_id": "instagram:3988107434463677165",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/registration",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The street address for the prayer hall is not provided.",
+      "The event language and audience are not specified."
+    ]
+  },
+  "notes": "The itinerary includes a 5km fun run through the streets of Kampong Glam, with flag-off at approximately 6:30 AM and return at approximately 7:45 AM.",
+  "extra_data": {
+    "organisers": [
+      "Masjid Sultan",
+      "Geng Malam Jumaat (GMJ)"
+    ],
+    "distance_km": 5,
+    "dress_code": "Proper sports attire",
+    "itinerary": [
+      {
+        "time": "04:00",
+        "activity": "Qiyamullail; Ustaz Muhammad Zul Fadhli & Ustaz Hanan Farihin"
+      },
+      {
+        "time": "05:15",
+        "activity": "AM break"
+      },
+      {
+        "time": "05:36",
+        "activity": "Azan & Subuh Prayer"
+      },
+      {
+        "time": "06:15",
+        "activity": "Subuh Fun Run; dress code: proper sports attire"
+      },
+      {
+        "time": "06:30",
+        "activity": "Flag-off; approximately 5km"
+      },
+      {
+        "time": "07:45",
+        "activity": "Return to Masjid Sultan; distribution of freebies and lucky draw prizes"
+      },
+      {
+        "time": "08:00",
+        "activity": "End of programme"
+      }
+    ],
+    "prizes": "3 lucky draw prizes"
+  },
+  "id": "c398cc32-c1aa-436f-91bf-f1a98d4e05ff",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988107434463677165",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdYmpTtTUrt",
+      "post_id": "3988107434463677165",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-17T10:04:45.000Z",
+      "retrieved_at": "2026-09-21T09:25:24.181Z"
+    }
+  ]
+}
