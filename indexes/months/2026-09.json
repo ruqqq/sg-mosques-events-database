@@ -235,21 +235,21 @@
     },
     {
       "id": "1a14897d-847e-4d65-934e-263361f2c5a2",
-      "title": "Let’s Do Lunch!",
-      "description": null,
+      "title": "Let's Do Lunch!",
+      "description": "Lunch and a closed-door Q&A session with Ustaz Luqman and Ustaz Syafiq.",
       "mosque_ids": [
         "an-nahdhah"
       ],
       "categories": [
+        "community",
         "youth",
-        "meal",
-        "question-and-answer"
+        "Q&A"
       ],
       "status": "scheduled",
       "schedule": {
         "kind": "one_off",
         "timezone": "Asia/Singapore",
-        "text": "Friday, 18 Sept 2026; After Jumaat Prayers!",
+        "text": "Friday, 18 September 2026, after Jumaat prayers",
         "occurrences": [
           {
             "date": "2026-09-18",
@@ -259,7 +259,7 @@
               "prayer": "jumuah",
               "relation": "after",
               "offset_minutes": null,
-              "literal": "After Jumaat Prayers!"
+              "literal": "After Jumaat Prayers"
             },
             "end_time": null
           }
@@ -268,18 +268,18 @@
       },
       "location": {
         "mode": "physical",
-        "name": "MPH Level 3, Masjid An-Nahdhah",
+        "name": "MPH, Level 3, Masjid An-Nahdhah",
         "address": null,
         "online_url": null
       },
       "people": [
         {
           "name": "Ustaz Luqman",
-          "role": "speaker"
+          "role": "host"
         },
         {
           "name": "Ustaz Syafiq",
-          "role": "speaker"
+          "role": "host"
         }
       ],
       "languages": [],
@@ -291,16 +291,19 @@
         "requirement": "not_required",
         "url": null,
         "deadline_date": null,
-        "instructions": "Drop in, as invited by the caption."
+        "instructions": "Just pop in."
       },
       "pricing": {
         "kind": "free",
         "prices": [],
-        "notes": "Caption explicitly says everything is free."
+        "notes": "Everything is free."
       },
       "review": {
         "state": "candidate",
-        "uncertainties": []
+        "uncertainties": [
+          "Exact clock start and end times are not provided.",
+          "Street address is not provided."
+        ]
       },
       "path": "events/1a14897d-847e-4d65-934e-263361f2c5a2.json",
       "matched_occurrences": [
@@ -312,7 +315,7 @@
             "prayer": "jumuah",
             "relation": "after",
             "offset_minutes": null,
-            "literal": "After Jumaat Prayers!"
+            "literal": "After Jumaat Prayers"
           },
           "end_time": null
         }
