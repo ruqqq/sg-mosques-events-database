@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "16235379-c43a-4a7b-9be0-fe458484d738",
+      "title": "Friday Prayers (Solat Jumaat)",
+      "description": "Friday prayers with two sessions: Session 1 in Malay and Session 2 in English.",
+      "mosque_ids": [
+        "assyafaah"
+      ],
+      "categories": [
+        "Friday prayers",
+        "congregational prayer"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "11 September 2026; Session 1 and Session 2",
+        "occurrences": [
+          {
+            "date": "2026-09-11",
+            "end_date": null,
+            "start_time": {
+              "kind": "unspecified",
+              "literal": "Session 1"
+            },
+            "end_time": null
+          },
+          {
+            "date": "2026-09-11",
+            "end_date": null,
+            "start_time": {
+              "kind": "unspecified",
+              "literal": "Session 2"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Assyafaah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Suffiyan",
+          "role": "speaker"
+        },
+        {
+          "name": "Haji Ramlee",
+          "role": "other"
+        },
+        {
+          "name": "Ustaz Mohamed Faiz",
+          "role": "speaker"
+        },
+        {
+          "name": "Saudara Ridhwan",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms",
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Prayer start times and mosque address are not stated."
+        ]
+      },
+      "path": "events/16235379-c43a-4a7b-9be0-fe458484d738.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-11",
+          "end_date": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Session 1"
+          },
+          "end_time": null
+        },
+        {
+          "date": "2026-09-11",
+          "end_date": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Session 2"
+          },
+          "end_time": null
+        }
+      ]
+    }
+  ]
+}
