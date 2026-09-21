@@ -125,3 +125,7 @@ unavailability does not imply cancellation. Git retains prior versions.
 New events and unambiguous updates are published automatically after validation.
 `review.state: candidate` means machine-extracted, not pending a required human
 approval. Ambiguous extractions/conflicts are skipped, retaining existing facts.
+
+Optional event fields may be absent from both canonical records and summaries.
+Consumers should tolerate missing description, categories, people, languages,
+audience, registration and pricing; see the schema for required fields.

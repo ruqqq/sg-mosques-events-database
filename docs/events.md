@@ -1,8 +1,9 @@
 # Event data model, version 1.0
 
 The [JSON Schema](../schemas/event.schema.json) defines one independently identifiable
-event or recurring series. [Records](../events/) contain seven real
-records extracted from Sultan, An-Nahdhah and Al-Firdaus posts. They are initial source-reviewed candidates, not a comprehensive calendar.
+event or recurring series. [Records](../events/) contain source-backed candidates
+from Sultan, An-Nahdhah, Al-Firdaus, Assyafaah and An-Nur. This is not a
+comprehensive calendar.
 
 ## Core fields
 
@@ -86,7 +87,10 @@ A time is `null` or one of:
 `offset_minutes` is nonnegative and interpreted with `before`/`after`/`at`.
 “After Maghrib” has no numeric offset; “30 minutes before Zuhr” has offset 30.
 “Kuliah Subuh” does not say before or after, so it stays unspecified. A separate
-`end_date` handles overnight or multi-day occurrences.
+`end_date` handles overnight or multi-day occurrences. Optional `label` preserves
+explicit session names such as “Session 1” and “Session 2” when both happen on
+the same date but clock times are unknown. Session labels are not clock times.
+Duplicate date/start-time/label combinations are rejected.
 
 ## Evidence and reconciliation
 
@@ -98,12 +102,15 @@ partner-authored post in their discovery results.
 Evidence `supports` values are JSON Pointers such as `/schedule/occurrences/0/date`.
 Locators such as `caption` and `slide:1` identify inspectable source material.
 Source IDs must exist and pointers must resolve. Schema validity checks structure,
-not whether a quoted claim is true; candidate records still need evidence review.
+not whether a quoted claim is true. Candidate records are machine-extracted;
+publication does not imply human verification.
 
 The collection worker maintains event identity separately from post identity.
 Reviewed source links preserve the original event ID and retain all earlier
-source evidence. Conflicting dates, prices and unclear series rules require
-review. Collection outages never delete or cancel a record.
+source evidence. The unattended worker publishes valid new events and unambiguous
+updates automatically. Conflicting or ambiguous changes are skipped, preserving
+existing facts, without a required review queue. Collection outages never delete
+or cancel a record.
 
 ## Run validation
 
@@ -115,8 +122,8 @@ python -m venv .venv
 
 The validator checks JSON Schema, actual calendar dates, IANA timezones, clock
 ordering, duplicate event/source identities, and evidence references. Cancellation
-and completion evidence is structurally required; resolving source truth and
-recurrence ambiguities remains a review responsibility.
+and completion evidence is structurally required. Unresolved recurrence wording
+is retained literally; the validator does not prove real-world source truth.
 
 ## File layout and listings
 

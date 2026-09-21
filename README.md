@@ -21,7 +21,7 @@ canonical records are retained and automatically restored when a source returns.
 null/unknown. Completion requires evidence; age alone is insufficient. Unresolved
 recurrence rules must not be expanded into guessed dates.
 
-Collection, model prompts, review queues, credentials, raw media and runtime state
+Collection, model prompts, diagnostics, credentials, raw media and runtime state
 are maintained separately by a private worker. This repository contains no crawler
 or unattended AI runtime.
 
