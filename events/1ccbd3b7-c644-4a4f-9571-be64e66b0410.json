@@ -1,0 +1,108 @@
+{
+  "title": "Wasiat & Perancangan",
+  "description": "Programme covering Islamic will planning and Advance Care Planning (ACP).",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "wasiat",
+    "advance care planning",
+    "financial planning"
+  ],
+  "status": "completed",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3990433709259192447",
+      "locator": "caption",
+      "quote": "Alhamdulillah, selesai program Wasiat & Perancangan."
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 19 September 2026, 2:30 PM–4:00 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-19",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "14:30",
+          "literal": "2:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:00",
+          "literal": "4:00 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nur",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3990433709259192447",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Ddg3lD8I3h_",
+      "post_id": "3990433709259192447",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-09-20T15:06:29.000Z",
+      "retrieved_at": "2026-09-21T09:06:03.643Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3990433709259192447",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location/name"
+      ]
+    },
+    {
+      "source_id": "instagram:3990433709259192447",
+      "locator": "caption",
+      "supports": [
+        "/status",
+        "/status_evidence/0/quote",
+        "/description"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Exact venue room and address are not specified.",
+      "Registration, pricing, speakers and audience details are not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "1ccbd3b7-c644-4a4f-9571-be64e66b0410",
+  "schema_version": "1.0"
+}

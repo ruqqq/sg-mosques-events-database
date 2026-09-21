@@ -588,6 +588,88 @@
       ]
     },
     {
+      "id": "1ccbd3b7-c644-4a4f-9571-be64e66b0410",
+      "title": "Wasiat & Perancangan",
+      "description": "Programme covering Islamic will planning and Advance Care Planning (ACP).",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "wasiat",
+        "advance care planning",
+        "financial planning"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 19 September 2026, 2:30 PM–4:00 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-19",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "14:30",
+              "literal": "2:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "16:00",
+              "literal": "4:00 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Exact venue room and address are not specified.",
+          "Registration, pricing, speakers and audience details are not stated."
+        ]
+      },
+      "path": "events/1ccbd3b7-c644-4a4f-9571-be64e66b0410.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-19",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "14:30",
+            "literal": "2:30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:00",
+            "literal": "4:00 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
       "title": "132 Langkah Penyucian Jiwa",
       "description": "Kuliah Subuh on the discussion of the book 132 Langkah Penyucian Jiwa.",
