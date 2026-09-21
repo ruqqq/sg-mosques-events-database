@@ -1,0 +1,99 @@
+{
+  "title": "Monday Evening Adhkar",
+  "description": "Weekly evening remembrance programme led by the female religious teachers of Masjid Sultan.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "dhikr",
+    "religious remembrance"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every Monday after Solat ‘Asr",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "MO"
+      ],
+      "rule_text": "Every Monday after Solat ‘Asr",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "prayer_relative",
+        "prayer": "asr",
+        "relation": "after",
+        "offset_minutes": null,
+        "literal": "After Solat ‘Asr"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Sultan Main Prayer Hall",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988052068128727481",
+      "locator": "slide:6",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/status"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster lists a five-week programme but gives no calendar dates."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "weekly_programme": {
+      "week_1": "Al-Wird Al-Latif",
+      "week_2": "Al-Ma’thurat As-Sughra",
+      "week_3": "Selected Supplications from Al-Adhkar by Imam An-Nawawi",
+      "week_4": "Ratib Al-Haddad",
+      "week_5": "Dhikr & Selawat"
+    }
+  },
+  "id": "4e447d5f-dabc-43bd-8909-c0cae30a09b4",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988052068128727481",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdYaDnykyG5",
+      "post_id": "3988052068128727481",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-17T08:14:35.000Z",
+      "retrieved_at": "2026-09-21T09:26:39.697Z"
+    }
+  ]
+}
