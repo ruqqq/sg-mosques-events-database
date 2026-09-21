@@ -2,6 +2,122 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "86733307-a673-4628-a32d-457ca9439e99",
+      "title": "Solat Jumaat: Menangani Bisikan Hati Dengan Keimanan",
+      "description": "Two Friday prayer khutbah sessions.",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "Friday prayer",
+        "Khutbah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 18 September 2026; first session at Waktu Zohor and second session at 2:15 pm",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "zuhr",
+              "relation": "at",
+              "offset_minutes": null,
+              "literal": "Waktu Zohor"
+            },
+            "end_time": null
+          },
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "14:15",
+              "literal": "2:15 ptg"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Umaruddin Zainuddin",
+          "role": "speaker"
+        },
+        {
+          "name": "Hj Qamarul Zaman Hussin",
+          "role": "other"
+        },
+        {
+          "name": "Ustaz Md Ayman Roslee",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Md Syafiq Abd Majeed",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms",
+        "en"
+      ],
+      "audience": [
+        "Jemaah Jumaat"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The exact mosque address and session end times are not provided."
+        ]
+      },
+      "path": "events/86733307-a673-4628-a32d-457ca9439e99.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "zuhr",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Waktu Zohor"
+          },
+          "end_time": null
+        },
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "14:15",
+            "literal": "2:15 ptg"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "1ccbd3b7-c644-4a4f-9571-be64e66b0410",
       "title": "Wasiat & Perancangan",
       "description": "Programme covering Islamic will planning and Advance Care Planning (ACP).",
