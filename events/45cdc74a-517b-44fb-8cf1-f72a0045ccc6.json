@@ -1,0 +1,123 @@
+{
+  "title": "Mengejar Syafaat Nabi SAW",
+  "description": "Kelas Asas Agama about the meaning of syafaat, love for Rasulullah through faith, sunnah and obedience, and practices that open the way to syafaat.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "religious class",
+    "Islamic education"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Isnin, 19 Oktober 2026, 7.30mlm–9.30mlm",
+    "occurrences": [
+      {
+        "date": "2026-10-19",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7.30mlm"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9.30mlm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": "Zoom",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Md Zuhaili Md Yusof",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustaz Md Umaruddin Zainuddin",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslims",
+    "learners seeking Islamic knowledge"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://linktr.ee/annurmosque",
+    "deadline_date": null,
+    "instructions": "Register through linktr.ee/annurmosque."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 20,
+        "currency": "SGD",
+        "label": "course fee"
+      }
+    ],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988704133152675063",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/people",
+        "/location",
+        "/pricing",
+        "/registration"
+      ]
+    },
+    {
+      "source_id": "instagram:3988704133152675063",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/people",
+        "/location",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The direct Zoom meeting URL is not provided."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "45cdc74a-517b-44fb-8cf1-f72a0045ccc6",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988704133152675063",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdauUaqspT3",
+      "post_id": "3988704133152675063",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-09-18T05:50:10.000Z",
+      "retrieved_at": "2026-09-21T09:09:21.737Z"
+    }
+  ]
+}

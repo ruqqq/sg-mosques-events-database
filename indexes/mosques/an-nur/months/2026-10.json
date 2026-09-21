@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "45cdc74a-517b-44fb-8cf1-f72a0045ccc6",
+      "title": "Mengejar Syafaat Nabi SAW",
+      "description": "Kelas Asas Agama about the meaning of syafaat, love for Rasulullah through faith, sunnah and obedience, and practices that open the way to syafaat.",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious class",
+        "Islamic education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Isnin, 19 Oktober 2026, 7.30mlm–9.30mlm",
+        "occurrences": [
+          {
+            "date": "2026-10-19",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7.30mlm"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9.30mlm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": "Zoom",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Zuhaili Md Yusof",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Umaruddin Zainuddin",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslims",
+        "learners seeking Islamic knowledge"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://linktr.ee/annurmosque",
+        "deadline_date": null,
+        "instructions": "Register through linktr.ee/annurmosque."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 20,
+            "currency": "SGD",
+            "label": "course fee"
+          }
+        ],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The direct Zoom meeting URL is not provided."
+        ]
+      },
+      "path": "events/45cdc74a-517b-44fb-8cf1-f72a0045ccc6.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-19",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7.30mlm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9.30mlm"
+          }
+        }
+      ]
+    }
+  ]
+}

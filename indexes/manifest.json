@@ -8,7 +8,7 @@
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
-      "count": 1
+      "count": 2
     }
   },
   "recurring": {
@@ -63,6 +63,10 @@
       "months": {
         "2026-09": {
           "path": "indexes/mosques/an-nur/months/2026-09.json",
+          "count": 1
+        },
+        "2026-10": {
+          "path": "indexes/mosques/an-nur/months/2026-10.json",
           "count": 1
         }
       },
