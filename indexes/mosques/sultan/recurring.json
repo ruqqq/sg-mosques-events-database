@@ -2,6 +2,93 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "54434e38-dc3f-46ef-ad5c-2f1894cd62c1",
+      "title": "Kuliah Pre-Zuhr",
+      "description": "Daily pre-Zuhr religious lecture series.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "lecture",
+        "religious education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Monday through Thursday, 30 minutes before Zuhr",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "TH"
+          ],
+          "rule_text": "Every Monday through Thursday, 30 minutes before Zuhr",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "zuhr",
+            "relation": "before",
+            "offset_minutes": 30,
+            "literal": "30 mins before Zuhr"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Sultan Main Prayer Hall",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Aunurraqif Saimawi",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Dr. Mohammad Rizhan Leman",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Muhammad Khalid Mohd Rafi",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Muhammad Hafizd Abdul Wahab",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms",
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or end date are provided."
+        ]
+      },
+      "path": "events/54434e38-dc3f-46ef-ad5c-2f1894cd62c1.json"
+    },
+    {
       "id": "69329659-b0f0-4302-b193-3efac421dcc8",
       "title": "Kuliah Asr",
       "description": null,
