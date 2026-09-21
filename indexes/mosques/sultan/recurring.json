@@ -90,26 +90,27 @@
     },
     {
       "id": "69329659-b0f0-4302-b193-3efac421dcc8",
-      "title": "Kuliah Asr",
-      "description": null,
+      "title": "Kuliah ‘Asr",
+      "description": "Tafsir lecture after Solat ‘Asr.",
       "mosque_ids": [
         "sultan"
       ],
       "categories": [
-        "class"
+        "lecture",
+        "religious education"
       ],
       "status": "scheduled",
       "schedule": {
         "kind": "recurring",
         "timezone": "Asia/Singapore",
-        "text": "Wednesday, only on the 2nd & 4th Week of the Month; After Solat Asr",
+        "text": "Wednesday, after Solat ‘Asr; only on the 2nd and 4th week of the month",
         "occurrences": [],
         "recurrence": {
           "frequency": "monthly",
           "weekdays": [
             "WE"
           ],
-          "rule_text": "Only on the 2nd & 4th Week of the Month",
+          "rule_text": "On Wednesdays in the 2nd and 4th week of the month, after Solat ‘Asr",
           "starts_on": null,
           "ends_on": null,
           "start_time": {
@@ -117,7 +118,7 @@
             "prayer": "asr",
             "relation": "after",
             "offset_minutes": null,
-            "literal": "After Solat Asr"
+            "literal": "After Solat ‘Asr"
           },
           "end_time": null,
           "excluded_dates": []
@@ -131,8 +132,8 @@
       },
       "people": [
         {
-          "name": "Ustaz Dr. Mohamed Qusairy Thaha",
-          "role": "teacher"
+          "name": "Ustaz Dr. Mohamed Qusayiry Thaha",
+          "role": "speaker"
         }
       ],
       "languages": [
@@ -153,8 +154,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Week-of-month convention not defined; do not assume second/fourth Wednesday.",
-          "No explicit start or end date."
+          "The poster states 2nd and 4th week but does not provide calendar dates."
         ]
       },
       "path": "events/69329659-b0f0-4302-b193-3efac421dcc8.json"
