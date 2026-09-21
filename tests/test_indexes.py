@@ -73,3 +73,22 @@ class IndexTests(unittest.TestCase):
                 self.assertEqual(len(rows), descriptor['count'])
                 for row in rows:
                     self.assertEqual(json.loads((self.root / row['path']).read_text())['id'], row['id'])
+
+    def test_soft_deleted_event_is_retained_but_only_in_tombstones(self):
+        path = self.root/'events/839afd2b-73c4-4124-8a32-9ed71026ec7f.json'
+        event = json.loads(path.read_text())
+        event['deleted_at'] = '2026-09-24T17:00:00+00:00'
+        event['deletion_reason'] = 'all_sources_unavailable'
+        for source in event['sources']:
+            source['availability'] = {'state':'unavailable','since':event['deleted_at'],'reason':'repeated_dead_page'}
+        path.write_text(json.dumps(event))
+        from validate_events import errors
+        self.assertEqual(errors(event), [])
+        output = build(self.root)
+        self.assertTrue(path.exists())
+        self.assertIn(event['id'], [r['id'] for r in self.rows(output,'deleted.json')])
+        for name, payload in output.items():
+            if name not in ('indexes/deleted.json', 'indexes/manifest.json'):
+                self.assertNotIn(event['id'], [r['id'] for r in json.loads(payload)['events']])
+        event['deleted_at'] = None
+        self.assertTrue(errors(event))

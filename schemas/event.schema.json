@@ -13,6 +13,8 @@
     "mosque_ids": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"}},
     "categories": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
     "status": {"enum": ["scheduled", "cancelled", "postponed", "completed", "unknown"]},
+    "deleted_at": {"type": ["string", "null"], "format": "date-time", "description": "Soft deletion timestamp; retained record excluded from listings."},
+    "deletion_reason": {"enum": ["all_sources_unavailable", null]},
     "status_evidence": {"type": "array", "items": {"$ref": "#/$defs/statusEvidence"}},
     "schedule": {"$ref": "#/$defs/schedule"},
     "location": {
@@ -140,6 +142,14 @@
         "url": {"$ref": "#/$defs/url"}, "post_id": {"type": ["string", "null"]},
         "author_handle": {"type": ["string", "null"]}, "author_profile_id": {"type": ["string", "null"]},
         "discovered_via": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/url"}},
+        "availability": {
+          "type": "object", "additionalProperties": false, "required": ["state", "since", "reason"],
+          "properties": {
+            "state": {"enum": ["available", "unavailable"]},
+            "since": {"type": "string", "format": "date-time"},
+            "reason": {"enum": ["retrieved", "repeated_dead_page"]}
+          }
+        },
         "published_at": {"$ref": "#/$defs/nullableTimestamp"}, "retrieved_at": {"type": "string", "format": "date-time"}
       }
     },

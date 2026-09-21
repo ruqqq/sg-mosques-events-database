@@ -14,7 +14,8 @@ Singapore mosque directory or a guarantee that every event is captured.
 Events retain stable IDs across reminders and corrections. Their source post IDs
 are separate. `notes` is free-form text; `extra_data` holds other source-backed
 JSON facts. Prayer-relative times remain literal. Collection outages do not
-cancel or delete known events.
+cancel events. Repeated, explicit source unavailability can soft-delete listings;
+canonical records are retained and automatically restored when a source returns.
 
 `review.state` distinguishes candidates from reviewed records. Unknown facts stay
 null/unknown. Completion requires evidence; age alone is insufficient. Unresolved

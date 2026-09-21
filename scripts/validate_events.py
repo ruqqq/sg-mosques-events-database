@@ -33,6 +33,15 @@ def errors(event):
     issues = [f'{e.json_path}: {e.message}' for e in VALIDATOR.iter_errors(event)]
     if issues:
         return issues
+    unavailable = all(source.get('availability', {}).get('state') == 'unavailable' for source in event['sources'])
+    if bool(event.get('deleted_at')) != unavailable:
+        issues.append('deleted_at must be set exactly when all sources are unavailable')
+    if event.get('deletion_reason') != ('all_sources_unavailable' if unavailable else None):
+        issues.append('deletion_reason must match source availability')
+    for source in event['sources']:
+        availability = source.get('availability')
+        if availability and availability['reason'] != ('repeated_dead_page' if availability['state'] == 'unavailable' else 'retrieved'):
+            issues.append('source availability reason does not match state')
     schedule = event['schedule']
     try:
         ZoneInfo(schedule['timezone'])

@@ -95,3 +95,33 @@ hand. Generation is deterministic and removes obsolete month files; unchanged
 inputs produce unchanged bytes. Validation and CI reject missing, extra or stale
 JSON indexes. The private writer regenerates, validates and commits indexes with
 the reviewed event, restoring both if publication preparation fails.
+
+## Soft deletion and restoration
+
+`indexes/deleted.json` lists tombstones (`id`, canonical `path`, `deleted_at`,
+`reason`), discoverable through `manifest.deleted`. Soft-deleted records remain
+at `events/<id>.json` but are excluded from every month, mosque, recurring and
+undated listing. Direct-record consumers must check `deleted_at`; a missing or
+null value means the record is not soft-deleted. Clients that cache listings
+should reconcile against the current manifest/tombstones, since empty month
+files can disappear.
+
+Each source may carry `availability: {state, since, reason}`. Missing availability
+means no confirmed unavailability, not a guarantee of current reachability.
+The worker marks an Instagram source unavailable after three direct `dead_page`
+results on distinct UTC dates spanning at least 36 hours. A repeated cached
+snapshot counts only once. Transport, rate-limit and ambiguous errors do not
+count; they break an incomplete failure streak. A profile-list omission is not
+negative evidence. An accessible matching public profile is required for the
+scheduled audit. This is an operational unavailability policy, not proof that
+the author deliberately deleted the post.
+
+Only when **all** sources are unavailable does an event receive `deleted_at` and
+`deletion_reason: "all_sources_unavailable"`. One successful direct fetch restores
+its source. Any restored source clears the event's deletion fields and returns it
+to normal listings. IDs, historical facts and event `status` are preserved: source
+unavailability does not imply cancellation. Git retains prior versions.
+
+New events and unambiguous updates are published automatically after validation.
+`review.state: candidate` means machine-extracted, not pending a required human
+approval. Ambiguous extractions/conflicts are skipped, retaining existing facts.

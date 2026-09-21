@@ -70,5 +70,9 @@
         "count": 0
       }
     }
+  },
+  "deleted": {
+    "path": "indexes/deleted.json",
+    "count": 0
   }
 }

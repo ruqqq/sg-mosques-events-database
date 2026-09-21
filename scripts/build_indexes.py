@@ -29,8 +29,13 @@ def build(root=ROOT):
     root = Path(root)
     mosques = {p.stem: json.loads(p.read_text()) for p in sorted((root / 'mosques').glob('*.json'))}
     buckets = defaultdict(list)
+    deleted = []
     for path in sorted((root / 'events').glob('*.json')):
         event = json.loads(path.read_text())
+        if event.get('deleted_at'):
+            deleted.append({'id': event['id'], 'path': path.relative_to(root).as_posix(),
+                            'deleted_at': event['deleted_at'], 'reason': event['deletion_reason']})
+            continue
         summary = {key: event[key] for key in FIELDS}
         summary['path'] = path.relative_to(root).as_posix()
         matched = defaultdict(list)
@@ -65,6 +70,8 @@ def build(root=ROOT):
     manifest = {'schema_version': '1.0', 'timezone': 'Asia/Singapore', **catalog(''), 'mosques': {}}
     for ident, mosque in mosques.items():
         manifest['mosques'][ident] = {'path': f'mosques/{ident}.json', **catalog(f'mosques/{ident}/')}
+    output['indexes/deleted.json'] = encode({'schema_version': '1.0', 'events': sorted(deleted, key=lambda row: row['id'])})
+    manifest['deleted'] = {'path': 'indexes/deleted.json', 'count': len(deleted)}
     output['indexes/manifest.json'] = encode(manifest)
     return output
 

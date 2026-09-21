@@ -122,3 +122,12 @@ recurrence ambiguities remains a review responsibility.
 
 Canonical records use `events/<event-id>.json`. Generated month and mosque
 listings support direct JSON access; see [the access guide](access.md).
+
+## Source availability and soft deletion
+
+Optional `sources[].availability` records operational `available`/`unavailable`
+state, transition time (`since`) and reason (`retrieved`/`repeated_dead_page`).
+Optional `deleted_at` and `deletion_reason` describe an event's reversible soft
+deletion. Validation requires deletion exactly when all source states are
+unavailable. Event `status` remains independent. See [the access guide](access.md#soft-deletion-and-restoration)
+for listing behavior and the automatic failure/restoration policy.
