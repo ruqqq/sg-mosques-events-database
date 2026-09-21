@@ -4,7 +4,7 @@
   "months": {
     "2026-09": {
       "path": "indexes/months/2026-09.json",
-      "count": 7
+      "count": 8
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
@@ -25,7 +25,7 @@
       "months": {
         "2026-09": {
           "path": "indexes/mosques/al-firdaus/months/2026-09.json",
-          "count": 3
+          "count": 4
         }
       },
       "recurring": {

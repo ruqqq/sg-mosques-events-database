@@ -74,6 +74,88 @@
       ]
     },
     {
+      "id": "9539fefb-7b71-42d0-b74d-30de2706096f",
+      "title": "Menangani Bisikan Hati Dengan Keimanan",
+      "description": "Jumuah khutbah in Malay on overcoming whispers of the heart with faith.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "sermon",
+        "jumuah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "18 September 2026; Zuhur 01:00",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "01:00",
+              "literal": "Zuhur 01:00"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": "11 Jalan Ibrahim, Singapore 698955",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhd Amirul Mukminin Bin Mohd Abdul Wahab",
+          "role": "speaker"
+        },
+        {
+          "name": "Hj Sapari Bin Edros",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster displays Zuhur 01:00 without specifying AM or PM; the time is preserved literally.",
+          "The bilal role is represented as other because the contract has no bilal role."
+        ]
+      },
+      "path": "events/9539fefb-7b71-42d0-b74d-30de2706096f.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "01:00",
+            "literal": "Zuhur 01:00"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "ae1e60b6-17c9-4788-a1ac-11c248d22ac9",
       "title": "Solat Jumaat",
       "description": "Friday congregational prayer session led by Ustaz Muhd Amirul Mukminin Bin Mohd Abdul Wahab, with Hj Sapari Bin Edros as bilal.",
