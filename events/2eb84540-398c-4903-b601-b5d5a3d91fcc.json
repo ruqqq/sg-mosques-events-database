@@ -1,0 +1,108 @@
+{
+  "title": "Mass Khatam Al-Quran 2026",
+  "description": "A communal completion of 30 juzuk of the Quran, followed by a lecture.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "Quran",
+    "religious gathering"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sunday, 15 November 2026, 9:30 AM–12:30 PM",
+    "occurrences": [
+      {
+        "date": "2026-11-15",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "09:30",
+          "literal": "9:30 pagi"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:30",
+          "literal": "12:30 tengah hari"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Assyafaah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "required",
+    "url": "https://form.jotform.com/Assyafaah_Mosque/MassKhatam",
+    "deadline_date": null,
+    "instructions": "Individual participants should register and indicate their preferred juzuk; group participation requires a minimum of 7 participants."
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3990310915882983571",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdgbqLskaCT",
+      "post_id": "3990310915882983571",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [],
+      "published_at": "2026-09-20T11:02:31.000Z",
+      "retrieved_at": "2026-09-21T09:13:21.320Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3990310915882983571",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/registration"
+      ]
+    },
+    {
+      "source_id": "instagram:3990310915882983571",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The address of Masjid Assyafaah is not specified."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "programme": {
+      "main_activity_start": "09:30",
+      "lecture_start": "11:15",
+      "lecture_time_literal": "11:15 pagi"
+    },
+    "series_context": "Assyafaah Community Sunnah Festival 2026"
+  },
+  "id": "2eb84540-398c-4903-b601-b5d5a3d91fcc",
+  "schema_version": "1.0"
+}

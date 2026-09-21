@@ -9,6 +9,10 @@
     "2026-10": {
       "path": "indexes/months/2026-10.json",
       "count": 2
+    },
+    "2026-11": {
+      "path": "indexes/months/2026-11.json",
+      "count": 1
     }
   },
   "recurring": {
@@ -81,7 +85,12 @@
     },
     "assyafaah": {
       "path": "mosques/assyafaah.json",
-      "months": {},
+      "months": {
+        "2026-11": {
+          "path": "indexes/mosques/assyafaah/months/2026-11.json",
+          "count": 1
+        }
+      },
       "recurring": {
         "path": "indexes/mosques/assyafaah/recurring.json",
         "count": 0
