@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "id": "al-firdaus",
+  "name": "Al-Firdaus",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://www.masjidalfirdaus.sg/",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "alfirdausmosquesg",
+      "profile_id": "21287478549",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://www.masjidalfirdaus.sg/",
+        "https://www.instagram.com/p/DdQpwjxErfo/"
+      ],
+      "last_verified_at": "2026-09-21T07:26:50.845Z",
+      "notes": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "masjidalfirdausig",
+      "profile_id": null,
+      "role": "primary",
+      "status": "currently_unavailable",
+      "confidence": "historically_confirmed",
+      "evidence": [
+        "https://www.masjidalfirdaus.sg/"
+      ],
+      "last_verified_at": null,
+      "notes": "Still linked by official site, but Bright Data returned dead_page. Rename not proven."
+    }
+  ]
+}

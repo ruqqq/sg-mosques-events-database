@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mosque source registry",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "id", "name", "country", "timezone", "website", "social_sources"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "name": {"type": "string", "minLength": 1},
+    "country": {"const": "SG"},
+    "timezone": {"const": "Asia/Singapore"},
+    "website": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "social_sources": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["platform", "handle", "profile_id", "role", "status", "confidence", "evidence", "last_verified_at", "notes"],
+      "properties": {
+        "platform": {"const": "instagram"},
+        "handle": {"type": "string", "pattern": "^[A-Za-z0-9_.]+$"},
+        "profile_id": {"type": ["string", "null"], "pattern": "^[0-9]+$"},
+        "role": {"enum": ["primary", "youth", "muslimah", "education", "other"]},
+        "status": {"enum": ["confirmed", "probable", "unresolved", "currently_unavailable", "no-current-IG-found"]},
+        "confidence": {"enum": ["high", "medium", "low", "unknown", "historically_confirmed"]},
+        "evidence": {"type": "array", "minItems": 1, "items": {"type": "string", "format": "uri", "pattern": "^https?://"}},
+        "last_verified_at": {"type": ["string", "null"], "format": "date-time"},
+        "notes": {"type": ["string", "null"]}
+      }
+    }}
+  }
+}

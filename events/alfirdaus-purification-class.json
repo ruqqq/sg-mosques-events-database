@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
+  "title": "132 Langkah Penyucian Jiwa",
+  "description": null,
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "class"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Ahad, 20 September 2026; Kuliah Subuh",
+    "occurrences": [
+      {
+        "date": "2026-09-20",
+        "end_date": null,
+        "start_time": {
+          "kind": "unspecified",
+          "literal": "Kuliah Subuh"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat Utama, Masjid Al-Firdaus",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Pasuni Maulan",
+      "role": "teacher"
+    }
+  ],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3988644875251930852",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Ddag2Gcktbk/",
+      "post_id": "3988644875251930852",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [
+        "https://www.instagram.com/alfirdausmosquesg/"
+      ],
+      "published_at": "2026-09-18T03:52:23.000Z",
+      "retrieved_at": "2026-09-21T07:27:24.756Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3988644875251930852",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/extra_data"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Kuliah Subuh does not specify a clock time or an explicit before/after prayer relationship."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "book_title": "132 Langkah Penyucian Jiwa"
+  }
+}

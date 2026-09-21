@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "839afd2b-73c4-4124-8a32-9ed71026ec7f",
+  "title": "Majlis Hadith 40 Imam Nawawi",
+  "description": null,
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "class"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "18 September, 2 & 16 Oktober 2026; Selepas Maghrib hingga sebelum Isyak",
+    "occurrences": [
+      {
+        "date": "2026-09-18",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "Selepas Maghrib"
+        },
+        "end_time": {
+          "kind": "prayer_relative",
+          "prayer": "isha",
+          "relation": "before",
+          "offset_minutes": null,
+          "literal": "sebelum Isyak"
+        }
+      },
+      {
+        "date": "2026-10-02",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "Selepas Maghrib"
+        },
+        "end_time": {
+          "kind": "prayer_relative",
+          "prayer": "isha",
+          "relation": "before",
+          "offset_minutes": null,
+          "literal": "sebelum Isyak"
+        }
+      },
+      {
+        "date": "2026-10-16",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "Selepas Maghrib"
+        },
+        "end_time": {
+          "kind": "prayer_relative",
+          "prayer": "isha",
+          "relation": "before",
+          "offset_minutes": null,
+          "literal": "sebelum Isyak"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3987922715121376184",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdX8pSahVu4/",
+      "post_id": "3987922715121376184",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [
+        "https://www.instagram.com/annahdhah/"
+      ],
+      "published_at": "2026-09-17T03:58:22.000Z",
+      "retrieved_at": "2026-09-21T07:22:21.595Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3987922715121376184",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/extra_data"
+      ]
+    },
+    {
+      "source_id": "instagram:3987922715121376184",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/schedule/occurrences",
+        "/location"
+      ],
+      "note": "Caption explicitly lists the three extension dates; the COMPLETED label on the poster refers to the earlier phase."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Additional earlier dates are shown as ranges; not expanded into assumed occurrences.",
+      "No exact clock times are given."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "schedule_update": "Extended: 18 Sept, 2 & 16 Oktober",
+    "historical_schedule_text": "14 Ogos (1 sesi), marked COMPLETED; 21 Ogos - 11 Sept",
+    "format": "Majlis Syarah Hadith 40",
+    "previous_phase": "Majlis Khatam Hadith 40 bersanad"
+  }
+}

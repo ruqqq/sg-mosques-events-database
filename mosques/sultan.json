@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "id": "sultan",
+  "name": "Sultan",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://www.sultanmosque.sg/",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "masjidsultan",
+      "profile_id": "1593948450",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://www.sultanmosque.sg/",
+        "https://www.instagram.com/p/DdYaDnykyG5/"
+      ],
+      "last_verified_at": "2026-09-21T07:06:00Z",
+      "notes": null
+    }
+  ]
+}
