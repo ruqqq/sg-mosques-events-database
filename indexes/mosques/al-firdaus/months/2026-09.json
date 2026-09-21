@@ -74,6 +74,83 @@
       ]
     },
     {
+      "id": "ae1e60b6-17c9-4788-a1ac-11c248d22ac9",
+      "title": "Solat Jumaat",
+      "description": "Friday congregational prayer session led by Ustaz Muhd Amirul Mukminin Bin Mohd Abdul Wahab, with Hj Sapari Bin Edros as bilal.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "prayer",
+        "Jumuah"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "18 September 2026",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhd Amirul Mukminin Bin Mohd Abdul Wahab",
+          "role": "leader"
+        },
+        {
+          "name": "Hj Sapari Bin Edros",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "audience": [
+        "Muslim worshippers"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The exact prayer start time was not provided.",
+          "The mosque address was not provided."
+        ]
+      },
+      "path": "events/ae1e60b6-17c9-4788-a1ac-11c248d22ac9.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
       "title": "132 Langkah Penyucian Jiwa",
       "description": null,
