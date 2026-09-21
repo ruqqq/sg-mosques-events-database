@@ -66,7 +66,7 @@ def errors(event):
         if start == end and start_time and end_time and start_time['kind'] == end_time['kind'] == 'clock':
             if end_time['local_time'] <= start_time['local_time']:
                 issues.append('schedule: clock end must follow start; supply end_date for overnight events')
-        identity = (occurrence['date'], json.dumps(start_time, sort_keys=True))
+        identity = (occurrence['date'], json.dumps(start_time, sort_keys=True), occurrence.get('label'))
         if identity in seen:
             issues.append('schedule: duplicate occurrence')
         seen.add(identity)

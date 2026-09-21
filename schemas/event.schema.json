@@ -102,6 +102,7 @@
     "occurrence": {
       "type": "object", "additionalProperties": false, "required": ["date", "end_date", "start_time", "end_time"],
       "properties": {
+        "label": {"$ref": "#/$defs/text", "description": "Explicit session name, e.g. Session 1; never an invented time."},
         "date": {"$ref": "#/$defs/date"}, "end_date": {"$ref": "#/$defs/nullableDate"},
         "start_time": {"$ref": "#/$defs/time"}, "end_time": {"$ref": "#/$defs/time"}
       }

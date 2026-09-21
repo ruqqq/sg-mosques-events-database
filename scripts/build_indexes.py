@@ -36,7 +36,7 @@ def build(root=ROOT):
             deleted.append({'id': event['id'], 'path': path.relative_to(root).as_posix(),
                             'deleted_at': event['deleted_at'], 'reason': event['deletion_reason']})
             continue
-        summary = {key: event[key] for key in FIELDS}
+        summary = {key: event[key] for key in FIELDS if key in event}
         summary['path'] = path.relative_to(root).as_posix()
         matched = defaultdict(list)
         for occurrence in event['schedule']['occurrences']:

@@ -22,6 +22,28 @@ class IndexTests(unittest.TestCase):
     def rows(self, output, path):
         return json.loads(output['indexes/' + path])['events']
 
+    def test_optional_fields_and_named_sessions(self):
+        from validate_events import validate
+        path = next((self.root / 'events').glob('*.json'))
+        event = json.loads(path.read_text())
+        for key in ('description', 'categories', 'languages', 'audience'):
+            event.pop(key, None)
+        event['evidence'][0]['supports'] = ['/schedule']
+        event['evidence'] = event['evidence'][:1]
+        event.pop('status_evidence', None)
+        event['status'] = 'scheduled'
+        event['schedule'].update(kind='multi_session', recurrence=None, occurrences=[
+            dict(date='2026-09-18', end_date=None, start_time=None, end_time=None, label=label)
+            for label in ('Session 1', 'Session 2')])
+        validate(event)
+        path.write_text(json.dumps(event))
+        row = next(e for e in self.rows(build(self.root), 'months/2026-09.json') if e['id'] == event['id'])
+        self.assertNotIn('description', row)
+        self.assertEqual([o['label'] for o in row['matched_occurrences']], ['Session 1', 'Session 2'])
+        event['schedule']['occurrences'][1]['label'] = 'Session 1'
+        with self.assertRaisesRegex(ValueError, 'duplicate occurrence'):
+            validate(event)
+
     def test_multisession_and_ambiguous_recurrence(self):
         output = build(self.root)
         ident = '839afd2b-73c4-4124-8a32-9ed71026ec7f'
