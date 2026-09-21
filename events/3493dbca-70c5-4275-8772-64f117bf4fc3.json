@@ -1,0 +1,125 @@
+{
+  "title": "Solat Jumaat",
+  "description": "Jumuah prayer session led by Ustaz Mohd Hidayat Bin Mohd Ismail with Hj Zainor Bin Buang as bilal.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "prayer"
+  ],
+  "status": "completed",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3983690580823796769",
+      "locator": "caption",
+      "quote": "Alhamdulillāh\n\n11 September 2026 | 29 Rabiulawal 1448H\n\nSesi solat Jumaat yang dipimpin oleh Ustaz Mohd Hidayat Bin Mohd Ismail dan bilal Hj Zainor Bin Buang"
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "11 September 2026; Jumuah prayer time",
+    "occurrences": [
+      {
+        "date": "2026-09-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "jumuah",
+          "relation": "at",
+          "offset_minutes": null,
+          "literal": "Solat Jumaat"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Al-Firdaus",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Mohd Hidayat Bin Mohd Ismail",
+      "role": "leader"
+    },
+    {
+      "name": "Hj Zainor Bin Buang",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": "Donation requests in the source are not admission charges."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3983690580823796769",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/mosque_ids",
+        "/status",
+        "/status_evidence/0",
+        "/schedule",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3983690580823796769",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/occurrences/0/date",
+        "/location/name",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3983690580823796769",
+      "locator": "slide:2",
+      "supports": [
+        "/location/name"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The exact prayer start and end times are not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "3493dbca-70c5-4275-8772-64f117bf4fc3",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3983690580823796769",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdI6XoNEmwh",
+      "post_id": "3983690580823796769",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-11T07:49:05.000Z",
+      "retrieved_at": "2026-09-21T08:55:57.134Z"
+    }
+  ]
+}
