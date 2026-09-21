@@ -1,0 +1,99 @@
+{
+  "title": "Harmoni Keluarga: Menyemai Cinta, Menuai Kebahagiaan",
+  "description": "Talk on family harmony, balancing affection within the family, and Quranic guidance in raising righteous children.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "talk",
+    "family"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 26 September 2026, 8:30 PM–10:00 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-26",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "20:30",
+          "literal": "8.30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "22:00",
+          "literal": "10.00 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid Sultan, Aras 1 & 2",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Muzayyanah Abdullah",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimin",
+    "Muslimat",
+    "families"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982956686906052805",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people/0/name",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "dcd01593-2141-44dc-9438-5874e3d9dee1",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982956686906052805",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdGTgEOzVDF",
+      "post_id": "3982956686906052805",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-10T10:00:05.000Z",
+      "retrieved_at": "2026-09-21T09:29:44.080Z"
+    }
+  ]
+}

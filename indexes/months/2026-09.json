@@ -1156,6 +1156,93 @@
           }
         }
       ]
+    },
+    {
+      "id": "dcd01593-2141-44dc-9438-5874e3d9dee1",
+      "title": "Harmoni Keluarga: Menyemai Cinta, Menuai Kebahagiaan",
+      "description": "Talk on family harmony, balancing affection within the family, and Quranic guidance in raising righteous children.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "talk",
+        "family"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 26 September 2026, 8:30 PM–10:00 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-26",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "20:30",
+              "literal": "8.30 malam"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "22:00",
+              "literal": "10.00 malam"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Sultan, Aras 1 & 2",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Muzayyanah Abdullah",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimin",
+        "Muslimat",
+        "families"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/dcd01593-2141-44dc-9438-5874e3d9dee1.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-26",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "20:30",
+            "literal": "8.30 malam"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "22:00",
+            "literal": "10.00 malam"
+          }
+        }
+      ]
     }
   ]
 }
