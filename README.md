@@ -11,6 +11,14 @@ Singapore mosque directory or a guarantee that every event is captured.
 - `docs/events.md`: field semantics, time handling and provenance.
 - `scripts/`: public data validation used by CI and the private worker.
 
+A mosque record carries its identity (`id`, `name`, `country`, `timezone`,
+`website`) and its social sources. It may also carry `musolla_uuid`, the UUID of
+the same mosque in the [musolla database](https://raw.githubusercontent.com/ruqqq/musolla-database/master/data.json)
+that the PrayerTimePro app uses, so consumers can join these events to that
+record's name, address, coordinates and type. The field is optional and absent
+when no matching record is known; it is never a substitute for `id`, which
+remains the identifier used by events and indexes.
+
 Events retain stable IDs across reminders and corrections. Their source post IDs
 are separate. `notes` is free-form text; `extra_data` holds other source-backed
 JSON facts. Prayer-relative times remain literal. Collection outages do not

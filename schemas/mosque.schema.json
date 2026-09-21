@@ -10,6 +10,7 @@
     "country": {"const": "SG"},
     "timezone": {"const": "Asia/Singapore"},
     "website": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "musolla_uuid": {"type": "string", "format": "uuid", "description": "Optional record id of this mosque in the ruqqq/musolla-database dataset (https://raw.githubusercontent.com/ruqqq/musolla-database/master/data.json), as used by the PrayerTimePro app; absent when no matching record is known."},
     "social_sources": {"type": "array", "items": {
       "type": "object", "additionalProperties": false,
       "required": ["platform", "handle", "profile_id", "role", "status", "confidence", "evidence", "last_verified_at", "notes"],
