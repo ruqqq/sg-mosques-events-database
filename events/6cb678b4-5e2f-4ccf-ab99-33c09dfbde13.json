@@ -1,13 +1,12 @@
 {
-  "schema_version": "1.0",
-  "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
   "title": "132 Langkah Penyucian Jiwa",
-  "description": null,
+  "description": "Kuliah Subuh on the discussion of the book 132 Langkah Penyucian Jiwa.",
   "mosque_ids": [
     "al-firdaus"
   ],
   "categories": [
-    "class"
+    "kuliah",
+    "religious lecture"
   ],
   "status": "scheduled",
   "schedule": {
@@ -36,13 +35,15 @@
   "people": [
     {
       "name": "Ustaz Pasuni Maulan",
-      "role": "teacher"
+      "role": "speaker"
     }
   ],
-  "languages": [],
+  "languages": [
+    "ms"
+  ],
   "audience": [],
   "registration": {
-    "requirement": "unknown",
+    "requirement": "not_required",
     "url": null,
     "deadline_date": null,
     "instructions": null
@@ -52,42 +53,41 @@
     "prices": [],
     "notes": null
   },
-  "sources": [
-    {
-      "id": "instagram:3988644875251930852",
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/Ddag2Gcktbk/",
-      "post_id": "3988644875251930852",
-      "author_handle": "alfirdausmosquesg",
-      "author_profile_id": "21287478549",
-      "discovered_via": [
-        "https://www.instagram.com/alfirdausmosquesg/"
-      ],
-      "published_at": "2026-09-18T03:52:23.000Z",
-      "retrieved_at": "2026-09-21T07:27:24.756Z"
-    }
-  ],
   "evidence": [
     {
       "source_id": "instagram:3988644875251930852",
       "locator": "slide:1",
       "supports": [
         "/title",
+        "/description",
         "/schedule",
-        "/location",
-        "/people",
-        "/extra_data"
+        "/location/name",
+        "/people/0/name"
       ]
     }
   ],
   "review": {
     "state": "candidate",
     "uncertainties": [
-      "Kuliah Subuh does not specify a clock time or an explicit before/after prayer relationship."
+      "The exact clock time for Kuliah Subuh is not stated.",
+      "The street address is not stated."
     ]
   },
   "notes": null,
-  "extra_data": {
-    "book_title": "132 Langkah Penyucian Jiwa"
-  }
+  "extra_data": {},
+  "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988644875251930852",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Ddag2Gcktbk",
+      "post_id": "3988644875251930852",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-18T03:52:23.000Z",
+      "retrieved_at": "2026-09-21T08:49:25.007Z"
+    }
+  ]
 }

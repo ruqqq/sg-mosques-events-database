@@ -76,12 +76,13 @@
     {
       "id": "6cb678b4-5e2f-4ccf-ab99-33c09dfbde13",
       "title": "132 Langkah Penyucian Jiwa",
-      "description": null,
+      "description": "Kuliah Subuh on the discussion of the book 132 Langkah Penyucian Jiwa.",
       "mosque_ids": [
         "al-firdaus"
       ],
       "categories": [
-        "class"
+        "kuliah",
+        "religious lecture"
       ],
       "status": "scheduled",
       "schedule": {
@@ -110,13 +111,15 @@
       "people": [
         {
           "name": "Ustaz Pasuni Maulan",
-          "role": "teacher"
+          "role": "speaker"
         }
       ],
-      "languages": [],
+      "languages": [
+        "ms"
+      ],
       "audience": [],
       "registration": {
-        "requirement": "unknown",
+        "requirement": "not_required",
         "url": null,
         "deadline_date": null,
         "instructions": null
@@ -129,7 +132,8 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Kuliah Subuh does not specify a clock time or an explicit before/after prayer relationship."
+          "The exact clock time for Kuliah Subuh is not stated.",
+          "The street address is not stated."
         ]
       },
       "path": "events/6cb678b4-5e2f-4ccf-ab99-33c09dfbde13.json",
