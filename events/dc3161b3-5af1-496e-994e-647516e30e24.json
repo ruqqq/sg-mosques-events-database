@@ -1,0 +1,106 @@
+{
+  "title": "Assyafaah Community Sunnah Festival 2026",
+  "description": "A community festival featuring programmes, activities, community booths, and family-oriented experiences centred on the Sunnah.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "festival",
+    "community",
+    "family"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sunday, 15 November 2026, 8:00 AM–4:00 PM",
+    "occurrences": [
+      {
+        "date": "2026-11-15",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "08:00",
+          "literal": "8:00 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:00",
+          "literal": "4:00 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Assyafaah Mosque",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [
+    "families",
+    "community members"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988861650228714495",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/status"
+      ]
+    },
+    {
+      "source_id": "instagram:3988861650228714495",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Programme details, registration, and pricing were not provided."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "dc3161b3-5af1-496e-994e-647516e30e24",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988861650228714495",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdbSIl4D5v_",
+      "post_id": "3988861650228714495",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [],
+      "published_at": "2026-09-18T11:03:05.000Z",
+      "retrieved_at": "2026-09-21T09:14:55.358Z"
+    }
+  ]
+}
