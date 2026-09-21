@@ -1,0 +1,116 @@
+{
+  "title": "Solat Jumaat",
+  "description": "Friday prayers with two advertised sessions.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "prayer"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Friday prayers on 4 September 2026: Session 1 and Session 2.",
+    "occurrences": [
+      {
+        "date": "2026-09-04",
+        "end_date": null,
+        "start_time": {
+          "kind": "unspecified",
+          "literal": "Friday prayer session 1"
+        },
+        "end_time": null
+      },
+      {
+        "date": "2026-09-04",
+        "end_date": null,
+        "start_time": {
+          "kind": "unspecified",
+          "literal": "Friday prayer session 2"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Assyafaah Mosque",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Amirul Fahmi",
+      "role": "speaker"
+    },
+    {
+      "name": "Haji Arifin",
+      "role": "other"
+    },
+    {
+      "name": "Ustaz Ahmad Helmi",
+      "role": "speaker"
+    },
+    {
+      "name": "Haji Rosli",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "ms",
+    "en"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3977873851586110709",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0PzE9GuT1",
+      "post_id": "3977873851586110709",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [],
+      "published_at": "2026-09-03T07:12:17.000Z",
+      "retrieved_at": "2026-09-21T09:19:48.038Z"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3977873851586110709",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/mosque_ids",
+        "/status",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Exact prayer times and the distinction between the two advertised sessions are not stated.",
+      "The poster does not provide a street address."
+    ]
+  },
+  "notes": "The associated second slide contains a general Friday donation appeal; no separate fundraising event was extracted.",
+  "extra_data": {},
+  "id": "5e06d40b-758b-45bd-a5de-5861d76d51cc",
+  "schema_version": "1.0"
+}
