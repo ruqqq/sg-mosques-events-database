@@ -117,3 +117,8 @@ The validator checks JSON Schema, actual calendar dates, IANA timezones, clock
 ordering, duplicate event/source identities, and evidence references. Cancellation
 and completion evidence is structurally required; resolving source truth and
 recurrence ambiguities remains a review responsibility.
+
+## File layout and listings
+
+Canonical records use `events/<event-id>.json`. Generated month and mosque
+listings support direct JSON access; see [the access guide](access.md).

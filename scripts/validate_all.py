@@ -4,6 +4,7 @@ from pathlib import Path
 import sys
 from jsonschema import Draft202012Validator, FormatChecker
 from validate_events import main as validate_events
+from build_indexes import sync
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -24,10 +25,14 @@ def main():
     paths = sorted((ROOT / 'events').glob('*.json'))
     for path in paths:
         event = json.loads(path.read_text())
+        if path.stem != event['id']:
+            raise ValueError(f'Event filename must match its stable ID: {path.name}')
         if set(event['mosque_ids']) - known:
             raise ValueError(f'Unknown mosque reference: {path.name}')
     result = validate_events(paths)
-    print(f'Validated {len(known)} mosque records')
+    if result == 0:
+        sync(ROOT, check=True)
+    print(f'Validated {len(known)} mosque records and generated indexes')
     return result
 
 

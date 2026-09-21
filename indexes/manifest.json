@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "timezone": "Asia/Singapore",
+  "months": {
+    "2026-09": {
+      "path": "indexes/months/2026-09.json",
+      "count": 6
+    },
+    "2026-10": {
+      "path": "indexes/months/2026-10.json",
+      "count": 1
+    }
+  },
+  "recurring": {
+    "path": "indexes/recurring.json",
+    "count": 1
+  },
+  "undated": {
+    "path": "indexes/undated.json",
+    "count": 0
+  },
+  "mosques": {
+    "al-firdaus": {
+      "path": "mosques/al-firdaus.json",
+      "months": {
+        "2026-09": {
+          "path": "indexes/mosques/al-firdaus/months/2026-09.json",
+          "count": 2
+        }
+      },
+      "recurring": {
+        "path": "indexes/mosques/al-firdaus/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/al-firdaus/undated.json",
+        "count": 0
+      }
+    },
+    "an-nahdhah": {
+      "path": "mosques/an-nahdhah.json",
+      "months": {
+        "2026-09": {
+          "path": "indexes/mosques/an-nahdhah/months/2026-09.json",
+          "count": 4
+        },
+        "2026-10": {
+          "path": "indexes/mosques/an-nahdhah/months/2026-10.json",
+          "count": 1
+        }
+      },
+      "recurring": {
+        "path": "indexes/mosques/an-nahdhah/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/an-nahdhah/undated.json",
+        "count": 0
+      }
+    },
+    "sultan": {
+      "path": "mosques/sultan.json",
+      "months": {},
+      "recurring": {
+        "path": "indexes/mosques/sultan/recurring.json",
+        "count": 1
+      },
+      "undated": {
+        "path": "indexes/mosques/sultan/undated.json",
+        "count": 0
+      }
+    }
+  }
+}

@@ -5,7 +5,8 @@ This pilot covers **Sultan, An-Nahdhah and Al-Firdaus**. It is not a complete
 Singapore mosque directory or a guarantee that every event is captured.
 
 - `mosques/`: mosque identities and multiple social sources with confidence/evidence.
-- `events/`: seven initial source-reviewed candidate events/series, including historical events.
+- `events/<event-id>.json`: seven canonical candidate events/series at stable UUID paths.
+- `indexes/`: generated listings by month and mosque, plus recurring and undated events.
 - `schemas/`: versioned JSON Schema contracts.
 - `docs/events.md`: field semantics, time handling and provenance.
 - `scripts/`: public data validation used by CI and the private worker.
@@ -22,6 +23,13 @@ recurrence rules must not be expanded into guessed dates.
 Collection, model prompts, review queues, credentials, raw media and runtime state
 are maintained separately by a private worker. This repository contains no crawler
 or unattended AI runtime.
+
+## Fetch directly
+
+Start with [indexes/manifest.json](indexes/manifest.json) to discover available
+months and mosque listings. Each listing contains display-ready summaries and
+paths to full event records. See [the JSON access guide](docs/access.md) for fetch
+examples, recurrence handling and consistent reads across files.
 
 ## Validate
 
