@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "title": "S.O.U.L — Sisters Qiyam Night",
+  "description": "Overnight sisters' worship programme (Spirituality, Opportunity, Unity, Lillaah) with Quran Hour, a sisters' forum, Qiyam, Zikir and Selawat, running from Saturday 26 September evening to Sunday 27 September morning.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "qiyam",
+    "sisters",
+    "religious-programme"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "26–27 September 2026 (Overnight); Saturday, 26 Sep from 3:30 PM, Sunday, 27 Sep from 4:00 AM",
+    "occurrences": [
+      {
+        "label": "Saturday, 26 Sep",
+        "date": "2026-09-26",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "15:30",
+          "literal": "3:30 PM Registration"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Sunday, 27 Sep",
+        "date": "2026-09-27",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "04:00",
+          "literal": "4:00 AM Qiyam & Subuh"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Auditorium, Level 3, Masjid Al-Islah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Syariati",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Bushra",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Radhiah",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Nadya",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Sabrina",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Qadariah",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Noorlelah",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Aidah",
+      "role": "speaker"
+    },
+    {
+      "name": "Sister Syasya",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Sisters aged 16 and above"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://bit.ly/aimsoulsistersqiyam26",
+    "deadline_date": null,
+    "instructions": "Register at bit.ly/aimsoulsistersqiyam26 or scan the QR code on the poster."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 15,
+        "currency": "SGD",
+        "label": "Commitment fee"
+      }
+    ],
+    "notes": "$15 commitment fee."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3983017501658736244",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/audience",
+        "/registration",
+        "/pricing"
+      ]
+    },
+    {
+      "source_id": "instagram:3983017501658736244",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/people",
+        "/schedule/occurrences",
+        "/extra_data/programme",
+        "/pricing",
+        "/location"
+      ]
+    },
+    {
+      "source_id": "instagram:3983017501658736244",
+      "locator": "slide:2",
+      "supports": [
+        "/extra_data/segments",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3983017501658736244",
+      "locator": "slide:3",
+      "supports": [
+        "/extra_data/segments",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3983017501658736244",
+      "locator": "slide:4",
+      "supports": [
+        "/extra_data/segments",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Poster slides list segment blocks (Quran Hour, Small Steps Big Changes sisters' forum, Zikir & Selawat) within the same overnight programme; treated as parts of one event rather than separate events.",
+      "No explicit programme end time is given; the last listed item is 9:45 AM Photo Session, so no end_time is encoded.",
+      "Language of delivery is not stated; English is inferred from the poster wording only.",
+      "Programme prayer items (Asar, Maghrib, Isya', Subuh) are listed as programme blocks, not as event start times."
+    ]
+  },
+  "notes": "Overnight sisters' Qiyam programme at Masjid Al-Islah, from Saturday 26 Sep 2026 3:30 PM to Sunday 27 Sep 2026 morning. Includes Quran Hour, a sisters' forum titled 'Small Steps Big Changes — Nurturing a Consistent Qiyam Habit', Qiyam, Zikir and Selawat, with invited ustazahs.",
+  "extra_data": {
+    "programme": [
+      {
+        "label": "Saturday, 26 Sep",
+        "items": [
+          {
+            "time": "3:30 PM",
+            "activity": "Registration"
+          },
+          {
+            "time": "4:00 PM",
+            "activity": "Asar Prayer"
+          },
+          {
+            "time": "5:00 PM",
+            "activity": "Quran Hour"
+          },
+          {
+            "time": "7:00 PM",
+            "activity": "Maghrib & Dinner"
+          },
+          {
+            "time": "8:30 PM",
+            "activity": "Isya' & Forum"
+          }
+        ]
+      },
+      {
+        "label": "Sunday, 27 Sep",
+        "items": [
+          {
+            "time": "4:00 AM",
+            "activity": "Qiyam & Subuh"
+          },
+          {
+            "time": "6:30 AM",
+            "activity": "Zikir & Selawat"
+          },
+          {
+            "time": "7:30 AM",
+            "activity": "Tazkirah"
+          },
+          {
+            "time": "8:00 AM",
+            "activity": "Breakfast"
+          },
+          {
+            "time": "8:45 AM",
+            "activity": "Light Work Out"
+          },
+          {
+            "time": "9:45 AM",
+            "activity": "Photo Session"
+          }
+        ]
+      }
+    ],
+    "segments": [
+      "Quran Hour",
+      "Small Steps Big Changes — A Sisters' Forum: Nurturing a Consistent Qiyam Habit",
+      "Zikir & Selawat"
+    ],
+    "programme_name_full": "S.O.U.L — Spirituality, Opportunity, Unity, Lillaah",
+    "hashtags": [
+      "MasjidAlIslah",
+      "Sisters",
+      "Qiyamullail"
+    ]
+  },
+  "id": "a4e09e93-f5b4-4b9e-bffd-e0a6d463e80e",
+  "sources": [
+    {
+      "id": "instagram:3983017501658736244",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdGhVCYiGZ0/",
+      "post_id": "3983017501658736244",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [
+        "https://www.instagram.com/alislahmosque/"
+      ],
+      "published_at": "2026-09-10T09:32:24.000Z",
+      "retrieved_at": "2026-09-22T07:03:28.049Z",
+      "caption": "🌙 S.O.U.L — Sisters Qiyam Night\n\nStep away from the noise and spend a night in worship, reflection and sisterhood at our Sisters Qiyam Night.\n\nFrom Quran Hour and an inspiring sisters’ forum to Qiyam, Zikir and Selawat, let’s gather to strengthen our connection with Allah s.w.t.\n\n🗓 26–27 September 2026 (Overnight)\n📍 Auditorium, Level 3, Masjid Al-Islah \n💳 $15 commitment fee \n🧕🏽 Open to all sisters aged 16 & above\n\nSwipe left for the programme details and register at bit.ly/aimsoulsistersqiyam26 or scan the QR code.\n\n#MasjidAlIslah #Sisters #Qiyamullail",
+      "links": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSebsNU18zb2cFCxjCQZsD5Ek-MrZrcIZLN1Si7bq1DWF1SFoA/viewform",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

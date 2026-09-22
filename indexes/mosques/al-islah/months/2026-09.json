@@ -121,6 +121,151 @@
           }
         }
       ]
+    },
+    {
+      "id": "a4e09e93-f5b4-4b9e-bffd-e0a6d463e80e",
+      "title": "S.O.U.L — Sisters Qiyam Night",
+      "description": "Overnight sisters' worship programme (Spirituality, Opportunity, Unity, Lillaah) with Quran Hour, a sisters' forum, Qiyam, Zikir and Selawat, running from Saturday 26 September evening to Sunday 27 September morning.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "qiyam",
+        "sisters",
+        "religious-programme"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "26–27 September 2026 (Overnight); Saturday, 26 Sep from 3:30 PM, Sunday, 27 Sep from 4:00 AM",
+        "occurrences": [
+          {
+            "label": "Saturday, 26 Sep",
+            "date": "2026-09-26",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "15:30",
+              "literal": "3:30 PM Registration"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Sunday, 27 Sep",
+            "date": "2026-09-27",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "04:00",
+              "literal": "4:00 AM Qiyam & Subuh"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Auditorium, Level 3, Masjid Al-Islah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Syariati",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Bushra",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Radhiah",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Nadya",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Sabrina",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Qadariah",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Noorlelah",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Aidah",
+          "role": "speaker"
+        },
+        {
+          "name": "Sister Syasya",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Sisters aged 16 and above"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://bit.ly/aimsoulsistersqiyam26",
+        "deadline_date": null,
+        "instructions": "Register at bit.ly/aimsoulsistersqiyam26 or scan the QR code on the poster."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 15,
+            "currency": "SGD",
+            "label": "Commitment fee"
+          }
+        ],
+        "notes": "$15 commitment fee."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Poster slides list segment blocks (Quran Hour, Small Steps Big Changes sisters' forum, Zikir & Selawat) within the same overnight programme; treated as parts of one event rather than separate events.",
+          "No explicit programme end time is given; the last listed item is 9:45 AM Photo Session, so no end_time is encoded.",
+          "Language of delivery is not stated; English is inferred from the poster wording only.",
+          "Programme prayer items (Asar, Maghrib, Isya', Subuh) are listed as programme blocks, not as event start times."
+        ]
+      },
+      "path": "events/a4e09e93-f5b4-4b9e-bffd-e0a6d463e80e.json",
+      "matched_occurrences": [
+        {
+          "label": "Saturday, 26 Sep",
+          "date": "2026-09-26",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "15:30",
+            "literal": "3:30 PM Registration"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Sunday, 27 Sep",
+          "date": "2026-09-27",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "04:00",
+            "literal": "4:00 AM Qiyam & Subuh"
+          },
+          "end_time": null
+        }
+      ]
     }
   ]
 }
