@@ -687,6 +687,149 @@
       ]
     },
     {
+      "id": "c9a3a754-6971-4641-b1c3-3f5e0c0d57c9",
+      "title": "Signs of Hope: Surah Ad-Duha [Learning Quran for the Deaf]",
+      "description": "English Quran-learning programme for the Deaf.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "quran",
+        "accessibility",
+        "class"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Sundays, 13, 20 and 27 September 2026, 11:00 AM–1:00 PM",
+        "occurrences": [
+          {
+            "label": "Session 1",
+            "date": "2026-09-13",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "11:00",
+              "literal": "11:00 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1:00 PM"
+            }
+          },
+          {
+            "label": "Session 2",
+            "date": "2026-09-20",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "11:00",
+              "literal": "11:00 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1:00 PM"
+            }
+          },
+          {
+            "label": "Session 3",
+            "date": "2026-09-27",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "11:00",
+              "literal": "11:00 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1:00 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Classroom 2B, Level 3, Annexe Building",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Deaf participants"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/c9a3a754-6971-4641-b1c3-3f5e0c0d57c9.json",
+      "matched_occurrences": [
+        {
+          "label": "Session 1",
+          "date": "2026-09-13",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "11:00",
+            "literal": "11:00 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1:00 PM"
+          }
+        },
+        {
+          "label": "Session 2",
+          "date": "2026-09-20",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "11:00",
+            "literal": "11:00 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1:00 PM"
+          }
+        },
+        {
+          "label": "Session 3",
+          "date": "2026-09-27",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "11:00",
+            "literal": "11:00 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1:00 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "7dfb170f-c775-4a44-bbd4-284e8c45ebef",
       "title": "Basic ‘Umrah Guide",
       "description": "A bilingual session covering the meaning and virtues of ‘Umrah, conditions, pillars and obligations, prohibitions during Ihram, and a step-by-step guide to performing ‘Umrah.",
