@@ -85,12 +85,13 @@ A time is `null` or one of:
 ```
 
 ```json
-{"kind": "unspecified", "literal": "Kuliah Subuh"}
+{"kind": "prayer_relative", "prayer": "subuh", "relation": "at", "offset_minutes": null, "literal": "Kuliah Subuh"}
 ```
 
 `offset_minutes` is nonnegative and interpreted with `before`/`after`/`at`.
 “After Maghrib” has no numeric offset; “30 minutes before Zuhr” has offset 30.
-“Kuliah Subuh” does not say before or after, so it stays unspecified. A separate
+A named Kuliah prayer establishes the prayer it is timed for, so “Kuliah Subuh” is
+recorded as `at` Subuh without inventing a clock time. A separate
 `end_date` handles overnight or multi-day occurrences. Optional `label` preserves
 explicit session names such as “Session 1” and “Session 2” when both happen on
 the same date but clock times are unknown. Session labels are not clock times.

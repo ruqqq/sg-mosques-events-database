@@ -11,7 +11,7 @@
   "schedule": {
     "kind": "recurring",
     "timezone": "Asia/Singapore",
-    "text": "Every Monday to Thursday; time not specified",
+    "text": "Every Monday to Thursday; at Zohor",
     "occurrences": [],
     "recurrence": {
       "frequency": "weekly",
@@ -25,8 +25,11 @@
       "starts_on": null,
       "ends_on": null,
       "start_time": {
-        "kind": "unspecified",
-        "literal": "Time not stated"
+        "kind": "prayer_relative",
+        "prayer": "zuhr",
+        "relation": "at",
+        "offset_minutes": null,
+        "literal": "Kuliah Zohor"
       },
       "end_time": null,
       "excluded_dates": []
@@ -86,7 +89,7 @@
   "review": {
     "state": "candidate",
     "uncertainties": [
-      "Clock time is not provided."
+      "The series is timed for Zohor; no clock time or before/after offset is provided."
     ]
   },
   "notes": null,

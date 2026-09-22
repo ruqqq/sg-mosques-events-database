@@ -11,7 +11,7 @@
   "schedule": {
     "kind": "recurring",
     "timezone": "Asia/Singapore",
-    "text": "Every Wednesday; time not specified",
+    "text": "Every Wednesday; at Isyak",
     "occurrences": [],
     "recurrence": {
       "frequency": "weekly",
@@ -22,8 +22,11 @@
       "starts_on": null,
       "ends_on": null,
       "start_time": {
-        "kind": "unspecified",
-        "literal": "Time not stated"
+        "kind": "prayer_relative",
+        "prayer": "isha",
+        "relation": "at",
+        "offset_minutes": null,
+        "literal": "Kuliah Isyak"
       },
       "end_time": null,
       "excluded_dates": []
@@ -71,7 +74,7 @@
   "review": {
     "state": "candidate",
     "uncertainties": [
-      "Clock time is not provided."
+      "The series is timed for Isyak; no clock time or before/after offset is provided."
     ]
   },
   "notes": null,

@@ -570,7 +570,7 @@
       "schedule": {
         "kind": "recurring",
         "timezone": "Asia/Singapore",
-        "text": "Every Monday, Tuesday, Wednesday, Friday, Saturday and Sunday; time not specified",
+        "text": "Every Monday, Tuesday, Wednesday, Friday, Saturday and Sunday; at Maghrib",
         "occurrences": [],
         "recurrence": {
           "frequency": "weekly",
@@ -586,8 +586,11 @@
           "starts_on": null,
           "ends_on": null,
           "start_time": {
-            "kind": "unspecified",
-            "literal": "Time not stated"
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Kuliah Maghrib"
           },
           "end_time": null,
           "excluded_dates": []
@@ -643,7 +646,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Clock time is not provided."
+          "The series is timed for Maghrib; no clock time or before/after offset is provided."
         ]
       },
       "path": "events/5613d1a4-7674-4e89-8aab-573643899efe.json"
@@ -965,7 +968,7 @@
       "schedule": {
         "kind": "recurring",
         "timezone": "Asia/Singapore",
-        "text": "Every Wednesday; time not specified",
+        "text": "Every Wednesday; at Isyak",
         "occurrences": [],
         "recurrence": {
           "frequency": "weekly",
@@ -976,8 +979,11 @@
           "starts_on": null,
           "ends_on": null,
           "start_time": {
-            "kind": "unspecified",
-            "literal": "Time not stated"
+            "kind": "prayer_relative",
+            "prayer": "isha",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Kuliah Isyak"
           },
           "end_time": null,
           "excluded_dates": []
@@ -1013,7 +1019,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Clock time is not provided."
+          "The series is timed for Isyak; no clock time or before/after offset is provided."
         ]
       },
       "path": "events/a4c45dcd-91ad-4136-ad0c-974e1496a886.json"
@@ -1387,7 +1393,7 @@
       "schedule": {
         "kind": "recurring",
         "timezone": "Asia/Singapore",
-        "text": "Every Monday to Thursday; time not specified",
+        "text": "Every Monday to Thursday; at Zohor",
         "occurrences": [],
         "recurrence": {
           "frequency": "weekly",
@@ -1401,8 +1407,11 @@
           "starts_on": null,
           "ends_on": null,
           "start_time": {
-            "kind": "unspecified",
-            "literal": "Time not stated"
+            "kind": "prayer_relative",
+            "prayer": "zuhr",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Kuliah Zohor"
           },
           "end_time": null,
           "excluded_dates": []
@@ -1450,7 +1459,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Clock time is not provided."
+          "The series is timed for Zohor; no clock time or before/after offset is provided."
         ]
       },
       "path": "events/f7ac4d6b-1f19-4545-be6e-6083d8e34b6a.json"

@@ -19,7 +19,10 @@
         "date": "2026-09-13",
         "end_date": null,
         "start_time": {
-          "kind": "unspecified",
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "at",
+          "offset_minutes": null,
           "literal": "Kuliah Subuh"
         },
         "end_time": null
@@ -71,7 +74,7 @@
   "review": {
     "state": "candidate",
     "uncertainties": [
-      "Exact start and end times are not stated.",
+      "The event is timed for Subuh; its clock time, before/after offset and end time are not stated.",
       "Full physical address is not stated."
     ]
   },

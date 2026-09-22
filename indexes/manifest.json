@@ -8,11 +8,11 @@
     },
     "2026-08": {
       "path": "indexes/months/2026-08.json",
-      "count": 11
+      "count": 7
     },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
-      "count": 41
+      "count": 34
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
@@ -37,11 +37,11 @@
       "months": {
         "2026-08": {
           "path": "indexes/mosques/al-firdaus/months/2026-08.json",
-          "count": 3
+          "count": 1
         },
         "2026-09": {
           "path": "indexes/mosques/al-firdaus/months/2026-09.json",
-          "count": 12
+          "count": 9
         }
       },
       "recurring": {
@@ -58,11 +58,11 @@
       "months": {
         "2026-08": {
           "path": "indexes/mosques/an-nahdhah/months/2026-08.json",
-          "count": 2
+          "count": 1
         },
         "2026-09": {
           "path": "indexes/mosques/an-nahdhah/months/2026-09.json",
-          "count": 8
+          "count": 7
         },
         "2026-10": {
           "path": "indexes/mosques/an-nahdhah/months/2026-10.json",
@@ -91,7 +91,7 @@
         },
         "2026-09": {
           "path": "indexes/mosques/an-nur/months/2026-09.json",
-          "count": 6
+          "count": 5
         },
         "2026-10": {
           "path": "indexes/mosques/an-nur/months/2026-10.json",
@@ -112,11 +112,11 @@
       "months": {
         "2026-08": {
           "path": "indexes/mosques/assyafaah/months/2026-08.json",
-          "count": 5
+          "count": 4
         },
         "2026-09": {
           "path": "indexes/mosques/assyafaah/months/2026-09.json",
-          "count": 3
+          "count": 1
         },
         "2026-11": {
           "path": "indexes/mosques/assyafaah/months/2026-11.json",

@@ -2,230 +2,6 @@
   "schema_version": "1.0",
   "events": [
     {
-      "id": "2f24f4ff-d9b6-4c73-9948-ad252c6c42f4",
-      "title": "Khatib Jumaat - September 2026",
-      "description": "Friday khutbah sessions at Masjid Al-Firdaus.",
-      "mosque_ids": [
-        "al-firdaus"
-      ],
-      "categories": [
-        "Jumuah",
-        "Khutbah"
-      ],
-      "status": "scheduled",
-      "schedule": {
-        "kind": "multi_session",
-        "timezone": "Asia/Singapore",
-        "text": "4, 11, 18 and 25 September 2026",
-        "occurrences": [
-          {
-            "label": "04 Sept",
-            "date": "2026-09-04",
-            "end_date": null,
-            "start_time": null,
-            "end_time": null
-          },
-          {
-            "label": "11 Sept",
-            "date": "2026-09-11",
-            "end_date": null,
-            "start_time": null,
-            "end_time": null
-          },
-          {
-            "label": "18 Sept",
-            "date": "2026-09-18",
-            "end_date": null,
-            "start_time": null,
-            "end_time": null
-          },
-          {
-            "label": "25 Sept",
-            "date": "2026-09-25",
-            "end_date": null,
-            "start_time": null,
-            "end_time": null
-          }
-        ],
-        "recurrence": null
-      },
-      "location": {
-        "mode": "physical",
-        "name": "Masjid Al-Firdaus",
-        "address": null,
-        "online_url": null
-      },
-      "people": [
-        {
-          "name": "Ustaz Razul Elias",
-          "role": "speaker"
-        },
-        {
-          "name": "Ustaz Hidayat Ismail",
-          "role": "speaker"
-        },
-        {
-          "name": "Ustaz Amirul Mukminin",
-          "role": "speaker"
-        },
-        {
-          "name": "Haji Aris Hj Amin",
-          "role": "other"
-        },
-        {
-          "name": "Haji Zour Boong",
-          "role": "other"
-        },
-        {
-          "name": "Haji Sapar Edros",
-          "role": "other"
-        },
-        {
-          "name": "Ustaz Razul Elias",
-          "role": "speaker"
-        },
-        {
-          "name": "Haji Hassan Adam Shah",
-          "role": "other"
-        }
-      ],
-      "languages": [],
-      "audience": [],
-      "registration": {
-        "requirement": "not_required",
-        "url": null,
-        "deadline_date": null,
-        "instructions": null
-      },
-      "pricing": {
-        "kind": "unknown",
-        "prices": [],
-        "notes": null
-      },
-      "review": {
-        "state": "candidate",
-        "uncertainties": [
-          "Session start and end times are not stated.",
-          "The address is not stated.",
-          "The 11 September khutbah is explicitly in English; languages for the other sessions are not stated."
-        ]
-      },
-      "path": "events/2f24f4ff-d9b6-4c73-9948-ad252c6c42f4.json",
-      "matched_occurrences": [
-        {
-          "label": "04 Sept",
-          "date": "2026-09-04",
-          "end_date": null,
-          "start_time": null,
-          "end_time": null
-        },
-        {
-          "label": "11 Sept",
-          "date": "2026-09-11",
-          "end_date": null,
-          "start_time": null,
-          "end_time": null
-        },
-        {
-          "label": "18 Sept",
-          "date": "2026-09-18",
-          "end_date": null,
-          "start_time": null,
-          "end_time": null
-        },
-        {
-          "label": "25 Sept",
-          "date": "2026-09-25",
-          "end_date": null,
-          "start_time": null,
-          "end_time": null
-        }
-      ]
-    },
-    {
-      "id": "5e82b66e-ab89-4a1c-9746-06cf59a0c6cd",
-      "title": "Hadyun Nabawi: Menyemai Minda Kritis, Memupuk Hikmah",
-      "description": "Friday sermon in Malay.",
-      "mosque_ids": [
-        "al-firdaus"
-      ],
-      "categories": [
-        "Jumuah",
-        "sermon"
-      ],
-      "status": "scheduled",
-      "schedule": {
-        "kind": "one_off",
-        "timezone": "Asia/Singapore",
-        "text": "4 September 2026 at Zuhur 01:05",
-        "occurrences": [
-          {
-            "label": "Friday sermon",
-            "date": "2026-09-04",
-            "end_date": null,
-            "start_time": {
-              "kind": "clock",
-              "local_time": "01:05",
-              "literal": "Zuhur 01:05"
-            },
-            "end_time": null
-          }
-        ],
-        "recurrence": null
-      },
-      "location": {
-        "mode": "physical",
-        "name": "Masjid Al-Firdaus",
-        "address": null,
-        "online_url": null
-      },
-      "people": [
-        {
-          "name": "Ustaz Mohd Rasul Bin Elias",
-          "role": "speaker"
-        },
-        {
-          "name": "Hj Aris Bin Hj Amin",
-          "role": "other"
-        }
-      ],
-      "languages": [
-        "ms"
-      ],
-      "audience": [],
-      "registration": {
-        "requirement": "not_required",
-        "url": null,
-        "deadline_date": null,
-        "instructions": null
-      },
-      "pricing": {
-        "kind": "unknown",
-        "prices": [],
-        "notes": null
-      },
-      "review": {
-        "state": "candidate",
-        "uncertainties": [
-          "The poster displays the time as 01:05 without an AM/PM designation."
-        ]
-      },
-      "path": "events/5e82b66e-ab89-4a1c-9746-06cf59a0c6cd.json",
-      "matched_occurrences": [
-        {
-          "label": "Friday sermon",
-          "date": "2026-09-04",
-          "end_date": null,
-          "start_time": {
-            "kind": "clock",
-            "local_time": "01:05",
-            "literal": "Zuhur 01:05"
-          },
-          "end_time": null
-        }
-      ]
-    },
-    {
       "id": "85d8624b-9a19-45c7-b9bb-e08d6290e952",
       "title": "Kuliah Maghrib: Pesanan Rasulullah SAW Untuk Penghidupan Akhirat Yang Bahagia",
       "description": "Kuliah Maghrib khas Rabiulawal 1448H.",
@@ -469,82 +245,6 @@
             "offset_minutes": null,
             "literal": "Solat Jumaat"
           },
-          "end_time": null
-        }
-      ]
-    },
-    {
-      "id": "568f9c8d-24f0-41d9-b4d5-7d23aa26f02d",
-      "title": "Prophetic Guidance: Endurance, Hope, Renewal",
-      "description": "English Jumuah khutbah.",
-      "mosque_ids": [
-        "al-firdaus"
-      ],
-      "categories": [
-        "Jumuah khutbah"
-      ],
-      "status": "scheduled",
-      "schedule": {
-        "kind": "one_off",
-        "timezone": "Asia/Singapore",
-        "text": "11 September 2026; Jumuah khutbah",
-        "occurrences": [
-          {
-            "label": "Jumuah khutbah",
-            "date": "2026-09-11",
-            "end_date": null,
-            "start_time": null,
-            "end_time": null
-          }
-        ],
-        "recurrence": null
-      },
-      "location": {
-        "mode": "physical",
-        "name": "Masjid Al-Firdaus",
-        "address": "11 Jalan Ismail, Singapore 698995",
-        "online_url": null
-      },
-      "people": [
-        {
-          "name": "Ustaz Mohd Hidayat Bin Mohd Ismail",
-          "role": "speaker"
-        },
-        {
-          "name": "Hj Zainor Bin Buang",
-          "role": "other"
-        }
-      ],
-      "languages": [
-        "en"
-      ],
-      "audience": [
-        "Jumuah attendees"
-      ],
-      "registration": {
-        "requirement": "not_required",
-        "url": null,
-        "deadline_date": null,
-        "instructions": null
-      },
-      "pricing": {
-        "kind": "unknown",
-        "prices": [],
-        "notes": null
-      },
-      "review": {
-        "state": "candidate",
-        "uncertainties": [
-          "The poster lists Zuhur 01:03, but it is unclear whether this is the event start time or a prayer/azan time."
-        ]
-      },
-      "path": "events/568f9c8d-24f0-41d9-b4d5-7d23aa26f02d.json",
-      "matched_occurrences": [
-        {
-          "label": "Jumuah khutbah",
-          "date": "2026-09-11",
-          "end_date": null,
-          "start_time": null,
           "end_time": null
         }
       ]
@@ -815,7 +515,10 @@
             "date": "2026-09-13",
             "end_date": null,
             "start_time": {
-              "kind": "unspecified",
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "at",
+              "offset_minutes": null,
               "literal": "Kuliah Subuh"
             },
             "end_time": null
@@ -851,7 +554,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "Exact start and end times are not stated.",
+          "The event is timed for Subuh; its clock time, before/after offset and end time are not stated.",
           "Full physical address is not stated."
         ]
       },
@@ -862,7 +565,10 @@
           "date": "2026-09-13",
           "end_date": null,
           "start_time": {
-            "kind": "unspecified",
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "at",
+            "offset_minutes": null,
             "literal": "Kuliah Subuh"
           },
           "end_time": null
@@ -962,7 +668,10 @@
             "date": "2026-09-20",
             "end_date": null,
             "start_time": {
-              "kind": "unspecified",
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "at",
+              "offset_minutes": null,
               "literal": "Kuliah Subuh"
             },
             "end_time": null
@@ -1000,7 +709,7 @@
       "review": {
         "state": "candidate",
         "uncertainties": [
-          "The exact clock time for Kuliah Subuh is not stated.",
+          "The event is timed for Subuh; its clock time and before/after offset are not stated.",
           "The street address is not stated."
         ]
       },
@@ -1010,7 +719,10 @@
           "date": "2026-09-20",
           "end_date": null,
           "start_time": {
-            "kind": "unspecified",
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "at",
+            "offset_minutes": null,
             "literal": "Kuliah Subuh"
           },
           "end_time": null
