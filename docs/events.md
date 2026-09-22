@@ -138,6 +138,12 @@ wording beside the extracted fields. It is provenance, not a fact: nothing in
 it is normalised, and the extracted fields remain the record of what the event
 is. Absent when a source has no text or the worker did not retain it.
 
+Optional `sources[].links` lists URLs the post carries beyond its own address:
+`via: "qr"` for a QR code decoded from the post's media, `via: "caption"` for
+a link written in its text, each with an optional `label` (the text printed
+beside it). It is provenance, so a link stays even when it is also the event's
+`registration.url`; consumers that show both should de-duplicate by URL.
+
 ## Source availability and soft deletion
 
 Optional `sources[].availability` records operational `available`/`unavailable`

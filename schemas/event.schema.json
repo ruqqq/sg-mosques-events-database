@@ -152,7 +152,19 @@
           }
         },
         "published_at": {"$ref": "#/$defs/nullableTimestamp"}, "retrieved_at": {"type": "string", "format": "date-time"},
-        "caption": {"type": "string", "minLength": 1, "maxLength": 4000, "description": "The post's own text, verbatim and untrimmed, for consumers that show the original wording beside the extracted facts. Absent when the source has no text or it was not retained."}
+        "caption": {"type": "string", "minLength": 1, "maxLength": 4000, "description": "The post's own text, verbatim and untrimmed, for consumers that show the original wording beside the extracted facts. Absent when the source has no text or it was not retained."},
+        "links": {
+          "type": "array", "uniqueItems": true,
+          "description": "URLs found in the post beyond its own address: decoded from QR codes in its media, or written in its text. Provenance only; a registration link also belongs in registration.url.",
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["url", "via"],
+            "properties": {
+              "url": {"$ref": "#/$defs/url"},
+              "via": {"enum": ["qr", "caption"]},
+              "label": {"type": ["string", "null"], "description": "Text printed beside the code or link, when the post gives one."}
+            }
+          }
+        }
       }
     },
     "evidence": {
