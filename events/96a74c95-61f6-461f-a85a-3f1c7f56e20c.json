@@ -1,0 +1,113 @@
+{
+  "title": "Kuliah Harian Rabu: Kisah-Kisah Al-Quran",
+  "description": "Kuliah Maghrib setiap Rabu dalam siri Kuliah Harian Masjid Yusof Ishak, mendedah pengajaran daripada al-Quran.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "kuliah",
+    "tafsir"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Rabu, Maghrib",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "WE"
+      ],
+      "rule_text": "Rabu, Maghrib",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "prayer_relative",
+        "prayer": "maghrib",
+        "relation": "at",
+        "offset_minutes": null,
+        "literal": "Maghrib"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Yusof Ishak",
+    "address": "10 Woodlands Drive 17, Singapore 737741",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Musfirah Bte Ahmad",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "umum"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3936419974012825205",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/recurrence",
+        "/people/0/name"
+      ]
+    },
+    {
+      "source_id": "instagram:3936419974012825205",
+      "locator": "caption",
+      "supports": [
+        "/description"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Speaker name is only partially legible on the poster and is attributed to Ustazah Musfirah Bte Ahmad.",
+      "No clock time is given; the session follows Maghrib and is encoded prayer-relative.",
+      "No start or end date is stated for the weekly series."
+    ]
+  },
+  "notes": "Weekly Wednesday Maghrib lecture from the Kuliah Harian poster.",
+  "extra_data": {
+    "series": "Kuliah Harian",
+    "day": "Rabu",
+    "slot": "Maghrib"
+  },
+  "id": "96a74c95-61f6-461f-a85a-3f1c7f56e20c",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3936419974012825205",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dag-Rw9yW51",
+      "post_id": "3936419974012825205",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-07-08T02:30:59.000Z",
+      "retrieved_at": "2026-09-22T07:07:56.801Z",
+      "caption": "Ilmu yang bermanfaat bermula dengan satu langkah ke majlis ilmu.\n\nDi Masjid Yusof Ishak, kami mengalu-alukan anda untuk bersama-sama menghidupkan hati dan menyuburkan ilmu melalui siri Kuliah Harian yang berlangsung sepanjang minggu.\n\nSemoga setiap perkongsian menjadi sumber hidayah, menambah kefahaman, dan mengukuhkan hubungan kita dengan Allah SWT.\n\nMari bersama membina budaya ilmu dalam komuniti.\n\n#MasjidYusofIshak #KuliahHarian #MajlisIlmu #MenyuburkanIlmuMenghidupkanHati"
+    }
+  ]
+}
