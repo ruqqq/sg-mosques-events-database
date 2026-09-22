@@ -1082,6 +1082,88 @@
       "path": "events/f5afb7a7-f40f-41ae-9745-5a643cb4c119.json"
     },
     {
+      "id": "f7ac4d6b-1f19-4545-be6e-6083d8e34b6a",
+      "title": "Kuliah Zohor",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Monday to Thursday; time not specified",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "TH"
+          ],
+          "rule_text": "Setiap Isnin hingga Khamis",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Time not stated"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Zuhaili Md Yusof",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Nasir Abdul Rahim",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Umaruddin Zainuddin",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Qamarul Ariffin Kamarazaman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Clock time is not provided."
+        ]
+      },
+      "path": "events/f7ac4d6b-1f19-4545-be6e-6083d8e34b6a.json"
+    },
+    {
       "id": "faf04a89-0696-4104-854f-90ff5947dd3b",
       "title": "Kuliah Dhuha (Friday 9.30am–10.30am)",
       "description": null,

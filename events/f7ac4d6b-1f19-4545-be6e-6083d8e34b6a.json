@@ -1,0 +1,117 @@
+{
+  "title": "Kuliah Zohor",
+  "description": null,
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "religious lecture"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every Monday to Thursday; time not specified",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH"
+      ],
+      "rule_text": "Setiap Isnin hingga Khamis",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "unspecified",
+        "literal": "Time not stated"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nur",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Md Zuhaili Md Yusof",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustaz Md Nasir Abdul Rahim",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustaz Md Umaruddin Zainuddin",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustaz Qamarul Ariffin Kamarazaman",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3867490746354254225",
+      "locator": "slide:8",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/people",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Clock time is not provided."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "weekly_topics": {
+      "Monday": "Doa Para Rasul & Soleh",
+      "Tuesday": "Fiqh Imam Makmum",
+      "Wednesday": "40 Hadith Modal Insan",
+      "Thursday": "Qalbun Salim"
+    }
+  },
+  "id": "f7ac4d6b-1f19-4545-be6e-6083d8e34b6a",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3867490746354254225",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DWsFlfMjkGR",
+      "post_id": "3867490746354254225",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-04-04T00:00:45.000Z",
+      "retrieved_at": "2026-09-22T02:26:22.240Z",
+      "caption": "📖✨ Jadual Kuliah Harian Masjid An-Nur 1447–1448H / 2026M ✨\n\n“Barangsiapa yang menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju syurga.”\n— HR Abu Daud & At-Tirmidzi 🤍\n\nMari hidupkan hari-hari kita dengan ilmu 🌱\nMasjid An-Nur menyediakan pelbagai kuliah harian dari Subuh hingga Isyak, merangkumi tafsir, hadith, fiqh, akhlak dan banyak lagi.\n\n🕌 Antara kuliah yang tersedia:\n• Kuliah Subuh\n• Kuliah Dhuha\n• Kuliah Zohor\n• Kuliah Maghrib\n• Kuliah Isyak\n\n📍 Masjid An-Nur\n\n🌙 Program IQTA - Pelajari Al-Quran Sepanjang Hayat\n\n#CahayaMenaraBiru #MasjidAnNur #ProgramIQTA"
+    }
+  ]
+}
