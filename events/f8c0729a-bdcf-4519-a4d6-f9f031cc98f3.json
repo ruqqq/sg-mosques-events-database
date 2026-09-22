@@ -1,0 +1,136 @@
+{
+  "title": "Ghufran Fiesta – Masjid Darul Ghufran 35th Anniversary",
+  "description": "Two-day community fiesta celebrating Masjid Darul Ghufran's 35th anniversary, featuring food, apparel and book stalls, Islamic and family-friendly activities and inspiring talks.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "community",
+    "festival",
+    "anniversary"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "10 Oct 2026: 10.00am – 10.30pm; 11 Oct 2026: 10.00am – 6.30pm",
+    "occurrences": [
+      {
+        "date": "2026-10-10",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "22:30",
+          "literal": "10.30PM"
+        }
+      },
+      {
+        "date": "2026-10-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "18:30",
+          "literal": "6.30PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "families",
+    "community"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977027506881406041",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/kind",
+        "/schedule/text",
+        "/schedule/occurrences",
+        "/location/name",
+        "/mosque_ids"
+      ],
+      "note": null
+    },
+    {
+      "source_id": "instagram:3977027506881406041",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/occurrences",
+        "/extra_data"
+      ],
+      "note": null
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Venue address and specific location within the mosque are not stated",
+      "Programme line-up, speakers and activity timings for both days have not yet been announced",
+      "Admission pricing is not stated",
+      "Languages of the programme are not stated"
+    ]
+  },
+  "notes": "Poster and caption announce the fiesta and state that further details will be revealed later; no cancellation or completion evidence is present.",
+  "extra_data": {
+    "anniversary": "35th Anniversary of Masjid Darul Ghufran",
+    "organiser": "Masjid Darul Ghufran",
+    "activities": [
+      "food",
+      "apparel",
+      "books",
+      "Islamic and family-friendly activities",
+      "inspiring talks"
+    ],
+    "further_updates_announced": true
+  },
+  "id": "f8c0729a-bdcf-4519-a4d6-f9f031cc98f3",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977027506881406041",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcxPXJBn6RZ",
+      "post_id": "3977027506881406041",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-09-02T03:10:46.000Z",
+      "retrieved_at": "2026-09-22T07:01:11.561Z",
+      "caption": "Are you ready? 🌙✨ Ghufran Fiesta is coming your way very soon!\n\nJoin us on 10 & 11 October 2026 as we celebrate Masjid Darul Ghufran's 35th Anniversary!\n\n🗓️ 10 October: 10.00am – 10.30pm\n🗓️ 11 October: 10.00am – 6.30pm\n\nLook forward to two exciting days of delicious food, apparel and books, Islamic and family-friendly activities, inspiring talks, and so much more.\n\nBring your family and friends, reconnect with the community, and join us as we celebrate this special milestone together.\n\nFollow this space for more exciting updates, we'll be revealing what's in store very soon! 👀"
+    }
+  ]
+}
