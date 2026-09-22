@@ -75,6 +75,74 @@
       "path": "events/0141399f-eeae-476a-8cbc-5db81ca43a7e.json"
     },
     {
+      "id": "04d21303-c7e0-43ae-8700-e7744aa4564a",
+      "title": "Kuliah Dhuha Muslimah: Garis Hayat Rasulullah",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Jumaat, 10:15 pagi, Aras 3 Auditorium",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Hari Jumaat — 10:15 pagi",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:15",
+            "literal": "10:15 pagi"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Aras 3, Auditorium, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Jamaluddin Abdul Wahab",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/04d21303-c7e0-43ae-8700-e7744aa4564a.json"
+    },
+    {
       "id": "05a52a53-53c0-4fbe-b34e-27dc49bf617d",
       "title": "Kuliah Dhuha (Friday 8.30am–9.30am)",
       "description": null,
