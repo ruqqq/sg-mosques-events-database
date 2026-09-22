@@ -1,4 +1,77 @@
 {
   "schema_version": "1.0",
-  "events": []
+  "events": [
+    {
+      "id": "ab1160cb-73d4-4066-afc3-2f0e931b23cc",
+      "title": "Free Al-Quran Bersanad Class",
+      "description": "Free weekly Quran class using a sanad (chain of transmission) approach, led by Ustaz Zulkifli Md Sultan, with separate sessions for Muslimah and Muslimin.",
+      "mosque_ids": [
+        "ahmad-ibrahim"
+      ],
+      "categories": [
+        "religious_class",
+        "quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Saturday; Muslimah 10.00am, Muslimin 6.30pm",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "SA"
+          ],
+          "rule_text": "Every Saturday",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00am"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Ahmad Ibrahim",
+        "address": "15 Jalan Ulu Seletar, Sembawang Road",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Zulkifli Md Sultan",
+          "role": "teacher"
+        }
+      ],
+      "audience": [
+        "Muslimah",
+        "Muslimin"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Advertised as a free class."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No start date or end date is stated for the weekly series.",
+          "Two sessions are held on the same weekday with different clock times and audiences; only the Muslimah time (10.00am) is recorded in recurrence.start_time, the Muslimin time (6.30pm) is in extra_data.",
+          "Language/medium of instruction is not stated.",
+          "Registration requirement is not stated; the class is advertised as free."
+        ]
+      },
+      "path": "events/ab1160cb-73d4-4066-afc3-2f0e931b23cc.json"
+    }
+  ]
 }

@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 20
+    "count": 21
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -37,7 +37,7 @@
       "months": {},
       "recurring": {
         "path": "indexes/mosques/ahmad-ibrahim/recurring.json",
-        "count": 0
+        "count": 1
       },
       "undated": {
         "path": "indexes/mosques/ahmad-ibrahim/undated.json",

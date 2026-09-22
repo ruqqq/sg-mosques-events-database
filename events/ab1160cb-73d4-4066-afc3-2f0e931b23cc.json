@@ -1,0 +1,130 @@
+{
+  "title": "Free Al-Quran Bersanad Class",
+  "description": "Free weekly Quran class using a sanad (chain of transmission) approach, led by Ustaz Zulkifli Md Sultan, with separate sessions for Muslimah and Muslimin.",
+  "mosque_ids": [
+    "ahmad-ibrahim"
+  ],
+  "categories": [
+    "religious_class",
+    "quran"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every Saturday; Muslimah 10.00am, Muslimin 6.30pm",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "SA"
+      ],
+      "rule_text": "Every Saturday",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "10:00",
+        "literal": "10.00am"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Ahmad Ibrahim",
+    "address": "15 Jalan Ulu Seletar, Sembawang Road",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Zulkifli Md Sultan",
+      "role": "teacher"
+    }
+  ],
+  "audience": [
+    "Muslimah",
+    "Muslimin"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Advertised as a free class."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3911069700552864504",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing",
+        "/audience",
+        "/status"
+      ]
+    },
+    {
+      "source_id": "instagram:3911069700552864504",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "No start date or end date is stated for the weekly series.",
+      "Two sessions are held on the same weekday with different clock times and audiences; only the Muslimah time (10.00am) is recorded in recurrence.start_time, the Muslimin time (6.30pm) is in extra_data.",
+      "Language/medium of instruction is not stated.",
+      "Registration requirement is not stated; the class is advertised as free."
+    ]
+  },
+  "notes": "Free weekly class at Masjid Ahmad Ibrahim with separate Muslimah (10.00am) and Muslimin (6.30pm) sessions every Saturday; the source gives no start or end date for the series.",
+  "extra_data": {
+    "sessions": [
+      {
+        "audience": "Muslimah",
+        "start_time": "10:00",
+        "start_time_literal": "10.00am"
+      },
+      {
+        "audience": "Muslimin",
+        "start_time": "18:30",
+        "start_time_literal": "6.30pm"
+      }
+    ],
+    "contact_handle": "AhmadIbrahim.sg",
+    "venue_address": "15 Jalan Ulu Seletar, Sembawang Road"
+  },
+  "id": "ab1160cb-73d4-4066-afc3-2f0e931b23cc",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3911069700552864504",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DZG6SvBPzL4",
+      "post_id": "3911069700552864504",
+      "author_handle": "masjidahmadibrahim",
+      "author_profile_id": "1022654390",
+      "discovered_via": [],
+      "published_at": "2026-06-03T03:04:34.000Z",
+      "retrieved_at": "2026-09-22T06:57:52.989Z",
+      "caption": "Reconnect with the Quran through a chain of knowledge rooted in authentic sanad.\n\nJoin our Free Al-Quran Bersanad Class with Ustaz Zulkifli Md Sultan and deepen your understanding, recitation, and love for the Quran through guided learning.\n\n📖 Every Saturday\n👩 Muslimah: 10.00am\n👨 Muslimin: 6.30pm\n📍 Masjid Ahmad Ibrahim\n\n15 Jalan Ulu Seletar, Sembawang Road\nMay Allah bless every step we take in seeking knowledge. See you there, insyaAllah \n\n__________\n\nMari mendalami Al-Quran melalui sanad ilmu yang sahih dan bersambung. \n\nSertai Kelas Al-Quran Bersanad Percuma bersama Ustaz Zulkifli Md Sultan dan eratkan hubungan dengan Al-Quran melalui pembelajaran yang dibimbing dengan penuh tertib dan adab.\n\n📖 Setiap Sabtu\n👩 Muslimah: 10.00 pagi\n👨 Muslimin: 6.30 petang\n📍 Masjid Ahmad Ibrahim\n\n15 Jalan Ulu Seletar, Sembawang Road\n\nSemoga Allah memberkati setiap langkah kita dalam menuntut ilmu. Jumpa anda di sana, insyaAllah \n\n#MasjidAhmadIbrahim #QuranBersanad #MajlisIlmu #NgajiQuran #KelasAgama MuslimSG MasjidSG"
+    }
+  ]
+}
