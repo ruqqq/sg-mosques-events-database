@@ -1,0 +1,152 @@
+{
+  "title": "Turning The Tides: Reawakening the Woman's Heart & Soul (Season 3)",
+  "description": "Sisters-only guided reflection series (Thuma'ninah Circle for Sisters) exploring the stages of a woman's life through the light of the Qur'an and Sunnah, based on the book 'Turning The Tide: Reawakening the Woman's Heart and Soul' by Suma Din.",
+  "mosque_ids": [
+    "al-falah"
+  ],
+  "categories": [
+    "religious class",
+    "sisters programme",
+    "reflection series"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Session 1: Sunday, 27 Sept 2026, 10.30am - 12.00pm; Session Schedule: 27 Sept 2026, 25 Oct 2026, 15 Nov 2026 (Special Edition), 27 Dec 2026",
+    "occurrences": [
+      {
+        "label": "Session 1",
+        "date": "2026-09-27",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:30",
+          "literal": "10.30am"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:00",
+          "literal": "12.00pm"
+        }
+      },
+      {
+        "date": "2026-10-25",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "Special Edition",
+        "date": "2026-11-15",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "date": "2026-12-27",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Al-Falah Mosque, Level 1 Prayer Hall",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Azizah Rhai'yan",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Sisters only",
+    "Muslim women"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Walk-in event; no RSVP required"
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3989678629395091188",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/people",
+        "/location",
+        "/audience",
+        "/schedule/occurrences/0"
+      ]
+    },
+    {
+      "source_id": "instagram:3989678629395091188",
+      "locator": "slide:2",
+      "supports": [
+        "/schedule",
+        "/schedule/occurrences"
+      ]
+    },
+    {
+      "source_id": "instagram:3989678629395091188",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/audience",
+        "/registration",
+        "/people",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Caption states the session is on Sunday, 30 Aug 26 (10.30am - 12.00pm) while the poster lists Session 1 on 27 Sept 2026 and four sessions from Sept to Dec 2026; the caption date is not used in the schedule.",
+      "Clock times (10.30am - 12.00pm) are stated only for Session 1; the other three sessions are advertised by date only, so their times are left null.",
+      "Caption describes the post as the '3rd Part of the Series' while the poster labels it 'Season 3'."
+    ]
+  },
+  "notes": "Sisters-only guided reflection series at Al-Falah Mosque, Level 1 Prayer Hall. Poster lists 4 sessions: 27 Sept 2026 (Session 1, 10.30am-12.00pm), 25 Oct 2026, 15 Nov 2026 (Special Edition) and 27 Dec 2026. Walk-in, no RSVP. The caption's 30 Aug 2026 date conflicts with the poster's dates and was not adopted.",
+  "extra_data": {
+    "series_name": "Thuma'ninah Circle for Sisters",
+    "season": "Season 3",
+    "session_count": 4,
+    "book_reference": "Turning The Tide: Reawakening the Woman's Heart and Soul by Suma Din",
+    "caption_stated_date": "2026-08-30",
+    "caption_stated_time": "10.30am - 12.00pm",
+    "part_note": "Caption labels this as 3rd Part of the Series"
+  },
+  "id": "9af56bc2-3cb6-4151-9b22-1f9feff408e2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3989678629395091188",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdeL5NBD870",
+      "post_id": "3989678629395091188",
+      "author_handle": "alfalah.sg",
+      "author_profile_id": "3253152311",
+      "discovered_via": [],
+      "published_at": "2026-09-19T14:06:16.000Z",
+      "retrieved_at": "2026-09-22T07:54:35.995Z",
+      "caption": "🧕 Sisters Only\n\n🤍 Turning The Tides: Reawakening the Woman’s Heart & Soul (3rd Part of the Series) \n\nA gentle invitation for sisters to pause, reflect, and reconnect with the heart. This guided journey explores the stages of a woman’s life through the light of the Qur’an and Sunnah — nurturing healing, strength, and spiritual renewal.\n\n👩🏻‍🏫 Ustazah Azizah Rhai’yan \n🗓 Sunday, 30 Aug 26\n⏰ 10.30am – 12.00pm\n📍 Al-Falah Mosque, Level 1 Prayer Hall\n📖 Book Reference: Turning The Tide: Reawakening the Woman’s Heart and Soul by Suma Din\n\n✨Walk-in event | No RSVP required\n\n🌸 Open to all Muslim women"
+    }
+  ]
+}
