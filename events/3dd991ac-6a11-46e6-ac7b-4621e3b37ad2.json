@@ -1,0 +1,149 @@
+{
+  "title": "Gema Maulid Muslimah 1448H",
+  "description": "Majlis Maulid khas buat para Muslimah dalam suasana penuh mahabbah: bacaan Qasidah Maulid, perkongsian rohani dan ceramah khas.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "maulid",
+    "ceramah",
+    "muslimah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Ahad, 27 September 2026 (15 Rabiulakhir 1448H), 9.00 pagi – 11.30 pagi",
+    "occurrences": [
+      {
+        "date": "2026-09-27",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "09:00",
+          "literal": "9.00 pagi"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "11:30",
+          "literal": "11.30 pagi"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Auditorium, Aras 5, Masjid Yusof Ishak",
+    "address": "10 Woodlands Drive 17, SG 737740",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Widadul Wahidah Mahmood",
+      "role": "other"
+    },
+    {
+      "name": "Ustazah Muzayyanah Abdullah",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimah",
+    "Wanita"
+  ],
+  "registration": {
+    "requirement": "optional",
+    "url": "https://tinyurl.com/MYI-maulidmuslimah2709",
+    "deadline_date": null,
+    "instructions": "Penyertaan adalah PERCUMA; RSVP digalakkan terlebih dahulu bagi menganggar jumlah kehadiran dan persiapan majlis."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Penyertaan adalah PERCUMA!"
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3990108545273816219",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule/kind",
+        "/schedule/occurrences/0/date",
+        "/schedule/occurrences/0/start_time",
+        "/schedule/occurrences/0/end_time",
+        "/location",
+        "/people",
+        "/audience",
+        "/pricing/kind",
+        "/registration/requirement",
+        "/registration/url"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Registration URL is given as a shortened link (tinyurl.com/MYI-maulidmuslimah2709); the expanded destination was not resolved.",
+      "The poster carries a QR code in the top-right corner; its target URL is not readable and is assumed to be the same registration link.",
+      "Hijri date is printed as 15 Rabiulakhir 1448H alongside 27 September 2026; the Hijri conversion was not independently verified."
+    ]
+  },
+  "notes": "Muslimah-only Maulid programme at Masjid Yusof Ishak, Auditorium Aras 5. Programme rundown: 9.00pg pembukaan majlis dan bacaan tilawah Al-Quran (Ustazah Widadul Wahidah Mahmood); 9.15pg bacaan Qasidah Maulid oleh Muslimah Masjid Yusof Ishak; ceramah khas \"Mengurus tekunan, Memelihara jiwa\" oleh Ustazah Muzayyanah Abdullah; 11.30pg bersurai.",
+  "extra_data": {
+    "hijri_date": "15 Rabiulakhir 1448H",
+    "programme_run_down": [
+      {
+        "time": "09:00",
+        "item": "Pembukaan Majlis dan Bacaan Tilawah Al-Quran",
+        "person": "Ustazah Widadul Wahidah Mahmood"
+      },
+      {
+        "time": "09:15",
+        "item": "Bacaan Qasidah Maulid",
+        "person": "Muslimah Masjid Yusof Ishak"
+      },
+      {
+        "time": "09:15",
+        "item": "Ceramah Khas: Mengurus tekunan, Memelihara jiwa",
+        "person": "Ustazah Muzayyanah Abdullah"
+      },
+      {
+        "time": "11:30",
+        "item": "Bersurai",
+        "person": null
+      }
+    ],
+    "poster_has_qr_code": true,
+    "organiser_tagline": "Syukur. Sopan. Santun."
+  },
+  "id": "3dd991ac-6a11-46e6-ac7b-4621e3b37ad2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3990108545273816219",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdftpTYS-Sb",
+      "post_id": "3990108545273816219",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-09-20T04:20:57.000Z",
+      "retrieved_at": "2026-09-22T07:07:26.027Z",
+      "caption": "🌸 GEMA MAULID MUSLIMAH 1448H 🌸\nMari bersama menghidupkan rasa cinta kepada Rasulullah s.a.w dalam suasana penuh mahabbah melalui bacaan Qasidah Maulid, perkongsian rohani dan ceramah khas buat para Muslimah. 🤍\n\n🗓 Ahad, 27 September 2026\n⏰ 9.00 pagi – 11.30 pagi\n📍 Auditorium, Aras 5, Masjid Yusof Ishak\n\nPenyertaan adalah PERCUMA!\nNamun kami amat menggalakkan semua yang ingin hadir untuk RSVP terlebih dahulu supaya pihak kami dapat menganggarkan jumlah kehadiran dan membuat persiapan yang sewajarnya.\n\n🔗 Daftar di sini:\ntinyurl.com/MYI-maulidmuslimah2709\n\nAjak ibu, kakak, adik, sahabat dan keluarga bersama.\nTautkan hati dengan mahabbah, satukan langkah demi ummah.",
+      "links": [
+        {
+          "url": "https://tinyurl.com/MYI-maulidmuslimah2709",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

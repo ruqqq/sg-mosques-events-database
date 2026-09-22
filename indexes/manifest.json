@@ -12,7 +12,7 @@
     },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
-      "count": 39
+      "count": 40
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
@@ -266,7 +266,12 @@
     },
     "yusof-ishak": {
       "path": "mosques/yusof-ishak.json",
-      "months": {},
+      "months": {
+        "2026-09": {
+          "path": "indexes/mosques/yusof-ishak/months/2026-09.json",
+          "count": 1
+        }
+      },
       "recurring": {
         "path": "indexes/mosques/yusof-ishak/recurring.json",
         "count": 0

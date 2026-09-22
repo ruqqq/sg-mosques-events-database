@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "3dd991ac-6a11-46e6-ac7b-4621e3b37ad2",
+      "title": "Gema Maulid Muslimah 1448H",
+      "description": "Majlis Maulid khas buat para Muslimah dalam suasana penuh mahabbah: bacaan Qasidah Maulid, perkongsian rohani dan ceramah khas.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "maulid",
+        "ceramah",
+        "muslimah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Ahad, 27 September 2026 (15 Rabiulakhir 1448H), 9.00 pagi – 11.30 pagi",
+        "occurrences": [
+          {
+            "date": "2026-09-27",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "09:00",
+              "literal": "9.00 pagi"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "11:30",
+              "literal": "11.30 pagi"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Auditorium, Aras 5, Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, SG 737740",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Widadul Wahidah Mahmood",
+          "role": "other"
+        },
+        {
+          "name": "Ustazah Muzayyanah Abdullah",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah",
+        "Wanita"
+      ],
+      "registration": {
+        "requirement": "optional",
+        "url": "https://tinyurl.com/MYI-maulidmuslimah2709",
+        "deadline_date": null,
+        "instructions": "Penyertaan adalah PERCUMA; RSVP digalakkan terlebih dahulu bagi menganggar jumlah kehadiran dan persiapan majlis."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Penyertaan adalah PERCUMA!"
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration URL is given as a shortened link (tinyurl.com/MYI-maulidmuslimah2709); the expanded destination was not resolved.",
+          "The poster carries a QR code in the top-right corner; its target URL is not readable and is assumed to be the same registration link.",
+          "Hijri date is printed as 15 Rabiulakhir 1448H alongside 27 September 2026; the Hijri conversion was not independently verified."
+        ]
+      },
+      "path": "events/3dd991ac-6a11-46e6-ac7b-4621e3b37ad2.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-27",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9.00 pagi"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "11:30",
+            "literal": "11.30 pagi"
+          }
+        }
+      ]
+    }
+  ]
+}
