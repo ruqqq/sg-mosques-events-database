@@ -687,6 +687,79 @@
       ]
     },
     {
+      "id": "6229e765-d7e9-4c40-854c-b8af0f3ec3ae",
+      "title": "Majlis Qasidah & Kuliah \"Insan Terpilih Nabi ﷺ\"",
+      "description": "Evening gathering at Masjid Ahmad Ibrahim featuring Qasidah recitation by the Imams and Bilals of the masjid, followed by a kuliah titled \"Insan Terpilih Nabi ﷺ\" delivered by Ustaz Ali Atan, attended by jemaah.",
+      "mosque_ids": [
+        "ahmad-ibrahim"
+      ],
+      "categories": [
+        "kuliah",
+        "qasidah"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "One-off evening programme; caption places it on \"Yesterday\" relative to the post published 25 Aug 2026, i.e. 24 Aug 2026. No clock time stated.",
+        "occurrences": [
+          {
+            "date": "2026-08-24",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Ahmad Ibrahim",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Ali Atan",
+          "role": "speaker"
+        },
+        {
+          "name": "Imams and Bilals of Masjid Ahmad Ibrahim",
+          "role": "other"
+        }
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Exact event date is not printed; it is derived from the caption's \"Yesterday\" relative to the post published_at of 2026-08-25.",
+          "No clock start or end time is stated for the evening programme.",
+          "Whether the Qasidah recitation and the kuliah were a single combined programme or two consecutive segments of one evening is not explicitly stated; treated as one event.",
+          "The individual names of the Imams and Bilals who performed the qasidah are not given.",
+          "Registration requirement and any fee or donation arrangement are not stated."
+        ]
+      },
+      "path": "events/6229e765-d7e9-4c40-854c-b8af0f3ec3ae.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-08-24",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "4bc6669b-ee75-429b-9a40-4a928e90fe55",
       "title": "Solat Jumaat",
       "description": "Friday prayers with two sessions.",

@@ -1,0 +1,129 @@
+{
+  "title": "Majlis Qasidah & Kuliah \"Insan Terpilih Nabi ﷺ\"",
+  "description": "Evening gathering at Masjid Ahmad Ibrahim featuring Qasidah recitation by the Imams and Bilals of the masjid, followed by a kuliah titled \"Insan Terpilih Nabi ﷺ\" delivered by Ustaz Ali Atan, attended by jemaah.",
+  "mosque_ids": [
+    "ahmad-ibrahim"
+  ],
+  "categories": [
+    "kuliah",
+    "qasidah"
+  ],
+  "status": "completed",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3971148949658520583",
+      "locator": "caption",
+      "quote": "Yesterday, we were blessed with the melodious recitation of Qasidah by the Imams and Bilals of Masjid Ahmad Ibrahim, followed by Kuliah “Insan Terpilih Nabi ﷺ” by Ustaz Ali Atan."
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "One-off evening programme; caption places it on \"Yesterday\" relative to the post published 25 Aug 2026, i.e. 24 Aug 2026. No clock time stated.",
+    "occurrences": [
+      {
+        "date": "2026-08-24",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Ahmad Ibrahim",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Ali Atan",
+      "role": "speaker"
+    },
+    {
+      "name": "Imams and Bilals of Masjid Ahmad Ibrahim",
+      "role": "other"
+    }
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3971148949658520583",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule/occurrences/0/date",
+        "/people/0/name",
+        "/people/1/name",
+        "/status_evidence"
+      ],
+      "note": "Caption recaps both programme segments and the speaker."
+    },
+    {
+      "source_id": "instagram:3971148949658520583",
+      "locator": "slide:1",
+      "supports": [
+        "/extra_data/programme_segments"
+      ],
+      "note": "Photo of the Imams and Bilals reciting qasidah in the masjid hall."
+    },
+    {
+      "source_id": "instagram:3971148949658520583",
+      "locator": "slide:4",
+      "supports": [
+        "/people/0/name"
+      ],
+      "note": "Photo of the seated speaker delivering the kuliah."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Exact event date is not printed; it is derived from the caption's \"Yesterday\" relative to the post published_at of 2026-08-25.",
+      "No clock start or end time is stated for the evening programme.",
+      "Whether the Qasidah recitation and the kuliah were a single combined programme or two consecutive segments of one evening is not explicitly stated; treated as one event.",
+      "The individual names of the Imams and Bilals who performed the qasidah are not given.",
+      "Registration requirement and any fee or donation arrangement are not stated."
+    ]
+  },
+  "notes": "Recap post about a completed evening at Masjid Ahmad Ibrahim. The post also looks ahead to future programmes, but no future event is named, dated or specified.",
+  "extra_data": {
+    "programme_segments": [
+      "Qasidah recitation by the Imams and Bilals of Masjid Ahmad Ibrahim",
+      "Kuliah \"Insan Terpilih Nabi ﷺ\" by Ustaz Ali Atan"
+    ],
+    "post_published_at": "2026-08-25T00:31:06.000Z",
+    "date_basis": "caption relative reference 'Yesterday' against post published_at"
+  },
+  "id": "6229e765-d7e9-4c40-854c-b8af0f3ec3ae",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3971148949658520583",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DccWu3-j8wH/",
+      "post_id": "3971148949658520583",
+      "author_handle": "masjidahmadibrahim",
+      "author_profile_id": "1022654390",
+      "discovered_via": [
+        "https://www.instagram.com/masjidahmadibrahim/"
+      ],
+      "published_at": "2026-08-25T00:31:06.000Z",
+      "retrieved_at": "2026-09-22T07:00:24.236Z",
+      "caption": "Alhamdulillah for a beautiful evening at Masjid Ahmad Ibrahim. 🤍\n\nYesterday, we were blessed with the melodious recitation of Qasidah by the Imams and Bilals of Masjid Ahmad Ibrahim, followed by Kuliah “Insan Terpilih Nabi ﷺ” by Ustaz Ali Atan.\n\nOur heartfelt appreciation to all jemaah who took the time to join us and enliven the masjid with your presence. May every step taken towards the House of Allah be counted as an act of ibadah and bring us closer to Him. \n\nWe hope to continue seeing our jemaah filling the masjid—not only for our major events, but for the many kuliah, programmes and gatherings held throughout the year.\n\nThe masjid is more meaningful when it is filled with its community. Let us continue to learn, connect and grow together in the House of Allah. \n\nInsyaAllah, we look forward to welcoming you again at our upcoming programmes at Masjid Ahmad Ibrahim."
+    }
+  ]
+}
