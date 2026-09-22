@@ -88,6 +88,92 @@
           "end_time": null
         }
       ]
+    },
+    {
+      "id": "267951d5-f6e0-46f5-80fd-231bea63d63d",
+      "title": "Duhai Muslimah: Pada Solehahmu Ada Janji Nabi (Ceramah Perdana Muslimah)",
+      "description": "Ceramah perdana muslimah with invited speaker Dato' Dr Ustazah Nurhafizah Musa, held after Isyak prayer at the mosque's prayer hall.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "ceramah",
+        "muslimah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Jumaat, 18 September 2026, selepas Solat Isyak",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "isha",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "Selepas Solat Isyak"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Makmur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Dato' Dr Ustazah Nurhafizah Musa",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah",
+        "Wanita"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No registration details or pricing stated on the poster or caption.",
+          "Speaker's honorific and name are taken from poster text; exact spelling of the title is not otherwise confirmed.",
+          "Event date is now in the past relative to retrieval, but no recap evidence exists, so status stays scheduled as advertised."
+        ]
+      },
+      "path": "events/267951d5-f6e0-46f5-80fd-231bea63d63d.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "isha",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas Solat Isyak"
+          },
+          "end_time": null
+        }
+      ]
     }
   ]
 }
