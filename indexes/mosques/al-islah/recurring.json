@@ -291,6 +291,83 @@
       "path": "events/74ed8b09-2b04-4a34-a93a-4d793afae3a0.json"
     },
     {
+      "id": "9ecc02dd-046c-4d28-a15d-c42c75a01694",
+      "title": "TJA Tahfiz Juz 'Amma",
+      "description": "Tahfiz Juz 'Amma class for children, offered under the Al-Islah Quran & Solat Academy (AQSA) 2027 weekly physical classes.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "education",
+        "quran",
+        "tahfiz"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Fridays, 7:30pm – 9:30pm (2027 weekly physical classes)",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Tahfiz Juz 'Amma: Fridays, 7:30pm – 9:30pm",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30pm"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "children"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://alislah.school.qirom.sg/",
+        "deadline_date": null,
+        "instructions": "Registration opens on 5 October 2026 at 9am; scan the QR code or register at https://alislah.school.qirom.sg/. Payment upon registration is required to secure your spot. Registration guide: https://bit.ly/AQSA_New_RegGuide2027"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 70,
+            "currency": "SGD",
+            "label": "Registration fee + Jan & Feb 2027 fees (physical classes)"
+          }
+        ],
+        "notes": "Payment upon registration is required to secure your spot. SGD70 is stated for the physical class offerings as a whole."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No explicit first or last class date is given; the intake year 2027 is stated but schedule.starts_on/ends_on remain null.",
+          "The post does not state a per-series fee; SGD70 is stated for the physical classes as a whole.",
+          "This is an evening Friday class, unrelated to the Friday congregational prayer service."
+        ]
+      },
+      "path": "events/9ecc02dd-046c-4d28-a15d-c42c75a01694.json"
+    },
+    {
       "id": "e99ab4aa-3425-470b-b209-ffe6957b2ad5",
       "title": "BQS Weeknight Basic Quran & Solat",
       "description": "Weeknight Basic Quran & Solat class for children, offered under the Al-Islah Quran & Solat Academy (AQSA) 2027 weekly physical classes.",
