@@ -2,6 +2,77 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "543348fa-33fa-4d34-af90-1c7664f1fc8b",
+      "title": "Majlis Maulidurrasul Muslimah 1448H",
+      "description": "A Muslimah gathering featuring selawat, tausiyah, remembrance of Rasulullah s.a.w., reflection on his character, and inspiration from his sunnah.",
+      "mosque_ids": [
+        "an-nahdhah"
+      ],
+      "categories": [
+        "religious",
+        "maulid",
+        "women's programme"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "15 August 2026",
+        "occurrences": [
+          {
+            "label": "Majlis Maulidurrasul Muslimah 1448H",
+            "date": "2026-08-15",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "An-Nahdhah Mosque",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "audience": [
+        "Muslim women"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Start and end times are not provided.",
+          "Registration, pricing, speakers, and exact address are not specified."
+        ]
+      },
+      "path": "events/543348fa-33fa-4d34-af90-1c7664f1fc8b.json",
+      "matched_occurrences": [
+        {
+          "label": "Majlis Maulidurrasul Muslimah 1448H",
+          "date": "2026-08-15",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "17815eb7-612a-4536-9327-07d87812bad1",
       "title": "Friday Prayers: Becoming an individual whom Prophet Muhammad s.a.w. is proud of",
       "description": "Friday khutbah in Malay with English subtitles.",
