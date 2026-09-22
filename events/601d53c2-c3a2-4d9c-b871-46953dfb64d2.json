@@ -1,0 +1,162 @@
+{
+  "title": "Dari Akad ke Akhirat: Membina Keluarga yang Kukuh",
+  "description": "Malay family-strengthening programme with Ustaz Hanan Farhin (Malay).",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "lecture",
+    "family"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Thursdays, 3, 10, 17 and 24 September and 1 October 2026, 7:45 PM–9:45 PM",
+    "occurrences": [
+      {
+        "label": "Session 1",
+        "date": "2026-09-03",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7:45 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 PM"
+        }
+      },
+      {
+        "label": "Session 2",
+        "date": "2026-09-10",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7:45 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 PM"
+        }
+      },
+      {
+        "label": "Session 3",
+        "date": "2026-09-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7:45 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 PM"
+        }
+      },
+      {
+        "label": "Session 4",
+        "date": "2026-09-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7:45 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 PM"
+        }
+      },
+      {
+        "label": "Session 5",
+        "date": "2026-10-01",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7:45 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Classroom 2B, Level 3, Annexe Building",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Hanan Farhin",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [],
+    "notes": "Fee applies; amount not stated."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977865210212103749",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Fee amount and registration details are not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "601d53c2-c3a2-4d9c-b871-46953dfb64d2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977865210212103749",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0N1VDE7ZF",
+      "post_id": "3977865210212103749",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-03T06:55:07.000Z",
+      "retrieved_at": "2026-09-22T02:35:50.646Z",
+      "caption": "A new month, a new opportunity to learn, grow and connect✨\n\nSave the dates and plan your September with us! Swipe through to explore our programmes and mark your calender 📅 We look forward to welcoming you at Masjid Sultan 🕌 \n\n#MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}

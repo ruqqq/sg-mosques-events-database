@@ -140,6 +140,153 @@
           }
         }
       ]
+    },
+    {
+      "id": "601d53c2-c3a2-4d9c-b871-46953dfb64d2",
+      "title": "Dari Akad ke Akhirat: Membina Keluarga yang Kukuh",
+      "description": "Malay family-strengthening programme with Ustaz Hanan Farhin (Malay).",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "lecture",
+        "family"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Thursdays, 3, 10, 17 and 24 September and 1 October 2026, 7:45 PM–9:45 PM",
+        "occurrences": [
+          {
+            "label": "Session 1",
+            "date": "2026-09-03",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7:45 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 PM"
+            }
+          },
+          {
+            "label": "Session 2",
+            "date": "2026-09-10",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7:45 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 PM"
+            }
+          },
+          {
+            "label": "Session 3",
+            "date": "2026-09-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7:45 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 PM"
+            }
+          },
+          {
+            "label": "Session 4",
+            "date": "2026-09-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7:45 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 PM"
+            }
+          },
+          {
+            "label": "Session 5",
+            "date": "2026-10-01",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7:45 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Classroom 2B, Level 3, Annexe Building",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Hanan Farhin",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [],
+        "notes": "Fee applies; amount not stated."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Fee amount and registration details are not stated."
+        ]
+      },
+      "path": "events/601d53c2-c3a2-4d9c-b871-46953dfb64d2.json",
+      "matched_occurrences": [
+        {
+          "label": "Session 5",
+          "date": "2026-10-01",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:45",
+            "literal": "7:45 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:45",
+            "literal": "9:45 PM"
+          }
+        }
+      ]
     }
   ]
 }
