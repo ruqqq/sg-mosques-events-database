@@ -198,6 +198,91 @@
           }
         }
       ]
+    },
+    {
+      "id": "1ac24a27-7791-421a-ac20-7a8736df95b8",
+      "title": "SCDF Roadshow 2026: Emergency Preparedness & Fire Safety Day",
+      "description": "A community safety event with hands-on emergency preparedness, life-saving skills, and fire safety activities.",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "emergency preparedness",
+        "fire safety"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Thursday, 24 September 2026, 11:00 am–4:00 pm",
+        "occurrences": [
+          {
+            "label": "SCDF Roadshow 2026",
+            "date": "2026-09-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "11:00",
+              "literal": "11 am"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "16:00",
+              "literal": "4 pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur premises",
+        "address": "Admiralty Road, Singapore 739983",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "families",
+        "children",
+        "community members"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration and admission pricing are not stated.",
+          "Languages are not stated."
+        ]
+      },
+      "path": "events/1ac24a27-7791-421a-ac20-7a8736df95b8.json",
+      "matched_occurrences": [
+        {
+          "label": "SCDF Roadshow 2026",
+          "date": "2026-09-24",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "11:00",
+            "literal": "11 am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:00",
+            "literal": "4 pm"
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,113 @@
+{
+  "title": "SCDF Roadshow 2026: Emergency Preparedness & Fire Safety Day",
+  "description": "A community safety event with hands-on emergency preparedness, life-saving skills, and fire safety activities.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "emergency preparedness",
+    "fire safety"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Thursday, 24 September 2026, 11:00 am–4:00 pm",
+    "occurrences": [
+      {
+        "label": "SCDF Roadshow 2026",
+        "date": "2026-09-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "11:00",
+          "literal": "11 am"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:00",
+          "literal": "4 pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nur premises",
+    "address": "Admiralty Road, Singapore 739983",
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "families",
+    "children",
+    "community members"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3991125865770141568",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3991125865770141568",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Registration and admission pricing are not stated.",
+      "Languages are not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "programme_highlights": [
+      "SCDF Responders Plus Programme (RPP)",
+      "Fire Safety Awareness Talk",
+      "SCDF Fire Safety Awareness Booth",
+      "Kids' Firefighter PPE Experience"
+    ]
+  },
+  "id": "1ac24a27-7791-421a-ac20-7a8736df95b8",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3991125865770141568",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdjU9Q7GkeA",
+      "post_id": "3991125865770141568",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-09-21T14:01:41.000Z",
+      "retrieved_at": "2026-09-22T02:26:41.023Z",
+      "caption": "🚒 𝗟𝗲𝗮𝗿𝗻 𝗹𝗶𝗳𝗲-𝘀𝗮𝘃𝗶𝗻𝗴 𝘀𝗸𝗶𝗹𝗹𝘀 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿!\n\nMasjid An-Nur is pleased to partner with the Singapore Civil Defence Force (SCDF) for the 𝗦𝗖𝗗𝗙 𝗥𝗼𝗮𝗱𝘀𝗵𝗼𝘄 𝟮𝟬𝟮𝟲: 𝗘𝗺𝗲𝗿𝗴𝗲𝗻𝗰𝘆 𝗣𝗿𝗲𝗽𝗮𝗿𝗲𝗱𝗻𝗲𝘀𝘀 & 𝗙𝗶𝗿𝗲 𝗦𝗮𝗳𝗲𝘁𝘆 𝗗𝗮𝘆.\n\nJoin us for an afternoon of hands-on activities and practical learning to build emergency preparedness, life-saving knowledge, and fire safety awareness in our community.\n\nLearn CPR and basic first aid, get hands-on with an AED, pick up essential fire safety tips, or let your little ones experience being a firefighter for a day.\n\nThere’s something for everyone!\n\n📅 𝗧𝗵𝘂𝗿𝘀𝗱𝗮𝘆, 𝟮𝟰 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟲\n⏰ 𝟭𝟭 𝗮𝗺 – 𝟰 𝗽𝗺\n📍 𝗠𝗮𝘀𝗷𝗶𝗱 𝗔𝗻-𝗡𝘂𝗿 𝗣𝗿𝗲𝗺𝗶𝘀𝗲𝘀\n\n✨ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀\n- SCDF Responders Plus Programme (RPP)\n- Fire Safety Awareness Talk\n- SCDF Fire Safety Awareness Booth\n- Kids’ Firefighter PPE Experience\n\nBring your family and friends as we learn, prepare, and play our part in building a safer, more resilient community.\n\nAll are welcome! See you there, insyaAllah.\n\n#cahayamenarabiru\n#masjiddihatiku"
+    }
+  ]
+}
