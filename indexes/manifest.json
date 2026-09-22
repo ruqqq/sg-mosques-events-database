@@ -12,7 +12,7 @@
     },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
-      "count": 35
+      "count": 36
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
@@ -137,7 +137,7 @@
       "months": {
         "2026-09": {
           "path": "indexes/mosques/sultan/months/2026-09.json",
-          "count": 6
+          "count": 7
         },
         "2026-10": {
           "path": "indexes/mosques/sultan/months/2026-10.json",

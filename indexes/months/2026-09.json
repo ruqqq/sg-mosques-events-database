@@ -607,6 +607,96 @@
       ]
     },
     {
+      "id": "c029454f-fb06-412d-8af6-2d9990cce336",
+      "title": "Ratib al-Attas",
+      "description": "Ratib al-Attas with Ustaz Abu Zaki Bin Yusof (Malay).",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "religious gathering"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 4 September 2026, after Maghrib–Isha",
+        "occurrences": [
+          {
+            "date": "2026-09-04",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "prayer_relative",
+              "prayer": "isha",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Isha"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Prayer Hall, Level 1 & 2",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Abu Zaki Bin Yusof",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/c029454f-fb06-412d-8af6-2d9990cce336.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-04",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "prayer_relative",
+            "prayer": "isha",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Isha"
+          }
+        }
+      ]
+    },
+    {
       "id": "c3ff81e7-7a4a-4b31-8e71-112e2e77d17a",
       "title": "Friday Prayers (Jom Jumaat)",
       "description": "Friday prayer with khutbah in Malay and English subtitles.",

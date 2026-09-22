@@ -1,0 +1,102 @@
+{
+  "title": "Ratib al-Attas",
+  "description": "Ratib al-Attas with Ustaz Abu Zaki Bin Yusof (Malay).",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "religious gathering"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 4 September 2026, after Maghrib–Isha",
+    "occurrences": [
+      {
+        "date": "2026-09-04",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "prayer_relative",
+          "prayer": "isha",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Isha"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Prayer Hall, Level 1 & 2",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Abu Zaki Bin Yusof",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977865210212103749",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "c029454f-fb06-412d-8af6-2d9990cce336",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977865210212103749",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0N1VDE7ZF",
+      "post_id": "3977865210212103749",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-03T06:55:07.000Z",
+      "retrieved_at": "2026-09-22T02:35:50.646Z",
+      "caption": "A new month, a new opportunity to learn, grow and connect✨\n\nSave the dates and plan your September with us! Swipe through to explore our programmes and mark your calender 📅 We look forward to welcoming you at Masjid Sultan 🕌 \n\n#MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}
