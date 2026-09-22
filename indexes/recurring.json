@@ -1452,6 +1452,72 @@
       "path": "events/f5afb7a7-f40f-41ae-9745-5a643cb4c119.json"
     },
     {
+      "id": "f779e6d4-e668-408c-a32e-a4b583bb4fbe",
+      "title": "Kuliah Mingguan Santunan Emas",
+      "description": "Kuliah mingguan Santunan Emas di Masjid Darul Ghufran; sesi 21 September 2026 ditangguhkan ke 28 September 2026.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah",
+        "kelas mingguan"
+      ],
+      "status": "postponed",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Kuliah mingguan Santunan Emas; sesi 21 September 2026 ditangguhkan ke 28 September 2026",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO"
+          ],
+          "rule_text": "Kuliah mingguan Santunan Emas di Masjid Darul Ghufran",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": null,
+          "end_time": null,
+          "excluded_dates": [
+            "2026-09-21"
+          ]
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://darulghufran.org/santunanemas",
+        "deadline_date": null,
+        "instructions": "Daftar untuk menyertai Santunan Emas melalui pautan atau kod QR pada poster."
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Hari mingguan tetap kuliah tidak dinyatakan secara eksplisit; Isnin dicadangkan berdasarkan tarikh sesi 21 dan 28 September 2026 yang kedua-duanya hari Isnin.",
+          "Tidak dinyatakan sama ada sesi 28 September 2026 menggantikan sesi mingguan biasa atau merupakan sesi tambahan.",
+          "Alamat penuh masjid tidak dinyatakan dalam sumber.",
+          "Skop pendaftaran (menyertai program Santunan Emas atau sesi tertentu) tidak jelas.",
+          "Waktu mula/tamat kuliah tidak dinyatakan."
+        ]
+      },
+      "path": "events/f779e6d4-e668-408c-a32e-a4b583bb4fbe.json"
+    },
+    {
       "id": "f7ac4d6b-1f19-4545-be6e-6083d8e34b6a",
       "title": "Kuliah Zohor",
       "description": null,

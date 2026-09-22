@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 21
+    "count": 22
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -208,7 +208,7 @@
       },
       "recurring": {
         "path": "indexes/mosques/darul-ghufran/recurring.json",
-        "count": 0
+        "count": 1
       },
       "undated": {
         "path": "indexes/mosques/darul-ghufran/undated.json",
