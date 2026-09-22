@@ -1,0 +1,145 @@
+{
+  "title": "Majlis & Forum Perdana Nabi Di Hatiku",
+  "description": "Forum and maulid programme themed around forming a generation grounded in love for Rasulullah s.a.w.",
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "forum",
+    "maulid",
+    "religious programme"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 5 September 2026, 7:30 pm–9:45 pm",
+    "occurrences": [
+      {
+        "label": "Main programme",
+        "date": "2026-09-05",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9:45 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Dr Rohana Ithnin",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Mohamad Faizal Wahab",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Luqman Hakim Roslan",
+      "role": "host"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "General public"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3976412510413226408",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3976412510413226408",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster does not state whether registration is required for the main forum."
+    ]
+  },
+  "notes": "The programme includes Maulid and Qasidah by The Miraj Project, followed by the forum.",
+  "extra_data": {
+    "timetable": [
+      {
+        "time": "7:08 malam",
+        "item": "Azan & Solat Maghrib"
+      },
+      {
+        "time": "7:30 malam",
+        "item": "Maulid & Qasidah oleh The Miraj Project"
+      },
+      {
+        "time": "8:17 malam",
+        "item": "Azan & Solat Isyak"
+      },
+      {
+        "time": "8:45 malam",
+        "item": "Forum Perdana Nabi Di Hatiku"
+      }
+    ],
+    "refreshments": "Jamuan disediakan selepas Maghrib."
+  },
+  "id": "bb70c6f2-7f08-4330-bc8f-561b66dd8914",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3976412510413226408",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcvDhw7mYGo",
+      "post_id": "3976412510413226408",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [],
+      "published_at": "2026-09-01T06:48:52.000Z",
+      "retrieved_at": "2026-09-22T02:26:17.963Z",
+      "caption": "👧🏻👦🏻 𝗣𝗥𝗢𝗚𝗥𝗔𝗠 𝗞𝗜𝗗𝗦 𝗠𝗔𝗨𝗟𝗜𝗗 | 𝗞𝗛𝗔𝗦 𝗨𝗡𝗧𝗨𝗞 𝗞𝗔𝗡𝗔𝗞-𝗞𝗔𝗡𝗔𝗞💚\n\nSambil ibu bapa menghadiri Majlis & Forum Perdana “Nabi Di Hatiku”, kanak-kanak pula boleh sertai pengisian khas yang menyeronokkan, interaktif dan penuh kreativiti!\n\n✨ Antara aktiviti menarik:\n📖 Menelusuri kisah Hijrah Rasulullah s.a.w.\n🎶 Mempelajari Qasidah Tala‘al Badru ‘Alayna\n🥁 Mencuba asas perkusi\n🎨 Berkreativiti melalui aktiviti mewarna & banyak lagi!\n\n𝗣𝗥𝗢𝗚𝗥𝗔𝗠 𝗞𝗜𝗗𝗦 𝗠𝗔𝗨𝗟𝗜𝗗:\n📅 Sabtu, 5 September 2026\n⏰ 7.30 malam – 9.30 malam\n📍 MPH Aras 3, Masjid An-Nahdhah\n👧🏻👦🏻 Terbuka untuk kanak-kanak usia 7–12 tahun\n\n🍴 Jamuan “for kids” disediakan pada jam 6.30 petang!\n\nSatu malam untuk belajar, berkarya dan mengenali Rasulullah s.a.w. dengan cara yang menyeronokkan.\n\n**Jom daftarkan anak-anak dan bersama-sama membentuk generasi berteraskan cinta kepada Rasulullah s.a.w.!\n\nlinktr.ee/annahdhah",
+      "links": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdXa0zOVunJn-9qlZgrYH_AA6I099Lp9u2WONVIuZLt5U2IZw/viewform",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

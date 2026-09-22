@@ -80,6 +80,104 @@
       ]
     },
     {
+      "id": "bb70c6f2-7f08-4330-bc8f-561b66dd8914",
+      "title": "Majlis & Forum Perdana Nabi Di Hatiku",
+      "description": "Forum and maulid programme themed around forming a generation grounded in love for Rasulullah s.a.w.",
+      "mosque_ids": [
+        "an-nahdhah"
+      ],
+      "categories": [
+        "forum",
+        "maulid",
+        "religious programme"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 5 September 2026, 7:30 pm–9:45 pm",
+        "occurrences": [
+          {
+            "label": "Main programme",
+            "date": "2026-09-05",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 malam"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9:45 malam"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid An-Nahdhah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Dr Rohana Ithnin",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Mohamad Faizal Wahab",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Luqman Hakim Roslan",
+          "role": "host"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "General public"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster does not state whether registration is required for the main forum."
+        ]
+      },
+      "path": "events/bb70c6f2-7f08-4330-bc8f-561b66dd8914.json",
+      "matched_occurrences": [
+        {
+          "label": "Main programme",
+          "date": "2026-09-05",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 malam"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:45",
+            "literal": "9:45 malam"
+          }
+        }
+      ]
+    },
+    {
       "id": "60bbef34-de68-4bd6-b70b-6f6bf3644d36",
       "title": "Jom Jumaat",
       "description": null,
