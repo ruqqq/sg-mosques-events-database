@@ -196,6 +196,93 @@
         ]
       },
       "path": "events/811f4d65-83f6-4e98-b4bd-b1702cd900c3.json"
+    },
+    {
+      "id": "c3f6507f-1667-4223-bf0c-3f76011585e0",
+      "title": "Kuliah Dhuha (10.15am–11.15am)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Monday to Thursday at 10.15am–11.15am",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "TH"
+          ],
+          "rule_text": "Setiap Isnin hingga Khamis",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:15",
+            "literal": "10.15pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "11:15",
+            "literal": "11.15pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Nasir Abdul Rahim",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Umaruddin Zainuddin",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Kamal Mokhtar",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Irwan Shah Sudiman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/c3f6507f-1667-4223-bf0c-3f76011585e0.json"
     }
   ]
 }
