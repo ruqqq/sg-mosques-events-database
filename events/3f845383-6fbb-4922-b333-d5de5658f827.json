@@ -1,0 +1,113 @@
+{
+  "title": "Solat Hajat | Doa Untuk Pelajar Menghadapi Peperiksaan",
+  "description": "Masjid Darul Ghufran invites jemaah to join in Solat Hajat and prayers for students facing examinations. Held after Solat Jumaat Sesi 2.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "prayer",
+    "education"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "18 September 2026, 3 ptg (Selepas Solat Jumaat Sesi 2)",
+    "occurrences": [
+      {
+        "date": "2026-09-18",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "15:00",
+          "literal": "3 ptg"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ust. Isa Rosman Abdul Rasid",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "pelajar",
+    "jemaah"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988130174308397449",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/mosque_ids"
+      ]
+    },
+    {
+      "source_id": "instagram:3988130174308397449",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "End time of the programme is not stated",
+      "Source gives both a clock time (3 ptg) and a prayer-relative cue (Selepas Solat Jumaat Sesi 2); clock time used as start_time and the Jumaat-relative wording kept in extra_data",
+      "Audience wording is inferred from the posted text (students and jemaah)"
+    ]
+  },
+  "notes": "Programme advertised as taking place after Solat Jumaat Sesi 2. Poster venue note: Muslimin Aras 1, Muslimah Aras 2. No admission charge stated.",
+  "extra_data": {
+    "jumaat_relation": "Selepas Solat Jumaat Sesi 2",
+    "venue_levels": "Muslimin Aras 1, Muslimah Aras 2",
+    "occasion": "musim peperiksaan"
+  },
+  "id": "3f845383-6fbb-4922-b333-d5de5658f827",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988130174308397449",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdYr0N1qzGJ",
+      "post_id": "3988130174308397449",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-09-17T10:51:11.000Z",
+      "retrieved_at": "2026-09-22T07:00:19.677Z",
+      "caption": "📖✨ Solat Hajat | Doa Untuk Pelajar Menghadapi Peperiksaan\n\nSempena musim peperiksaan, Masjid Darul Ghufran menjemput para jemaah untuk bersama-sama menunaikan Solat Hajat dan mendoakan para pelajar yang bakal menghadapi peperiksaan.\n\n📅 18 September 2026,\n🕌 Jam 3 ptg, Selepas Solat Jumaat Sesi 2\n📍 Masjid Darul Ghufran (Muslimin Aras 1, Muslimah Aras 2)\n\nMarilah kita bersama-sama memohon kepada Allah SWT agar dipermudahkan segala urusan para pelajar, dikurniakan ketenangan dan keyakinan, serta diberikan kejayaan dalam peperiksaan mereka. Amin 🤲"
+    }
+  ]
+}

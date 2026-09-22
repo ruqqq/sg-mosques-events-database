@@ -2036,6 +2036,88 @@
       ]
     },
     {
+      "id": "3f845383-6fbb-4922-b333-d5de5658f827",
+      "title": "Solat Hajat | Doa Untuk Pelajar Menghadapi Peperiksaan",
+      "description": "Masjid Darul Ghufran invites jemaah to join in Solat Hajat and prayers for students facing examinations. Held after Solat Jumaat Sesi 2.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "prayer",
+        "education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "18 September 2026, 3 ptg (Selepas Solat Jumaat Sesi 2)",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "15:00",
+              "literal": "3 ptg"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ust. Isa Rosman Abdul Rasid",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "pelajar",
+        "jemaah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "End time of the programme is not stated",
+          "Source gives both a clock time (3 ptg) and a prayer-relative cue (Selepas Solat Jumaat Sesi 2); clock time used as start_time and the Jumaat-relative wording kept in extra_data",
+          "Audience wording is inferred from the posted text (students and jemaah)"
+        ]
+      },
+      "path": "events/3f845383-6fbb-4922-b333-d5de5658f827.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "15:00",
+            "literal": "3 ptg"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "5a0ad811-b914-4588-a501-405e123b2d46",
       "title": "Khutbah Jumaat: Menangani Bisikan Hati Dengan Keimanan",
       "description": null,
