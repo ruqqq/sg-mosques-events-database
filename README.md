@@ -2,7 +2,8 @@
 
 Public, versioned facts and source references for Singapore mosque events.
 This pilot covers **Sultan, An-Nahdhah, Al-Firdaus, Assyafaah, An-Nur, Yusof Ishak,
-Ahmad Ibrahim, Darul Ghufran, Al-Ansar, Al-Falah and Al-Islah**. It is not a complete
+Ahmad Ibrahim, Darul Ghufran, Al-Ansar, Al-Falah, Al-Islah, Darul Makmur and
+Petempatan Melayu Sembawang**. It is not a complete
 Singapore mosque directory or a guarantee that every event is captured.
 
 - `mosques/`: mosque identities and multiple social sources with confidence/evidence.

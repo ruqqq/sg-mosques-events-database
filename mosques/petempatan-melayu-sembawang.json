@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "id": "petempatan-melayu-sembawang",
+  "name": "Petempatan Melayu Sembawang",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://www.mpms.sg/",
+  "logo": {"path": "assets/logos/petempatan-melayu-sembawang.jpg", "source_url": "https://www.instagram.com/masjidpetempatan/"},
+  "social_sources": [
+    {
+      "platform": "instagram", "handle": "masjidpetempatan", "profile_id": "52611310486",
+      "role": "primary", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.mpms.sg/contact-us", "https://www.instagram.com/masjidpetempatan/"],
+      "last_verified_at": "2026-09-22T06:42:25Z", "notes": null
+    },
+    {
+      "platform": "instagram", "handle": "qaryouths", "profile_id": "75405062099",
+      "role": "youth", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.instagram.com/qaryouths/"],
+      "last_verified_at": "2026-09-22T06:42:25Z", "notes": "Profile identifies itself as Youths of Masjid Petempatan Melayu Sembawang; it is retained as a supplementary source."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "id": "darul-makmur",
+  "name": "Darul Makmur",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://darulmakmur.mimbar.sg/",
+  "logo": {"path": "assets/logos/darul-makmur.png", "source_url": "https://static.qiromconsulting.com/assets/img/logo-image/121/121_logo_image_121.png"},
+  "social_sources": [
+    {
+      "platform": "instagram", "handle": "darulmakmur.mosque", "profile_id": "11144095878",
+      "role": "primary", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://darulmakmur.mimbar.sg/", "https://www.instagram.com/darulmakmur.mosque/"],
+      "last_verified_at": "2026-09-22T06:42:25Z", "notes": null
+    },
+    {
+      "platform": "instagram", "handle": "damayouths", "profile_id": "451524906",
+      "role": "youth", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.instagram.com/damayouths/"],
+      "last_verified_at": "2026-09-22T06:42:25Z", "notes": "Profile identifies itself as Darul Makmur Youths at the mosque's Yishun address; it is retained as a supplementary source."
+    }
+  ]
+}

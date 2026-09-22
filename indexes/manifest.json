@@ -192,6 +192,30 @@
         "count": 0
       }
     },
+    "darul-makmur": {
+      "path": "mosques/darul-makmur.json",
+      "months": {},
+      "recurring": {
+        "path": "indexes/mosques/darul-makmur/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/darul-makmur/undated.json",
+        "count": 0
+      }
+    },
+    "petempatan-melayu-sembawang": {
+      "path": "mosques/petempatan-melayu-sembawang.json",
+      "months": {},
+      "recurring": {
+        "path": "indexes/mosques/petempatan-melayu-sembawang/recurring.json",
+        "count": 0
+      },
+      "undated": {
+        "path": "indexes/mosques/petempatan-melayu-sembawang/undated.json",
+        "count": 0
+      }
+    },
     "sultan": {
       "path": "mosques/sultan.json",
       "months": {
