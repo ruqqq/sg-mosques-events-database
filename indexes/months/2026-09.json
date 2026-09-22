@@ -108,6 +108,84 @@
       ]
     },
     {
+      "id": "c3ff81e7-7a4a-4b31-8e71-112e2e77d17a",
+      "title": "Friday Prayers (Jom Jumaat)",
+      "description": "Friday prayer with khutbah in Malay and English subtitles.",
+      "mosque_ids": [
+        "an-nahdhah"
+      ],
+      "categories": [
+        "prayer",
+        "khutbah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 4 September 2026; Azan Zohor at 1:05 PM",
+        "occurrences": [
+          {
+            "label": "Friday Prayers",
+            "date": "2026-09-04",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nahdhah",
+        "address": "9A Bishan Street 14, Singapore",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Ismail Sarip",
+          "role": "speaker"
+        },
+        {
+          "name": "Hj Nasiman Karim",
+          "role": "leader"
+        }
+      ],
+      "languages": [
+        "ms",
+        "en"
+      ],
+      "audience": [
+        "Muslim congregants"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster lists Azan Zohor at 1:05 PM, but does not explicitly establish it as the prayer event start time."
+        ]
+      },
+      "path": "events/c3ff81e7-7a4a-4b31-8e71-112e2e77d17a.json",
+      "matched_occurrences": [
+        {
+          "label": "Friday Prayers",
+          "date": "2026-09-04",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "16235379-c43a-4a7b-9be0-fe458484d738",
       "title": "Friday Prayers (Solat Jumaat)",
       "description": "Friday prayers with two sessions: Session 1 in Malay and Session 2 in English.",
