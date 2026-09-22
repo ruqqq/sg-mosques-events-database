@@ -1,0 +1,147 @@
+{
+  "title": "BQS Online Basic Quran & Solat (via Zoom)",
+  "description": "Online Basic Quran & Solat class for children, offered under the Al-Islah Quran & Solat Academy (AQSA) 2027 weekly online classes, conducted via Zoom.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "education",
+    "quran",
+    "solat",
+    "online"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Saturdays (2 Sessions): S1 8:00am – 10:00am, S2 10:30am – 12:30pm (2027 weekly online classes via Zoom)",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "SA"
+      ],
+      "rule_text": "Online Basic Quran & Solat via ZOOM: Saturdays (2 Sessions)",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": null,
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "children"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://alislah.school.qirom.sg/",
+    "deadline_date": null,
+    "instructions": "Registration opens on 5 October 2026 at 9am; scan the QR code or register at https://alislah.school.qirom.sg/. Payment upon registration is required to secure your spot. Registration guide: https://bit.ly/AQSA_New_RegGuide2027"
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 110,
+        "currency": "SGD",
+        "label": "Registration fee + Jan & Feb 2027 fees (online classes)"
+      }
+    ],
+    "notes": "Payment upon registration is required to secure your spot."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982292579345036385",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location/mode",
+        "/extra_data/sessions",
+        "/registration",
+        "/pricing",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3982292579345036385",
+      "locator": "slide:1",
+      "supports": [
+        "/registration",
+        "/extra_data/intake_year"
+      ]
+    },
+    {
+      "source_id": "instagram:3982292579345036385",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/registration/instructions",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The two Saturday sessions are alternative time slots; because no calendar dates are given, they are kept in extra_data and recurrence start_time/end_time are null rather than inventing occurrences.",
+      "No Zoom link or meeting URL is provided, so location.online_url is null.",
+      "No explicit first or last class date is given; the intake year 2027 is stated but schedule.starts_on/ends_on remain null."
+    ]
+  },
+  "notes": "Online counterpart of BQS in the AQSA 2027 intake; advertised on slide 3 of the post.",
+  "extra_data": {
+    "academy": "Al-Islah Quran & Solat Academy (AQSA)",
+    "intake_year": 2027,
+    "registration_opens": "5 October 2026, 9am",
+    "registration_guide_url": "https://bit.ly/AQSA_New_RegGuide2027",
+    "class_code": "BQS Online",
+    "platform": "Zoom",
+    "sessions": [
+      {
+        "label": "S1",
+        "start_time": "08:00",
+        "end_time": "10:00"
+      },
+      {
+        "label": "S2",
+        "start_time": "10:30",
+        "end_time": "12:30"
+      }
+    ]
+  },
+  "id": "a100e4c5-fe84-416f-8071-91a717657a61",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982292579345036385",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdD8gB3iPRh/",
+      "post_id": "3982292579345036385",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [
+        "https://www.instagram.com/alislahmosque/"
+      ],
+      "published_at": "2026-09-09T09:32:06.000Z",
+      "retrieved_at": "2026-09-22T07:02:19.925Z",
+      "caption": "Registration for Al-Islah Quran & Solat Academy (AQSA) 2027 is opening soon!\n\nGive your child a strong foundation in Quran and Solat from young. 🌱Whether you’re looking for after-school classes, weeknight or weekend lessons or the convenience of learning online, there are various options to suit your child’s schedule.\n\n📌 Registration opens on 5 October 2026, 9am\n\n👉 Swipe to view the class schedules, fees and registration details.",
+      "links": [
+        {
+          "url": "https://alislah.school.qirom.sg/",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
