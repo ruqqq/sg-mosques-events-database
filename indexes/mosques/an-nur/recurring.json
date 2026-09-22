@@ -1,4 +1,114 @@
 {
   "schema_version": "1.0",
-  "events": []
+  "events": [
+    {
+      "id": "2a3d97aa-344b-49ed-b012-c6b93061aaee",
+      "title": "Kuliah Subuh",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Saturday and Sunday, with topics assigned by week as listed",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "SA",
+            "SU"
+          ],
+          "rule_text": "Setiap Sabtu dan Ahad; minggu pertama hingga kelima as listed",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "06:00",
+            "literal": "6.00pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "07:00",
+            "literal": "7.00pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Mohd Yusof",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Mohd Zainuddin",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Firda Abdul Wahid Md Hanif",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Zuhdi Md Yusof",
+          "role": "teacher"
+        },
+        {
+          "name": "Astazah Undangan",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Ahmad Shamsuddin",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Husin Adam",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Ali Rohani",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Khalid Rafi",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Nasir Abdul Rahim",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/2a3d97aa-344b-49ed-b012-c6b93061aaee.json"
+    }
+  ]
 }
