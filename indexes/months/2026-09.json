@@ -2355,6 +2355,96 @@
       ]
     },
     {
+      "id": "7dfb170f-c775-4a44-bbd4-284e8c45ebef",
+      "title": "Basic ‘Umrah Guide",
+      "description": "A bilingual session covering the meaning and virtues of ‘Umrah, conditions, pillars and obligations, prohibitions during Ihram, and a step-by-step guide to performing ‘Umrah.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "religious education",
+        "Umrah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 25 September 2026, 7:30 PM–9:00 PM",
+        "occurrences": [
+          {
+            "label": "Basic ‘Umrah Guide",
+            "date": "2026-09-25",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7.30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:00",
+              "literal": "9.00 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Multi Purpose Hall, Level 1",
+        "address": "Sultan Mosque Annexe Building",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Hanan Farihin Bin Jasmani",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "audience": [
+        "People performing Umrah soon",
+        "People planning to perform Umrah in the future",
+        "People wishing to refresh their Umrah knowledge"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://bit.ly/msumrahguide",
+        "deadline_date": null,
+        "instructions": "Register via the provided link."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Free admission."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/7dfb170f-c775-4a44-bbd4-284e8c45ebef.json",
+      "matched_occurrences": [
+        {
+          "label": "Basic ‘Umrah Guide",
+          "date": "2026-09-25",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7.30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:00",
+            "literal": "9.00 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "c0d73221-7a23-43b2-aef2-7b0d4811e0c1",
       "title": "Tadabbur Praktikal: Surah Al-Mulk",
       "description": "Tadabbur TalkShows session on the practical lessons of Surah Al-Mulk.",

@@ -1,0 +1,124 @@
+{
+  "title": "Basic ‘Umrah Guide",
+  "description": "A bilingual session covering the meaning and virtues of ‘Umrah, conditions, pillars and obligations, prohibitions during Ihram, and a step-by-step guide to performing ‘Umrah.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "religious education",
+    "Umrah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 25 September 2026, 7:30 PM–9:00 PM",
+    "occurrences": [
+      {
+        "label": "Basic ‘Umrah Guide",
+        "date": "2026-09-25",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7.30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:00",
+          "literal": "9.00 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Multi Purpose Hall, Level 1",
+    "address": "Sultan Mosque Annexe Building",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Hanan Farihin Bin Jasmani",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [
+    "People performing Umrah soon",
+    "People planning to perform Umrah in the future",
+    "People wishing to refresh their Umrah knowledge"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://bit.ly/msumrahguide",
+    "deadline_date": null,
+    "instructions": "Register via the provided link."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Free admission."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3981581390898519381",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/pricing"
+      ]
+    },
+    {
+      "source_id": "instagram:3981581390898519381",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/registration",
+        "/pricing",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "7dfb170f-c775-4a44-bbd4-284e8c45ebef",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3981581390898519381",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdBay4Az91V",
+      "post_id": "3981581390898519381",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-08T09:58:51.000Z",
+      "retrieved_at": "2026-09-22T02:35:35.183Z",
+      "caption": "Basic ‘Umrah Guide🕋\n\nWhether you’ll be performing Umrah soon, planning to go in the future, or simply wish to refresh your knowledge — this session is for you..\n\nJoin Ustaz Hanan Farihin Bin Jasmani as he shares essential insights on:\n1️⃣ The meaning & virtues of ‘Umrah\n2️⃣ Conditions, pillars & obligations\n3️⃣ Prohibitions during Ihram\n4️⃣ Step-by-step guide to performing ‘Umrah\n\n📅 Friday, 25 September 2026\n🕖 7.30 PM - 9.00 PM\n📍 Multi Purpose Hall, Level 1\nSultan Mosque Annexe Building\n💬 Bilingual | Free admission\n\n🔗 Register now: bit.ly/msumrahguide\n\n#MasjidSultanSG #MenaraSultanSG #BasicUmrah",
+      "links": [
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNxmh8qdQJoi4xZ8Doo4mnxI4nihMwH1WgbcW6ErA_H0E8hA/viewform",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
