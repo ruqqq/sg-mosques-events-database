@@ -2094,6 +2094,94 @@
       ]
     },
     {
+      "id": "0628cd6b-8b11-40fc-8f9f-4c79c28a3545",
+      "title": "Ceramah Perdana Muslimah: Duhai Muslimah – Pada Solehahmu Ada Janji Nabi",
+      "description": "Ceramah perdana for Muslimah reflecting on the hadith promise made to a woman who guards her five prayers, fasts Ramadan, preserves her honour and obeys her husband in what is ma'ruf, delivered by Datuk Dr Ustazah Nurhafizah Musa.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "ceramah",
+        "religious talk",
+        "muslimah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Jumaat, 18 September 2026, selepas Solat Isyak",
+        "occurrences": [
+          {
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "isha",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "Selepas Isyak"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Makmur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Datuk Dr Ustazah Nurhafizah Musa",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah",
+        "Wanita"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock start time given; timing is prayer-relative ('Selepas Isyak') only.",
+          "No end time stated.",
+          "Registration requirement and pricing are not stated.",
+          "Venue is given as 'Dewan Solat, Masjid Darul Makmur'; no street address provided."
+        ]
+      },
+      "path": "events/0628cd6b-8b11-40fc-8f9f-4c79c28a3545.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "isha",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas Isyak"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "1a14897d-847e-4d65-934e-263361f2c5a2",
       "title": "Let's Do Lunch!",
       "description": "Lunch and a closed-door Q&A session with Ustaz Luqman and Ustaz Syafiq.",
