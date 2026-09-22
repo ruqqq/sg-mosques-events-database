@@ -115,7 +115,12 @@
         "weekdays": {"type": "array", "uniqueItems": true, "items": {"enum": ["MO", "TU", "WE", "TH", "FR", "SA", "SU"]}},
         "rule_text": {"$ref": "#/$defs/text"}, "starts_on": {"$ref": "#/$defs/nullableDate"}, "ends_on": {"$ref": "#/$defs/nullableDate"},
         "start_time": {"$ref": "#/$defs/time"}, "end_time": {"$ref": "#/$defs/time"},
-        "excluded_dates": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/date"}}
+        "excluded_dates": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/date"}},
+        "week_ordinals": {
+          "type": "array", "uniqueItems": true, "minItems": 1,
+          "items": {"type": "integer", "minimum": -1, "maximum": 5, "not": {"const": 0}},
+          "description": "For monthly rules: which occurrences of each weekday in the month the rule falls on (1 = first, 2 = second, ... -1 = last). Only when the source states it; absent means the source does not say."
+        }
       }
     },
     "schedule": {

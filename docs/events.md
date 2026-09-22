@@ -64,9 +64,13 @@ event time.
   Hadith class lists 18 September, 2 October and 16 October; this is not silently
   turned into an indefinite fortnightly recurrence.
 - `recurring`: a recurrence object with frequency, weekdays, literal rule,
-  optional date bounds, times, and explicit excluded dates. Sultan's “2nd & 4th
-  Week of the Month” remains literal; it is not assumed to mean the second and
-  fourth Wednesday. No occurrence-expansion engine is implemented yet.
+  optional date bounds, times, and explicit excluded dates. A monthly rule may
+  carry `week_ordinals` (1 = first, 2 = second, … -1 = last occurrence of each
+  listed weekday in the month) only when the source states which weeks: Sultan's
+  “Wednesday, 2nd & 4th week of the month” is `weekdays: ["WE"]`,
+  `week_ordinals: [2, 4]`. A monthly rule without `week_ordinals` means the
+  source does not say. No occurrence-expansion engine is implemented here;
+  consumers may project rules that are fully specified.
 - `unspecified`: preserve `schedule.text`, leave the normalized schedule empty,
   and explain the uncertainty.
 

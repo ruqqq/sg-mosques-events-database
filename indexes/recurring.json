@@ -335,7 +335,11 @@
             "literal": "After Solat ‘Asr"
           },
           "end_time": null,
-          "excluded_dates": []
+          "excluded_dates": [],
+          "week_ordinals": [
+            2,
+            4
+          ]
         }
       },
       "location": {
@@ -367,9 +371,7 @@
       },
       "review": {
         "state": "candidate",
-        "uncertainties": [
-          "The poster states 2nd and 4th week but does not provide calendar dates."
-        ]
+        "uncertainties": []
       },
       "path": "events/69329659-b0f0-4302-b193-3efac421dcc8.json"
     },
