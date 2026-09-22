@@ -2,6 +2,102 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "7b6d7922-a8a7-438b-aace-56a9c0e5a2ad",
+      "title": "Tadabbur & Talaqqi | Surah Al-'Adiyat",
+      "description": "Session to deepen understanding of Surah Al-'Adiyat with Ustaz Muhammad Mansor Abdul Rahim, combining tadabbur of the surah's lessons with talaqqi recitation practice.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "Tadabbur",
+        "Talaqqi",
+        "Quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Khamis, 24 September 2026, 7:30 malam - 9:30 malam",
+        "occurrences": [
+          {
+            "date": "2026-09-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 malam"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 malam"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Seminar Room 3, Aras 4, Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737740",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Mansor Abdul Rahim",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "18 tahun ke atas",
+        "Muslimin & Muslimah"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://www.masjidyusofishak.sg/courses",
+        "deadline_date": null,
+        "instructions": "Daftar sekarang di www.masjidyusofishak.sg/courses"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 20,
+            "currency": "SGD",
+            "label": "seorang (per person)"
+          }
+        ],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The qualifying standard for the Ijazah Sanad recitation assessment is not stated.",
+          "Registration deadline is not stated."
+        ]
+      },
+      "path": "events/7b6d7922-a8a7-438b-aace-56a9c0e5a2ad.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-24",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 malam"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 malam"
+          }
+        }
+      ]
+    },
+    {
       "id": "3dd991ac-6a11-46e6-ac7b-4621e3b37ad2",
       "title": "Gema Maulid Muslimah 1448H",
       "description": "Majlis Maulid khas buat para Muslimah dalam suasana penuh mahabbah: bacaan Qasidah Maulid, perkongsian rohani dan ceramah khas.",

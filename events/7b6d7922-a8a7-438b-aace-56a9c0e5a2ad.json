@@ -1,0 +1,135 @@
+{
+  "title": "Tadabbur & Talaqqi | Surah Al-'Adiyat",
+  "description": "Session to deepen understanding of Surah Al-'Adiyat with Ustaz Muhammad Mansor Abdul Rahim, combining tadabbur of the surah's lessons with talaqqi recitation practice.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "Tadabbur",
+    "Talaqqi",
+    "Quran"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Khamis, 24 September 2026, 7:30 malam - 9:30 malam",
+    "occurrences": [
+      {
+        "date": "2026-09-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Seminar Room 3, Aras 4, Masjid Yusof Ishak",
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Mansor Abdul Rahim",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "18 tahun ke atas",
+    "Muslimin & Muslimah"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://www.masjidyusofishak.sg/courses",
+    "deadline_date": null,
+    "instructions": "Daftar sekarang di www.masjidyusofishak.sg/courses"
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 20,
+        "currency": "SGD",
+        "label": "seorang (per person)"
+      }
+    ],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988904998834083824",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/occurrences/0/date",
+        "/schedule/occurrences/0/start_time",
+        "/schedule/occurrences/0/end_time",
+        "/location",
+        "/people/0",
+        "/pricing",
+        "/audience",
+        "/registration/url"
+      ],
+      "note": "Poster states Hari Khamis 24 September 2026, 7:30 malam - 9:30 malam, Kelas Fizikal Seminar Room 3 Aras 4, Yuran $20/seorang, 18 tahun ke atas, and the registration site."
+    },
+    {
+      "source_id": "instagram:3988904998834083824",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/registration/instructions",
+        "/registration/requirement"
+      ],
+      "note": "Caption gives the date, time, venue, fee, age requirement and Daftar sekarang link."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The qualifying standard for the Ijazah Sanad recitation assessment is not stated.",
+      "Registration deadline is not stated."
+    ]
+  },
+  "notes": "Ijazah Sanad akan diberikan kepada peserta yang lulus penilaian bacaan. Part of the 'My Quranic Journey' programme.",
+  "extra_data": {
+    "certificate": "Ijazah Sanad akan diberikan kepada peserta yang lulus penilaian bacaan",
+    "programme_series": "My Quranic Journey",
+    "organiser": "Masjid Yusof Ishak",
+    "min_age_years": 18,
+    "learning_areas": [
+      "Tadabbur",
+      "Talaqqi"
+    ]
+  },
+  "id": "7b6d7922-a8a7-438b-aace-56a9c0e5a2ad",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988904998834083824",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Ddbb_ZaSRfw",
+      "post_id": "3988904998834083824",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-09-18T12:30:06.000Z",
+      "retrieved_at": "2026-09-22T07:07:18.286Z",
+      "caption": "TADABBUR & TALAQQI | SURAH AL-‘ADIYAT\n\nJom luangkan masa untuk mendalami Surah Al-‘Adiyat bersama Ustaz Muhammad Mansor Abdul Rahim, sambil memperbaiki bacaan melalui sesi talaqqi dan memahami pengajaran yang terkandung dalam surah.\n\n🗓️ Khamis, 24 September 2026\n🕢 7.30 malam – 9.30 malam\n📍 Seminar Room 3, Aras 4, Masjid Yusof Ishak\n💰 $20 seorang | 18 tahun ke atas\n\n🎓 Ijazah Sanad akan diberikan kepada peserta yang lulus penilaian bacaan.\n\n🔗 Daftar sekarang:\nwww.masjidyusofishak.sg/courses\n\n#MasjidYusofIshak #MyQuranicJourney #TadabburTalaqqi #SurahAlAdiyat #AlQuran"
+    }
+  ]
+}
