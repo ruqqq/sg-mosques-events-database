@@ -2618,6 +2618,76 @@
       "path": "events/c3f6507f-1667-4223-bf0c-3f76011585e0.json"
     },
     {
+      "id": "d24d2bd8-4eb7-4534-879f-5c1b2db3d889",
+      "title": "Kuliah Subuh (Ahad)",
+      "description": "Sesi Kuliah Subuh setiap Ahad dalam siri Kuliah Harian Masjid Yusof Ishak; poster menyenaraikan lima tajuk bernombor 01 hingga 05.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Ahad, Kuliah Subuh",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "SU"
+          ],
+          "rule_text": "Ahad, Kuliah Subuh",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Kuliah Subuh"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "umum"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Poster lists five numbered Kuliah Subuh entries (01-05) for Ahad with no dates; whether these are separate series or a rotation is unclear.",
+          "Topic titles and speaker names for the Ahad sessions are only partially legible, so no titles or people were recorded.",
+          "No clock time is given; the session is tied to Subuh and encoded prayer-relative.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/d24d2bd8-4eb7-4534-879f-5c1b2db3d889.json"
+    },
+    {
       "id": "d3ca281f-92ae-409d-b491-5222b566aed3",
       "title": "Kuliah Dhuha (Sunday 8.30am–9.30am)",
       "description": null,

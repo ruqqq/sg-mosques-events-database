@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 45
+    "count": 46
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -274,7 +274,7 @@
       },
       "recurring": {
         "path": "indexes/mosques/yusof-ishak/recurring.json",
-        "count": 10
+        "count": 11
       },
       "undated": {
         "path": "indexes/mosques/yusof-ishak/undated.json",
