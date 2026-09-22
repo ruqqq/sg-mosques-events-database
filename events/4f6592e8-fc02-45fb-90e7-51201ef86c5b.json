@@ -1,0 +1,110 @@
+{
+  "title": "Kuliah Harian Jumaat: Shamail Muhammadiyyah",
+  "description": "Kuliah pada hari Jumaat dalam siri Kuliah Harian Masjid Yusof Ishak, membincangkan contoh teladan kehidupan Nabi Muhammad SAW.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "kuliah",
+    "seerah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Jumaat, Dhuha",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "FR"
+      ],
+      "rule_text": "Jumaat, Dhuha",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "unspecified",
+        "literal": "Dhuha"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Yusof Ishak",
+    "address": "10 Woodlands Drive 17, Singapore 737741",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Musfirah Bte Ahmad",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "umum"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3936419974012825205",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/recurrence",
+        "/people/0/name"
+      ]
+    },
+    {
+      "source_id": "instagram:3936419974012825205",
+      "locator": "caption",
+      "supports": [
+        "/description"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Speaker attribution on the Jumaat row is only partially legible.",
+      "The exact prayer-relative slot on the Jumaat row is not fully clear; recorded from the poster's Dhuha column.",
+      "No start or end date is stated for the weekly series."
+    ]
+  },
+  "notes": "Friday lecture held separately from the Friday congregational prayer service.",
+  "extra_data": {
+    "series": "Kuliah Harian",
+    "day": "Jumaat",
+    "slot": "Dhuha"
+  },
+  "id": "4f6592e8-fc02-45fb-90e7-51201ef86c5b",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3936419974012825205",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dag-Rw9yW51",
+      "post_id": "3936419974012825205",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-07-08T02:30:59.000Z",
+      "retrieved_at": "2026-09-22T07:07:56.801Z",
+      "caption": "Ilmu yang bermanfaat bermula dengan satu langkah ke majlis ilmu.\n\nDi Masjid Yusof Ishak, kami mengalu-alukan anda untuk bersama-sama menghidupkan hati dan menyuburkan ilmu melalui siri Kuliah Harian yang berlangsung sepanjang minggu.\n\nSemoga setiap perkongsian menjadi sumber hidayah, menambah kefahaman, dan mengukuhkan hubungan kita dengan Allah SWT.\n\nMari bersama membina budaya ilmu dalam komuniti.\n\n#MasjidYusofIshak #KuliahHarian #MajlisIlmu #MenyuburkanIlmuMenghidupkanHati"
+    }
+  ]
+}

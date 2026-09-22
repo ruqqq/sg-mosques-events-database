@@ -144,6 +144,78 @@
       "path": "events/2f214cb9-2102-432b-a910-d4191d160b75.json"
     },
     {
+      "id": "4f6592e8-fc02-45fb-90e7-51201ef86c5b",
+      "title": "Kuliah Harian Jumaat: Shamail Muhammadiyyah",
+      "description": "Kuliah pada hari Jumaat dalam siri Kuliah Harian Masjid Yusof Ishak, membincangkan contoh teladan kehidupan Nabi Muhammad SAW.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah",
+        "seerah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Jumaat, Dhuha",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Jumaat, Dhuha",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Dhuha"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Musfirah Bte Ahmad",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "umum"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Speaker attribution on the Jumaat row is only partially legible.",
+          "The exact prayer-relative slot on the Jumaat row is not fully clear; recorded from the poster's Dhuha column.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/4f6592e8-fc02-45fb-90e7-51201ef86c5b.json"
+    },
+    {
       "id": "5eb3d99e-b3ce-42dc-81f9-36fbcafea986",
       "title": "Kuliah Harian Selasa: Fiqh Manhaji",
       "description": "Kuliah Maghrib setiap Selasa dalam siri Kuliah Harian Masjid Yusof Ishak, himpunan hukum-hukum asas fardhu.",
