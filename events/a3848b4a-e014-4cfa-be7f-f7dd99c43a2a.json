@@ -1,0 +1,128 @@
+{
+  "title": "Santunan Emas @ Masjid Darul Ghufran",
+  "description": "Weekly Monday programme at Masjid Darul Ghufran comprising Kuliah Mingguan (Menggapai Akhiran Yang Mewangi) with Ustaz Jamaluddin Abdul Wahab and Sesi Senaman Ibadah with Coach Hj Hussen.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kuliah",
+    "kesihatan",
+    "komuniti"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Setiap hari Isnin di Masjid Darul Ghufran",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "MO"
+      ],
+      "rule_text": "InsyaAllah, kita bertemu lagi setiap hari Isnin di Masjid Darul Ghufran!",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": null,
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Jamaluddin Abdul Wahab",
+      "role": "speaker"
+    },
+    {
+      "name": "Coach Hj Hussen",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "required",
+    "url": "https://darulghufran.org/santunanemas",
+    "deadline_date": null,
+    "instructions": "Daftar di darulghufran.org/santunanemas untuk menyertai Santunan Emas"
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3981558721973642556",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/people",
+        "/registration",
+        "/extra_data"
+      ],
+      "note": null
+    },
+    {
+      "source_id": "instagram:3981558721973642556",
+      "locator": "slide:1",
+      "supports": [
+        "/title"
+      ],
+      "note": "Slide 1 headline reads: What's Happening @ MDG: Santunan Emas at Masjid Darul Ghufran"
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "No clock times, explicit dates or venue-within-the-mosque details are given; recurrence start and end dates are unknown.",
+      "Registration requirement is inferred from the invitation 'Ingin sertai Santunan Emas? Daftar di sini'; whether registration is mandatory is not explicit.",
+      "Kuliah Mingguan and Sesi Senaman Ibadah are described as components of Santunan Emas and share its Monday slot; whether they are separately listed series is unclear.",
+      "The most recent Monday session is recapped as having taken place ('Isnin lalu'), while the post states the programme continues every Monday; status kept as scheduled for the recurring series."
+    ]
+  },
+  "notes": "Recap post for a continuing weekly Monday programme at Masjid Darul Ghufran; it also announces future Monday sessions. Kuliah Mingguan and Sesi Senaman Ibadah are held as part of Santunan Emas.",
+  "extra_data": {
+    "programme_components": [
+      "Kuliah Mingguan: Menggapai Akhiran Yang Mewangi bersama Ustaz Jamaluddin Abdul Wahab",
+      "Sesi Senaman Ibadah bersama Coach Hj Hussen"
+    ],
+    "kuliah_topic": "Menggapai Akhiran Yang Mewangi",
+    "kuliah_theme": "pra-kematian dan persediaan menuju akhirat",
+    "whatsapp_channel_url": "https://whatsapp.com/channel/0029VbDwSqLI1rcrepRVOh3U"
+  },
+  "id": "a3848b4a-e014-4cfa-be7f-f7dd99c43a2a",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3981558721973642556",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdBVo_7mOU8/",
+      "post_id": "3981558721973642556",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [
+        "https://www.instagram.com/darulghufran/"
+      ],
+      "published_at": "2026-09-08T09:13:28.000Z",
+      "retrieved_at": "2026-09-22T07:06:42.860Z",
+      "caption": "🌟 Santunan Emas @ Masjid Darul Ghufran\n\nAlhamdulillah, sekitar Santunan Emas Isnin lalu. Terima kasih kepada semua yang hadir dan bersama-sama memeriahkan pagi dengan pengisian ilmu dan aktiviti kesihatan.\n\n📚 Dalam Kuliah Mingguan: Menggapai Akhiran Yang Mewangi bersama Ustaz Jamaluddin Abdul Wahab, para jemaah meneruskan pengisian berkaitan pra-kematian dan persediaan menuju akhirat.\n💪 Sesi Senaman Ibadah bersama Coach Hj Hussen pula mengajak para peserta untuk kekal aktif dan menjaga kecergasan melalui senaman yang sesuai dan terpandu.\n\nSantunan Emas bukan sekadar pengisian ilmu dan aktiviti fizikal. Turut diadakan Pos Kesihatan Masyarakat (CHP) pada Isnin pertama setiap bulan, dengan pemeriksaan kesihatan serta khidmat nasihat daripada para pegawai kesihatan Komuniti dari Hospital Besar Changi (CGH).🩺\n\nInsyaAllah, kita bertemu lagi setiap hari Isnin di Masjid Darul Ghufran!\n\nIngin sertai Santunan Emas?\nDaftar di sini:\n🔗 darulghufran.org/santunanemas\n\nIkuti WhatsApp Channel Santunan Emas @ Masjid Darul Ghufran untuk makluman, peringatan dan perkembangan terkini:\n🔗 https://whatsapp.com/channel/0029VbDwSqLI1rcrepRVOh3U",
+      "links": [
+        {
+          "url": "https://whatsapp.com/channel/0029VbDwSqLI1rcrepRVOh3U",
+          "via": "caption",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

@@ -1391,6 +1391,79 @@
       "path": "events/a100e4c5-fe84-416f-8071-91a717657a61.json"
     },
     {
+      "id": "a3848b4a-e014-4cfa-be7f-f7dd99c43a2a",
+      "title": "Santunan Emas @ Masjid Darul Ghufran",
+      "description": "Weekly Monday programme at Masjid Darul Ghufran comprising Kuliah Mingguan (Menggapai Akhiran Yang Mewangi) with Ustaz Jamaluddin Abdul Wahab and Sesi Senaman Ibadah with Coach Hj Hussen.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah",
+        "kesihatan",
+        "komuniti"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Setiap hari Isnin di Masjid Darul Ghufran",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO"
+          ],
+          "rule_text": "InsyaAllah, kita bertemu lagi setiap hari Isnin di Masjid Darul Ghufran!",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": null,
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Jamaluddin Abdul Wahab",
+          "role": "speaker"
+        },
+        {
+          "name": "Coach Hj Hussen",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://darulghufran.org/santunanemas",
+        "deadline_date": null,
+        "instructions": "Daftar di darulghufran.org/santunanemas untuk menyertai Santunan Emas"
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock times, explicit dates or venue-within-the-mosque details are given; recurrence start and end dates are unknown.",
+          "Registration requirement is inferred from the invitation 'Ingin sertai Santunan Emas? Daftar di sini'; whether registration is mandatory is not explicit.",
+          "Kuliah Mingguan and Sesi Senaman Ibadah are described as components of Santunan Emas and share its Monday slot; whether they are separately listed series is unclear.",
+          "The most recent Monday session is recapped as having taken place ('Isnin lalu'), while the post states the programme continues every Monday; status kept as scheduled for the recurring series."
+        ]
+      },
+      "path": "events/a3848b4a-e014-4cfa-be7f-f7dd99c43a2a.json"
+    },
+    {
       "id": "a4c45dcd-91ad-4136-ad0c-974e1496a886",
       "title": "Kuliah Isyak",
       "description": null,
