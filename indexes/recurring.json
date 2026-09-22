@@ -484,6 +484,98 @@
       "path": "events/54434e38-dc3f-46ef-ad5c-2f1894cd62c1.json"
     },
     {
+      "id": "5613d1a4-7674-4e89-8aab-573643899efe",
+      "title": "Kuliah Maghrib",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Monday, Tuesday, Wednesday, Friday, Saturday and Sunday; time not specified",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "FR",
+            "SA",
+            "SU"
+          ],
+          "rule_text": "Isnin, Selasa, Rabu, Jumaat, Sabtu dan Ahad",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Time not stated"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Dr Abid Tarmizi",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Ali Alan",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Adam Ismail",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Md Kamarul Yunos",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Ahmad Helmi Md Hasbi",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustaz Nor Razak Bakar",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Clock time is not provided."
+        ]
+      },
+      "path": "events/5613d1a4-7674-4e89-8aab-573643899efe.json"
+    },
+    {
       "id": "5b740f86-d346-429b-9d31-438eb53a9382",
       "title": "Kuliah Dhuha (Saturday 9.00am–10.00am)",
       "description": null,
