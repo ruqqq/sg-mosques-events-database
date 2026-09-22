@@ -1679,6 +1679,76 @@
       "path": "events/811f4d65-83f6-4e98-b4bd-b1702cd900c3.json"
     },
     {
+      "id": "82cc2a3b-ea23-4988-a5cb-fdda47983ec9",
+      "title": "Bacaan Yasin, Tahlil & Doa Selamat",
+      "description": "Bacaan Yasin, Tahlil & Doa Selamat bersama Imam Bilal Masjid Darul Makmur, setiap malam Jumaat selepas Maghrib.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "religious",
+        "quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Setiap Khamis / malam Jumaat, selepas Solat Maghrib",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TH"
+          ],
+          "rule_text": "Setiap Khamis / malam Jumaat",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas Solat Maghrib"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat Utama, Masjid Darul Makmur",
+        "address": "950 Yishun Avenue 2, Singapore 769099",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "jemaah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": "Donation appeal mentioned; no admission price stated."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock time is given; the programme timing is prayer-relative after Maghrib.",
+          "The recurring programme has no listed end date.",
+          "Registration/attendance requirement is not specified; the link is for submitting names for tahlil, not event registration."
+        ]
+      },
+      "path": "events/82cc2a3b-ea23-4988-a5cb-fdda47983ec9.json"
+    },
+    {
       "id": "934a3f66-1435-4c69-b009-1c848a2aa0bb",
       "title": "Majlis Selawat Mingguan",
       "description": "Weekly Friday selawat gathering.",
