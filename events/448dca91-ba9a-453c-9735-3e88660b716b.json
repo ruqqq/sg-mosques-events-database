@@ -1,0 +1,115 @@
+{
+  "title": "Cinta Abadi — Enriching the Parenting Journey",
+  "description": "Online parenting session with Encik Nailul Hafiz exploring parenting styles, parenting roles, tips and techniques for the first years of marriage and parenthood.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "parenting",
+    "education"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sunday, 25 October 2026, 9:00 AM – 1:00 PM",
+    "occurrences": [
+      {
+        "date": "2026-10-25",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "09:00",
+          "literal": "9:00 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "13:00",
+          "literal": "1:00 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Encik Nailul Hafiz",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Parents in the first 10 years of marriage"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://tinyurl.com/aimca2026",
+    "deadline_date": null,
+    "instructions": "Register now via tinyurl.com/aimca2026"
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Complimentary"
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988730657839627293",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/status",
+        "/location",
+        "/people",
+        "/pricing",
+        "/registration"
+      ]
+    },
+    {
+      "source_id": "instagram:3988730657839627293",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing",
+        "/registration"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Online platform or session link not stated; only the registration link is given"
+    ]
+  },
+  "notes": "Complimentary online parenting session; participation requires registration at tinyurl.com/aimca2026.",
+  "extra_data": {},
+  "id": "448dca91-ba9a-453c-9735-3e88660b716b",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988730657839627293",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dda0WZtPbwd",
+      "post_id": "3988730657839627293",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [],
+      "published_at": "2026-09-18T06:42:52.000Z",
+      "retrieved_at": "2026-09-22T06:58:23.573Z",
+      "caption": "Cinta Abadi — Enriching the Parenting Journey\n\nParenting is a beautiful journey, but it can also come with its fair share of challenges.\n\nTake some time to pause, learn and pick up practical tips to strengthen your parenting journey. \nJoin us for an engaging online session with Encik Nailul Hafiz, where we’ll explore parenting styles, roles, tips and techniques to help you navigate the first years of marriage and parenthood with greater confidence.\n\n💻 Online Session\n📅 Sunday, 25 October 2026\n⏰ 9:00 AM – 1:00 PM\n🎟️ Complimentary\n\n🔗 Register now: tinyurl.com/aimca2026\n\n#MasjidAlIslah #CintaAbadi #Parenting #Parenting #Parenthood"
+    }
+  ]
+}

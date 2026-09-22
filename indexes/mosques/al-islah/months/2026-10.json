@@ -136,6 +136,93 @@
           }
         }
       ]
+    },
+    {
+      "id": "448dca91-ba9a-453c-9735-3e88660b716b",
+      "title": "Cinta Abadi — Enriching the Parenting Journey",
+      "description": "Online parenting session with Encik Nailul Hafiz exploring parenting styles, parenting roles, tips and techniques for the first years of marriage and parenthood.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "parenting",
+        "education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sunday, 25 October 2026, 9:00 AM – 1:00 PM",
+        "occurrences": [
+          {
+            "date": "2026-10-25",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "09:00",
+              "literal": "9:00 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1:00 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Encik Nailul Hafiz",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Parents in the first 10 years of marriage"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://tinyurl.com/aimca2026",
+        "deadline_date": null,
+        "instructions": "Register now via tinyurl.com/aimca2026"
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Complimentary"
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Online platform or session link not stated; only the registration link is given"
+        ]
+      },
+      "path": "events/448dca91-ba9a-453c-9735-3e88660b716b.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-25",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9:00 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1:00 PM"
+          }
+        }
+      ]
     }
   ]
 }
