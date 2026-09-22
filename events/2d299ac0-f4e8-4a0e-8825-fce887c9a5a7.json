@@ -1,0 +1,194 @@
+{
+  "title": "Wonder In Pages — Majlis Khatam Al-Quran Secara Berkumpulan",
+  "description": "Majlis Khatam Al-Quran secara berkumpulan sempena Ghufran Fiesta 2026: 300 keluarga berhimpun di Masjid Darul Ghufran untuk menyempurnakan 30 juz Al-Quran, dengan 3 pengajaran Al-Quran tentang kehidupan berkeluarga bersama Ustaz Mohamad Faizal Bin Mohd Wahab.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "quran",
+    "family",
+    "community"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Ahad, 11 Oktober 2026, 10:00 pagi – 12:00 tengah hari (pendaftaran bermula 9:30 pagi)",
+    "occurrences": [
+      {
+        "date": "2026-10-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10.00 pg"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:00",
+          "literal": "12.00 tgh"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Mohamad Faizal Bin Mohd Wahab",
+      "role": "speaker"
+    },
+    {
+      "name": "Ust. Isa Rosman Bin Abdul Rashid",
+      "role": "other"
+    },
+    {
+      "name": "Ust. Mohd Syafiq Bin Jamli",
+      "role": "other"
+    },
+    {
+      "name": "Ust. Muhammad Nurdanish Bin Anuar",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "families",
+    "community"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://darulghufran.org/gf-wonderinpages",
+    "deadline_date": null,
+    "instructions": "Daftar sekarang di darulghufran.org/gf-wonderinpages atau imbas kod QR pada poster; pendaftaran bermula 9.30 pagi pada hari majlis."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Percuma."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3987106306222205926",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/registration",
+        "/pricing",
+        "/people",
+        "/audience",
+        "/notes"
+      ]
+    },
+    {
+      "source_id": "instagram:3987106306222205926",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/pricing",
+        "/people",
+        "/registration"
+      ]
+    },
+    {
+      "source_id": "instagram:3987106306222205926",
+      "locator": "slide:2",
+      "supports": [
+        "/description",
+        "/people",
+        "/extra_data"
+      ]
+    },
+    {
+      "source_id": "instagram:3987106306222205926",
+      "locator": "slide:3",
+      "supports": [
+        "/schedule",
+        "/extra_data"
+      ]
+    },
+    {
+      "source_id": "instagram:3987106306222205926",
+      "locator": "slide:4",
+      "supports": [
+        "/registration"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Roles of Ust. Isa Rosman Bin Abdul Rashid, Ust. Mohd Syafiq Bin Jamli and Ust. Muhammad Nurdanish Bin Anuar are not stated on the poster; recorded as 'other'.",
+      "No registration deadline is stated.",
+      "Full postal address of the venue is not given beyond 'Masjid Darul Ghufran, Dewan Solat'."
+    ]
+  },
+  "notes": "Held sempena Ghufran Fiesta 2026. Poster lists a tentative rundown: 9:30 pg pendaftaran, 10:00 pg ucapan pembukaan, 10:15 pg pembukaan bacaan Al-Quran beramai-ramai, 11:00 pg khatam Al-Quran secara kumpulan, 11:30 pg tazkirah (3 pengajaran daripada Al-Quran tentang keluarga), 12:00 tgh bersurai. Cenderamata untuk semua peserta; dihadiri bersama Imam & Bilal Masjid Darul Ghufran.",
+  "extra_data": {
+    "programme_context": "Ghufran Fiesta 2026",
+    "target_participation": "300 keluarga; 30 juz Al-Quran",
+    "rundown": [
+      {
+        "time": "9:30 pg",
+        "item": "Pendaftaran"
+      },
+      {
+        "time": "10:00 pg",
+        "item": "Ucapan Pembukaan Oleh Pengacara Majlis"
+      },
+      {
+        "time": "10:15 pg",
+        "item": "Pembukaan Bacaan Al-Quran Beramai-Ramai"
+      },
+      {
+        "time": "11:00 pg",
+        "item": "Khatam Al-Quran Secara Kumpulan"
+      },
+      {
+        "time": "11:30 pg",
+        "item": "Tazkirah: 3 Pengajaran Daripada Al-Quran Tentang Keluarga"
+      },
+      {
+        "time": "12:00 tgh",
+        "item": "Bersurai"
+      }
+    ],
+    "giveaways": "Cenderamata untuk semua",
+    "related_url": "https://darulghufran.org/gf-wonderinpages"
+  },
+  "id": "2d299ac0-f4e8-4a0e-8825-fce887c9a5a7",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3987106306222205926",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdVDA-YGCvm",
+      "post_id": "3987106306222205926",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-09-16T00:55:31.000Z",
+      "retrieved_at": "2026-09-22T07:01:16.906Z",
+      "caption": "📖✨ WONDER IN PAGES\n3 Pengajaran. 30 Juz. 300 Keluarga.\n\nBagaimana jika kita luangkan satu pagi untuk berhimpun sebagai keluarga, membaca, menghayati dan melengkapkan Al-Quran bersama? 🤍\n\nBersempena Ghufran Fiesta 2026, Wonder In Pages mengajak 300 keluarga berhimpun di rumah Allah untuk menyempurnakan 30 juz Al-Quran secara beramai-ramai, sambil menghayati 3 pengajaran daripada Al-Quran tentang keluarga bersama Ustaz Mohamad Faizal Bin Mohd Wahab.\n\n🌿 Apa yang menanti anda?\n📖 Khatam Al-Quran bersama keluarga dan masyarakat\n❤️ Mengukuhkan ikatan keluarga melalui Al-Quran\n👨‍👩‍👧‍👦 3 pengajaran Al-Quran tentang kehidupan berkeluarga\n🕌 Bersama Imam & Bilal Masjid Darul Ghufran\n🎁 Cenderamata untuk semua\n\n📅 Ahad, 11 Oktober 2026\n🕙 10 pagi – 12 tengah hari\n📝 Pendaftaran bermula 9.30 pagi\n📍 Dewan Solat, Masjid Darul Ghufran\n🎟️ Percuma\n\nBawalah pasangan, anak-anak, ibu bapa, adik-beradik dan insan tersayang.\n\nDi tengah kemeriahan Ghufran Fiesta, mari kita luangkan satu pagi untuk sesuatu yang lebih bermakna: mendekatkan keluarga kepada Al-Quran, dan Al-Quran kepada keluarga. 🤲🏼\n\n💛 30 juz. 300 keluarga. Satu pagi bersama Al-Quran.\n\n🔗 Daftar sekarang: darulghufran.org/gf-wonderinpages\n📲 Atau imbas kod QR pada poster.",
+      "links": [
+        {
+          "url": "https://darulghufran.org/gf-wonderinpages",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

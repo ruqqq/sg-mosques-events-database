@@ -662,6 +662,109 @@
       ]
     },
     {
+      "id": "2d299ac0-f4e8-4a0e-8825-fce887c9a5a7",
+      "title": "Wonder In Pages — Majlis Khatam Al-Quran Secara Berkumpulan",
+      "description": "Majlis Khatam Al-Quran secara berkumpulan sempena Ghufran Fiesta 2026: 300 keluarga berhimpun di Masjid Darul Ghufran untuk menyempurnakan 30 juz Al-Quran, dengan 3 pengajaran Al-Quran tentang kehidupan berkeluarga bersama Ustaz Mohamad Faizal Bin Mohd Wahab.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "quran",
+        "family",
+        "community"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Ahad, 11 Oktober 2026, 10:00 pagi – 12:00 tengah hari (pendaftaran bermula 9:30 pagi)",
+        "occurrences": [
+          {
+            "date": "2026-10-11",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "10:00",
+              "literal": "10.00 pg"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "12:00",
+              "literal": "12.00 tgh"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Mohamad Faizal Bin Mohd Wahab",
+          "role": "speaker"
+        },
+        {
+          "name": "Ust. Isa Rosman Bin Abdul Rashid",
+          "role": "other"
+        },
+        {
+          "name": "Ust. Mohd Syafiq Bin Jamli",
+          "role": "other"
+        },
+        {
+          "name": "Ust. Muhammad Nurdanish Bin Anuar",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "families",
+        "community"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://darulghufran.org/gf-wonderinpages",
+        "deadline_date": null,
+        "instructions": "Daftar sekarang di darulghufran.org/gf-wonderinpages atau imbas kod QR pada poster; pendaftaran bermula 9.30 pagi pada hari majlis."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Percuma."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Roles of Ust. Isa Rosman Bin Abdul Rashid, Ust. Mohd Syafiq Bin Jamli and Ust. Muhammad Nurdanish Bin Anuar are not stated on the poster; recorded as 'other'.",
+          "No registration deadline is stated.",
+          "Full postal address of the venue is not given beyond 'Masjid Darul Ghufran, Dewan Solat'."
+        ]
+      },
+      "path": "events/2d299ac0-f4e8-4a0e-8825-fce887c9a5a7.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-11",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00 pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "12:00",
+            "literal": "12.00 tgh"
+          }
+        }
+      ]
+    },
+    {
       "id": "47dca4cc-8cad-4bfa-acf6-aba18a5b1908",
       "title": "MindFest 2026",
       "description": "A family and community event focused on mental well-being, with conversations, family activities and opportunities to connect.",

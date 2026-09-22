@@ -16,7 +16,7 @@
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
-      "count": 7
+      "count": 8
     },
     "2026-11": {
       "path": "indexes/months/2026-11.json",
@@ -207,7 +207,7 @@
         },
         "2026-10": {
           "path": "indexes/mosques/darul-ghufran/months/2026-10.json",
-          "count": 1
+          "count": 2
         }
       },
       "recurring": {
