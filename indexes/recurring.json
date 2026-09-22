@@ -3043,6 +3043,78 @@
         ]
       },
       "path": "events/faf04a89-0696-4104-854f-90ff5947dd3b.json"
+    },
+    {
+      "id": "fc681306-7c4f-40ba-9061-9f9261396f37",
+      "title": "Kuliah Harian Khamis: Riyadhus Solihin",
+      "description": "Kuliah Dhuha setiap Khamis dalam siri Kuliah Harian Masjid Yusof Ishak, hadith membawa kepada kehidupan Muslim.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah",
+        "hadith"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Khamis, Dhuha",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TH"
+          ],
+          "rule_text": "Khamis, Dhuha",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Dhuha"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Dzul Dzain Ahmad Dahlia",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "umum"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Speaker name spelling is not fully legible on the poster.",
+          "No clock time is given; the session is tied to Dhuha and encoded as an unspecified time literal.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/fc681306-7c4f-40ba-9061-9f9261396f37.json"
     }
   ]
 }
