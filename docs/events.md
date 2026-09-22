@@ -130,6 +130,14 @@ is retained literally; the validator does not prove real-world source truth.
 Canonical records use `events/<event-id>.json`. Generated month and mosque
 listings support direct JSON access; see [the access guide](access.md).
 
+## Source text
+
+Optional `sources[].caption` holds the post's own text verbatim (Instagram
+caption, page body), up to 4000 characters, so a consumer can show the original
+wording beside the extracted fields. It is provenance, not a fact: nothing in
+it is normalised, and the extracted fields remain the record of what the event
+is. Absent when a source has no text or the worker did not retain it.
+
 ## Source availability and soft deletion
 
 Optional `sources[].availability` records operational `available`/`unavailable`
