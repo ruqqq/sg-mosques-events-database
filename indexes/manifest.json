@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 18
+    "count": 19
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -46,7 +46,7 @@
       },
       "recurring": {
         "path": "indexes/mosques/al-firdaus/recurring.json",
-        "count": 0
+        "count": 1
       },
       "undated": {
         "path": "indexes/mosques/al-firdaus/undated.json",

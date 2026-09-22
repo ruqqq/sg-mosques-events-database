@@ -1,0 +1,114 @@
+{
+  "title": "Senaman Syifa’ Yoga",
+  "description": "Exercise and yoga class with Coach Riza Saidi for Muslimah.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "fitness",
+    "yoga"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every Tuesday, 11:00 AM–12:00 PM, starting 25 August 2026",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "TU"
+      ],
+      "rule_text": "Every Tuesday",
+      "starts_on": "2026-08-25",
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "11:00",
+        "literal": "11:00 AM"
+      },
+      "end_time": {
+        "kind": "clock",
+        "local_time": "12:00",
+        "literal": "12:00 PM"
+      },
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Bilik Darjah, Masjid Al-Firdaus",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Riza Saidi",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimah"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Poster states Kelas percuma."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3972630741762851257",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/pricing",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3972630741762851257",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/people/0/name",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "27467f05-45b6-480e-8bf5-30dcfe6232ba",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3972630741762851257",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DchnpyakkG5/",
+      "post_id": "3972630741762851257",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [
+        "https://www.instagram.com/alfirdausmosquesg/"
+      ],
+      "published_at": "2026-08-27T01:35:10.000Z",
+      "retrieved_at": "2026-09-22T02:30:07.677Z",
+      "caption": "SENAMAN SYIFA’ YOGA✨\n\nJom bersenam bersama coach Riza Saidi setiap hari Selasa pada jam 11 pagi!\n\nKhas buat muslimah sahaja. Senaman akan berlangsung di dalam bilik darjah tertutup.\n\n#SenamanSyifa\n#MasjidAlFirdaus\n#AlFirdausMosque\n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}
