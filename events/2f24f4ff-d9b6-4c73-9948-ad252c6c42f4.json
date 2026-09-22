@@ -1,0 +1,175 @@
+{
+  "title": "Khatib Jumaat - September 2026",
+  "description": "Friday khutbah sessions at Masjid Al-Firdaus.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "Jumuah",
+    "Khutbah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "4, 11, 18 and 25 September 2026",
+    "occurrences": [
+      {
+        "label": "04 Sept",
+        "date": "2026-09-04",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "11 Sept",
+        "date": "2026-09-11",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "18 Sept",
+        "date": "2026-09-18",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "25 Sept",
+        "date": "2026-09-25",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Al-Firdaus",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Razul Elias",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Hidayat Ismail",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Amirul Mukminin",
+      "role": "speaker"
+    },
+    {
+      "name": "Haji Aris Hj Amin",
+      "role": "other"
+    },
+    {
+      "name": "Haji Zour Boong",
+      "role": "other"
+    },
+    {
+      "name": "Haji Sapar Edros",
+      "role": "other"
+    },
+    {
+      "name": "Ustaz Razul Elias",
+      "role": "speaker"
+    },
+    {
+      "name": "Haji Hassan Adam Shah",
+      "role": "other"
+    }
+  ],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3976561419026079501",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/mosque_ids",
+        "/status"
+      ]
+    },
+    {
+      "source_id": "instagram:3976561419026079501",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/extra_data"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Session start and end times are not stated.",
+      "The address is not stated.",
+      "The 11 September khutbah is explicitly in English; languages for the other sessions are not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "sessions": [
+      {
+        "date": "2026-09-04",
+        "khatib": "Ustaz Razul Elias",
+        "bilal": "Haji Aris Hj Amin"
+      },
+      {
+        "date": "2026-09-11",
+        "khatib": "Ustaz Hidayat Ismail",
+        "bilal": "Haji Zour Boong",
+        "language": "en"
+      },
+      {
+        "date": "2026-09-18",
+        "khatib": "Ustaz Amirul Mukminin",
+        "bilal": "Haji Sapar Edros"
+      },
+      {
+        "date": "2026-09-25",
+        "khatib": "Ustaz Razul Elias",
+        "bilal": "Haji Hassan Adam Shah"
+      }
+    ]
+  },
+  "id": "2f24f4ff-d9b6-4c73-9948-ad252c6c42f4",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3976561419026079501",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcvlYq4kp8N/",
+      "post_id": "3976561419026079501",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [
+        "https://www.instagram.com/alfirdausmosquesg/"
+      ],
+      "published_at": "2026-09-01T11:44:43.000Z",
+      "retrieved_at": "2026-09-22T02:29:47.460Z",
+      "caption": "Assalamualaikum wr wb,\n\nKhatib Jumaat pada bulan September ini.\n\nMari laksanakan kewajipan solat Jumaat di Masjid Al-Firdaus.\n\n🕌\n\nContribute to Masjid Al-Firdaus:\n\n1. PayNow UEN: S62MQ0011J\n2. OCBC Wadiah Account: 517-147690-001\n\nMay Allah s.w.t reward your efforts abundantly. Āmīn\n\n#Jumuah \n#MasjidAlFirdaus \n#AlFirdausMosque \n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}

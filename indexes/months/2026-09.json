@@ -2,6 +2,147 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "2f24f4ff-d9b6-4c73-9948-ad252c6c42f4",
+      "title": "Khatib Jumaat - September 2026",
+      "description": "Friday khutbah sessions at Masjid Al-Firdaus.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "Jumuah",
+        "Khutbah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "4, 11, 18 and 25 September 2026",
+        "occurrences": [
+          {
+            "label": "04 Sept",
+            "date": "2026-09-04",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "11 Sept",
+            "date": "2026-09-11",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "18 Sept",
+            "date": "2026-09-18",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "25 Sept",
+            "date": "2026-09-25",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Razul Elias",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Hidayat Ismail",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Amirul Mukminin",
+          "role": "speaker"
+        },
+        {
+          "name": "Haji Aris Hj Amin",
+          "role": "other"
+        },
+        {
+          "name": "Haji Zour Boong",
+          "role": "other"
+        },
+        {
+          "name": "Haji Sapar Edros",
+          "role": "other"
+        },
+        {
+          "name": "Ustaz Razul Elias",
+          "role": "speaker"
+        },
+        {
+          "name": "Haji Hassan Adam Shah",
+          "role": "other"
+        }
+      ],
+      "languages": [],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Session start and end times are not stated.",
+          "The address is not stated.",
+          "The 11 September khutbah is explicitly in English; languages for the other sessions are not stated."
+        ]
+      },
+      "path": "events/2f24f4ff-d9b6-4c73-9948-ad252c6c42f4.json",
+      "matched_occurrences": [
+        {
+          "label": "04 Sept",
+          "date": "2026-09-04",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "11 Sept",
+          "date": "2026-09-11",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "18 Sept",
+          "date": "2026-09-18",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "25 Sept",
+          "date": "2026-09-25",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "5e06d40b-758b-45bd-a5de-5861d76d51cc",
       "title": "Solat Jumaat",
       "description": "Friday prayers with two advertised sessions.",
