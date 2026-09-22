@@ -1,0 +1,97 @@
+{
+  "title": "Kuliah Malam Muslimah: Fiqh Wanita Kontemporari",
+  "description": null,
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kuliah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Hari Selasa, 8.00 malam, Aras 4 Bilik 13-15, Lift 2 Lobby",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "TU"
+      ],
+      "rule_text": "Hari Selasa — 8.00 malam",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "20:00",
+        "literal": "8.00 malam"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Aras 4, Bilik 13-15, Lift 2 Lobby, Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Nurmainah Jumat",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimah"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3865474918218527467",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "3c8da326-dbf0-4f9f-ae52-364a601b6acf",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3865474918218527467",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DWk7PU8mPLr",
+      "post_id": "3865474918218527467",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-04-01T05:15:40.000Z",
+      "retrieved_at": "2026-09-22T07:01:12.363Z",
+      "caption": "Kuliah bukan sekadar ilmu, tapi ruang untuk kita pulang kepada Allah 🤍\n\nJadual Kuliah-Kuliah 2026 di Masjid Darul Ghufran.\nPilih hari, atur masa, dan hadirkan diri.\n\nSemoga setiap langkah ke masjid menjadi asbab kebaikan. 🤲\n\n#MDG #MasjidDarulGhufran\n#KuliahMDG"
+    }
+  ]
+}
