@@ -1,0 +1,110 @@
+{
+  "title": "Tadabbur Praktikal: Surah Al-Mulk",
+  "description": "Tadabbur TalkShows session on the practical lessons of Surah Al-Mulk.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "religious lecture",
+    "Quran study"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Jumaat, 25 September 2026, selepas Solat Isyak",
+    "occurrences": [
+      {
+        "label": "Tadabbur Praktikal: Surah Al-Mulk",
+        "date": "2026-09-25",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "isha",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "Selepas Solat Isyak"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat Masjid An-Nur",
+    "address": "6 Admiralty Road, Singapore 799833",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Khairulzaman Rahmat",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Those interested in understanding Surah Al-Mulk"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3990965761468933607",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/languages",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3990965761468933607",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": "A free Tadabbur guide book is advertised for participants.",
+  "extra_data": {
+    "series_title": "Tadabbur TalkShows",
+    "free_item": "Buku Panduan Tadabbur"
+  },
+  "id": "c0d73221-7a23-43b2-aef2-7b0d4811e0c1",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3990965761468933607",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdiwjcLGiXn",
+      "post_id": "3990965761468933607",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-09-21T08:43:34.000Z",
+      "retrieved_at": "2026-09-22T02:26:26.729Z",
+      "caption": "Bukan Sekadar Bacaan | Tadabbur Praktikal Surah Al-Mulk\n\nKita mungkin membaca Surah Al-Mulk setiap malam tetapi pernahkah kita berhenti sejenak untuk menghayati apa yang diajarkannya?\n\nBagaimana jika bacaan kita setiap malam bukan sekadar menjadi\nsatu rutin?\n\nBagaimana jika peringatan yang penuh makna dalam Surah Al-Mulk dapat membentuk cara kita melihat Allah, memahami tujuan hidup, dan menjalani kehidupan seharian?\n\nSertai kami dalam Tadabbur TalkShows yang terakhir untuk\nmenyelami panduan praktikal, peringatan yang mendalam serta pengajaran penuh hikmah daripada Surah Al-Mulk.\n\n🗓️ Jumaat, 25 September 2026\n🕧 Selepas Solat Isyak\n🕌 Dewan Solat Masjid An-Nur\n🗣️ Dalam Bahasa Melayu\n\n🎁 Khas untuk para peserta: Dapatkan BUKU PANDUAN TADABBUR PERCUMA!\n\nSama ada anda telah membaca Surah Al-Mulk setiap malam selama bertahun-tahun atau baru ingin mendalami hubungan dengan Al-Quran, sesi ini adalah untuk anda.\n\nAjak keluarga dan sahabat anda, kami menantikan kehadiran anda, In Shaa Allah!\n\n#QuranSG #TadabburTalkshows #DarulTafsirSG #SurahAlMulk"
+    }
+  ]
+}
