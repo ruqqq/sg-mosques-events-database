@@ -1,0 +1,164 @@
+{
+  "title": "Majlis Maulid Perdana di Qaryah",
+  "description": "Maulid Perdana di Qaryah: Bacaan Wirdul Latif (zikir), Solat Maghrib berjemaah, Bacaan Maulid Dhiyaul Lami' and Forum Keluarga \"RUMAHKU, SYURGAKU\", organised by Masjid Yusof Ishak with the qaryah.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "religious",
+    "community"
+  ],
+  "status": "completed",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3985770130269811337",
+      "locator": "caption",
+      "quote": "terima kasih kepada semua jemaah, penduduk qaryah, keluarga dan sahabat yang telah hadir memeriahkan Maulid Perdana di Qaryah Sabtu lepas."
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sabtu, 12 September 2026 (30 Rabiulawal 1448H), majlis 6.25ptg hingga 9.55mlm",
+    "occurrences": [
+      {
+        "date": "2026-09-12",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "18:25",
+          "literal": "6.25PTG"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:55",
+          "literal": "9.55MLM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Linkhouse 720A Woodlands Ave 6",
+    "address": "720A Woodlands Ave 6, Singapore 730720",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Hassan Saifouridzal",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustazah Nurasikin Mohammed",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Md Husni Abdul Hakim",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Nabilah Saifouridzal",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "jemaah",
+    "qaryah residents",
+    "families"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3985770130269811337",
+      "locator": "slide:10",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/audience",
+        "/extra_data"
+      ],
+      "note": "Poster giving date, venue, atur cara and speakers."
+    },
+    {
+      "source_id": "instagram:3985770130269811337",
+      "locator": "caption",
+      "supports": [
+        "/status",
+        "/status_evidence"
+      ],
+      "note": "Thank-you recap addressed to those who attended Maulid Perdana di Qaryah last Saturday."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Majlis start time taken from the poster badge '6.25PTG'; the atur cara's first listed item is 6.30PTG Bacaan Wirdul Latif.",
+      "Forum panellist names are read from the poster image; exact spelling may differ.",
+      "Registration requirement and pricing are not stated on the poster; recorded as unknown."
+    ]
+  },
+  "notes": "Recap post published 14 Sep 2026 thanking those who attended Maulid Perdana di Qaryah 'Sabtu lepas' (Saturday 12 Sep 2026). The gathering was held at Linkhouse 720A Woodlands Ave 6 with the qaryah; the mosque's own address appears only in the poster footer. The 7.15mlm Solat Maghrib berjemaah slot is an agenda item of this same programme, not a separate Friday-prayer notice.",
+  "extra_data": {
+    "hijri_date": "30 Rabiulawal 1448H",
+    "co_organisers": [
+      "Qaryah"
+    ],
+    "agenda": [
+      {
+        "time_literal": "6.30PTG",
+        "item": "Bacaan Wirdul Latif (zikir)",
+        "leader": "Ustaz Hassan Saifouridzal"
+      },
+      {
+        "time_literal": "7.15MLM",
+        "item": "Solat Maghrib Berjemaah",
+        "note": "Tempat mengambil wudhu tidak disediakan"
+      },
+      {
+        "time_literal": "7.45MLM",
+        "item": "Bacaan Maulid Dhiyaul Lami'",
+        "leader": "Ustaz Hassan Saifouridzal"
+      },
+      {
+        "time_literal": "8.30MLM",
+        "item": "Forum Keluarga \"RUMAHKU, SYURGAKU\""
+      },
+      {
+        "time_literal": "9.55MLM",
+        "item": "Tamat"
+      }
+    ]
+  },
+  "id": "b436ff03-f890-412e-9631-4b5596570710",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3985770130269811337",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdQTNDjGDKJ",
+      "post_id": "3985770130269811337",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-09-14T04:40:47.000Z",
+      "retrieved_at": "2026-09-22T07:08:57.242Z",
+      "caption": "Alhamdulillah, terima kasih kepada semua jemaah, penduduk qaryah, keluarga dan sahabat yang telah hadir memeriahkan Maulid Perdana di Qaryah Sabtu lepas.\n\nKehadiran anda semua telah menjadikan majlis ini lebih bermakna, penuh mahabbah dan ukhuwah, dalam usaha kita bersama menghidupkan cinta kepada Rasulullah ﷺ.\n\nSetinggi-tinggi penghargaan juga kepada semua qaryah, sukarelawan, asatizah dan pihak yang terlibat dalam menjayakan majlis ini.\n\nSemoga pertemuan ini menjadi asbab bertambahnya kasih kita kepada Baginda ﷺ, mengeratkan hubungan sesama masyarakat, dan membuka jalan kepada lebih banyak program qaryah yang bermanfaat pada masa akan datang.\n\nTautkan hati dengan mahabbah, satukan langkah demi ummah.\n\n#MaulidPerdana #MaulidQaryah #MasjidYusofIshak #CintaRasulullah"
+    }
+  ]
+}

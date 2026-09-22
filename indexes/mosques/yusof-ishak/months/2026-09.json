@@ -2,6 +2,109 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "b436ff03-f890-412e-9631-4b5596570710",
+      "title": "Majlis Maulid Perdana di Qaryah",
+      "description": "Maulid Perdana di Qaryah: Bacaan Wirdul Latif (zikir), Solat Maghrib berjemaah, Bacaan Maulid Dhiyaul Lami' and Forum Keluarga \"RUMAHKU, SYURGAKU\", organised by Masjid Yusof Ishak with the qaryah.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "religious",
+        "community"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sabtu, 12 September 2026 (30 Rabiulawal 1448H), majlis 6.25ptg hingga 9.55mlm",
+        "occurrences": [
+          {
+            "date": "2026-09-12",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "18:25",
+              "literal": "6.25PTG"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:55",
+              "literal": "9.55MLM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Linkhouse 720A Woodlands Ave 6",
+        "address": "720A Woodlands Ave 6, Singapore 730720",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Hassan Saifouridzal",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustazah Nurasikin Mohammed",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Md Husni Abdul Hakim",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Nabilah Saifouridzal",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "jemaah",
+        "qaryah residents",
+        "families"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Majlis start time taken from the poster badge '6.25PTG'; the atur cara's first listed item is 6.30PTG Bacaan Wirdul Latif.",
+          "Forum panellist names are read from the poster image; exact spelling may differ.",
+          "Registration requirement and pricing are not stated on the poster; recorded as unknown."
+        ]
+      },
+      "path": "events/b436ff03-f890-412e-9631-4b5596570710.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-12",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "18:25",
+            "literal": "6.25PTG"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:55",
+            "literal": "9.55MLM"
+          }
+        }
+      ]
+    },
+    {
       "id": "7562b92b-bba6-48dc-919a-fbdbe82c1583",
       "title": "Tadabbur & Talaqqi: Surah Al-Qāri‘ah",
       "description": "Sesi tadabbur dan talaqqi Surah Al-Qāri‘ah bersama Ustaz Muhammad Mansor Abdul Rahim, membincangkan kedahsyatan Hari Kiamat, keadaan manusia menghadapinya dan timbangan amal sebagai penentu nasib di akhirat. Ijazah Sanad disediakan kepada peserta yang lulus penilaian bacaan.",
