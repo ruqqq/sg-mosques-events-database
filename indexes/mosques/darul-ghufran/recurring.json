@@ -957,6 +957,74 @@
       "path": "events/e006e510-0c07-48a9-83ef-95e4aeed5af5.json"
     },
     {
+      "id": "ec74e0a0-067d-4ef6-a169-d9042f11c3ae",
+      "title": "Kuliah Maghrib: Seni Berdoa Antara Tunduk Hati & Adab Lisan",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Jumaat, selepas solat Maghrib, di Dewan Solat",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Hari Jumaat — Kuliah Maghrib selepas solat Maghrib",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas solat Maghrib"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "hybrid",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Jamaluddin Abdul Wahab",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/ec74e0a0-067d-4ef6-a169-d9042f11c3ae.json"
+    },
+    {
       "id": "eeb99450-baaa-44eb-8d8e-1bcdadb500f7",
       "title": "Kuliah Maghrib: Amalan Penyalamat Dari Azab Neraka",
       "description": null,
