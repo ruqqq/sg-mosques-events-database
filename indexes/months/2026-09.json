@@ -1276,6 +1276,94 @@
       ]
     },
     {
+      "id": "38b69331-74c6-4d4b-86f2-3c24deb99f13",
+      "title": "Jurnal Sahabat Al-Quran: Tadabbur Ayat-Ayat yang Meredakan Keresahan Jiwa",
+      "description": "Online tadabbur session by Ustazah Azizah Rhai'yan reflecting on selected Quranic verses about calmness and hope, organised by Masjid Yusof Ishak.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "quran",
+        "religious class",
+        "online programme"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Jumaat, 11 September 2026, 8.30 malam - 10.00 malam",
+        "occurrences": [
+          {
+            "date": "2026-09-11",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "20:30",
+              "literal": "8.30 malam"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "22:00",
+              "literal": "10.00 malam"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Azizah Rhai'yan",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://tinyurl.com/jurnal-11sept26",
+        "deadline_date": null,
+        "instructions": "Daftar di: tinyurl.com/jurnal-11sept26 atau imbas kod QR"
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "PERCUMA"
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Online class platform and meeting URL are not stated on the poster.",
+          "Registration deadline is not stated.",
+          "Audience is not specified."
+        ]
+      },
+      "path": "events/38b69331-74c6-4d4b-86f2-3c24deb99f13.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-11",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "20:30",
+            "literal": "8.30 malam"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "22:00",
+            "literal": "10.00 malam"
+          }
+        }
+      ]
+    },
+    {
       "id": "60bbef34-de68-4bd6-b70b-6f6bf3644d36",
       "title": "Jom Jumaat",
       "description": null,

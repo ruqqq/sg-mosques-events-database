@@ -1,0 +1,128 @@
+{
+  "title": "Jurnal Sahabat Al-Quran: Tadabbur Ayat-Ayat yang Meredakan Keresahan Jiwa",
+  "description": "Online tadabbur session by Ustazah Azizah Rhai'yan reflecting on selected Quranic verses about calmness and hope, organised by Masjid Yusof Ishak.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "quran",
+    "religious class",
+    "online programme"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Jumaat, 11 September 2026, 8.30 malam - 10.00 malam",
+    "occurrences": [
+      {
+        "date": "2026-09-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "20:30",
+          "literal": "8.30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "22:00",
+          "literal": "10.00 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Azizah Rhai'yan",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "required",
+    "url": "https://tinyurl.com/jurnal-11sept26",
+    "deadline_date": null,
+    "instructions": "Daftar di: tinyurl.com/jurnal-11sept26 atau imbas kod QR"
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "PERCUMA"
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982941470373447846",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/pricing",
+        "/registration",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3982941470373447846",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/occurrences/0/date",
+        "/registration/url",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Online class platform and meeting URL are not stated on the poster.",
+      "Registration deadline is not stated.",
+      "Audience is not specified."
+    ]
+  },
+  "notes": "Evening online tadabbur class held on a Friday but separate from the Friday congregational prayer service; registration via short link or QR code.",
+  "extra_data": {
+    "organiser": "Masjid Yusof Ishak",
+    "organiser_address": "10 Woodlands Drive 17, Singapore 737740",
+    "uen": "T16MQ0003SE",
+    "poster_tagline": "Ketenangan bermula dari Al-Quran",
+    "audience_invitation": "Jemput keluarga dan sahabat untuk turut bersama"
+  },
+  "id": "38b69331-74c6-4d4b-86f2-3c24deb99f13",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982941470373447846",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdGQCouyAim/",
+      "post_id": "3982941470373447846",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [
+        "https://www.instagram.com/masjidyusofishak/"
+      ],
+      "published_at": "2026-09-10T07:01:23.000Z",
+      "retrieved_at": "2026-09-22T07:13:43.412Z",
+      "caption": "JURNAL SAHABAT AL-QURAN\n\nTadabbur Ayat-Ayat yang Meredakan Keresahan Jiwa\n\nAda kalanya hati terasa berat, fikiran berserabut dan jiwa sukar menemukan ketenangan.\n\nDalam saat seperti ini, Al-Quran sentiasa menjadi tempat kita kembali — membawa harapan, menenangkan hati dan menguatkan jiwa untuk terus melangkah.\n\nSertai Ustazah Azizah Rhai’yan dalam sesi Jurnal Sahabat Al-Quran kali ini, sambil kita menghayati ayat-ayat pilihan yang berbicara tentang ketenangan dan pengharapan.\n\n📅 Jumaat, 11 September 2026\n🕣 8.30 malam – 10.00 malam\n💻 Kelas Online\n🎟️ PERCUMA\n\n🔗 Daftar sekarang:\ntinyurl.com/jurnal-11sept26\n\n“Saat hati resah, kembalilah kepada kalam Allah.”\n\nJemput keluarga dan sahabat untuk turut bersama. 🤍\n\n#MasjidYusofIshak #JurnalSahabatAlQuran #tadabburalquran",
+      "links": [
+        {
+          "url": "https://tinyurl.com/jurnal-11sept26",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
