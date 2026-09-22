@@ -313,6 +313,133 @@
           }
         }
       ]
+    },
+    {
+      "id": "5de76ded-02e0-4a3e-b01c-9b28f2a74a20",
+      "title": "Kursus Pendek Tajwid: Sifat Huruf Siri 1 & 2",
+      "description": "Kursus pendek tajwid untuk membantu peserta memperbaiki makhraj dan sebutan huruf hijaiyyah ketika membaca Al-Quran. Sesuai untuk peserta peringkat asas hingga pertengahan. Nota disediakan.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "education",
+        "quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Sabtu, 17 & 24 Oktober 2026, 2.00 ptg - 4.30 ptg",
+        "occurrences": [
+          {
+            "label": "Siri 1",
+            "date": "2026-10-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "14:00",
+              "literal": "2.00 ptg"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "16:30",
+              "literal": "4.30 ptg"
+            }
+          },
+          {
+            "label": "Siri 2",
+            "date": "2026-10-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "14:00",
+              "literal": "2.00 ptg"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "16:30",
+              "literal": "4.30 ptg"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Nassier Sarudin",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Peringkat asas hingga pertengahan"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://darulghufran.org/sifathuruf",
+        "deadline_date": null,
+        "instructions": "Daftar sekarang melalui darulghufran.org/sifathuruf atau QR code pada poster."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 40,
+            "currency": "SGD",
+            "label": "$40 untuk 2 sesi"
+          }
+        ],
+        "notes": "Nota disediakan."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Sumber menyenaraikan tarikh sebagai '17 & 24 Oktober 2026' dan menamakan siri 'Siri 1 & 2' tanpa memetakan setiap nama siri kepada tarikh; label pada occurrences dipetakan mengikut turutan tarikh.",
+          "Alamat penuh masjid tidak dinyatakan; 'Aras 4, blk 8, 9 & 10' hanya menunjukkan lokasi dalam bangunan.",
+          "Tiada tarikh tutup pendaftaran dinyatakan."
+        ]
+      },
+      "path": "events/5de76ded-02e0-4a3e-b01c-9b28f2a74a20.json",
+      "matched_occurrences": [
+        {
+          "label": "Siri 1",
+          "date": "2026-10-17",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "14:00",
+            "literal": "2.00 ptg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:30",
+            "literal": "4.30 ptg"
+          }
+        },
+        {
+          "label": "Siri 2",
+          "date": "2026-10-24",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "14:00",
+            "literal": "2.00 ptg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:30",
+            "literal": "4.30 ptg"
+          }
+        }
+      ]
     }
   ]
 }

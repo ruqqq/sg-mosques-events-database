@@ -1,0 +1,142 @@
+{
+  "title": "Kursus Pendek Tajwid: Sifat Huruf Siri 1 & 2",
+  "description": "Kursus pendek tajwid untuk membantu peserta memperbaiki makhraj dan sebutan huruf hijaiyyah ketika membaca Al-Quran. Sesuai untuk peserta peringkat asas hingga pertengahan. Nota disediakan.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "education",
+    "quran"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Sabtu, 17 & 24 Oktober 2026, 2.00 ptg - 4.30 ptg",
+    "occurrences": [
+      {
+        "label": "Siri 1",
+        "date": "2026-10-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "14:00",
+          "literal": "2.00 ptg"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:30",
+          "literal": "4.30 ptg"
+        }
+      },
+      {
+        "label": "Siri 2",
+        "date": "2026-10-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "14:00",
+          "literal": "2.00 ptg"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:30",
+          "literal": "4.30 ptg"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Nassier Sarudin",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Peringkat asas hingga pertengahan"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://darulghufran.org/sifathuruf",
+    "deadline_date": null,
+    "instructions": "Daftar sekarang melalui darulghufran.org/sifathuruf atau QR code pada poster."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 40,
+        "currency": "SGD",
+        "label": "$40 untuk 2 sesi"
+      }
+    ],
+    "notes": "Nota disediakan."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982760096324239090",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing"
+      ]
+    },
+    {
+      "source_id": "instagram:3982760096324239090",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/status",
+        "/registration",
+        "/audience",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Sumber menyenaraikan tarikh sebagai '17 & 24 Oktober 2026' dan menamakan siri 'Siri 1 & 2' tanpa memetakan setiap nama siri kepada tarikh; label pada occurrences dipetakan mengikut turutan tarikh.",
+      "Alamat penuh masjid tidak dinyatakan; 'Aras 4, blk 8, 9 & 10' hanya menunjukkan lokasi dalam bangunan.",
+      "Tiada tarikh tutup pendaftaran dinyatakan."
+    ]
+  },
+  "notes": "Kursus dua sesi; yuran $40 meliputi kedua-dua sesi dan nota disediakan. Poster menunjukkan QR code dan pautan pendaftaran darulghufran.org/sifathuruf.",
+  "extra_data": {
+    "venue_detail": "Aras 4, blk 8, 9 & 10",
+    "series_name": "Sifat Huruf Siri 1 & 2",
+    "notes_provided": true,
+    "registration_link_displayed": "darulghufran.org/sifathuruf"
+  },
+  "id": "5de76ded-02e0-4a3e-b01c-9b28f2a74a20",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982760096324239090",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdFmzS_Ab7y/",
+      "post_id": "3982760096324239090",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [
+        "https://www.instagram.com/darulghufran/"
+      ],
+      "published_at": "2026-09-10T01:00:23.000Z",
+      "retrieved_at": "2026-09-22T07:06:26.399Z",
+      "caption": "Nak perbaiki makhraj dan sebutan huruf hijaiyyah ketika membaca Al-Quran? 📖\n\nSertai Kursus Pendek Tajwid: Sifat Huruf Siri 1 & 2 bersama Ustaz Muhammad Nassier Sarudin.\n\n📅 17 & 24 Oktober 2026\n🕑 2.00 ptg – 4.30 ptg\n📍 Masjid Darul Ghufran\n💰 $40 untuk 2 sesi, nota disediakan\n\nSesuai untuk peserta peringkat asas hingga pertengahan.\n\nDaftar sekarang:\n🔗 darulghufran.org/sifathuruf"
+    }
+  ]
+}
