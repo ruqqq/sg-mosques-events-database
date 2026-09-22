@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 49
+    "count": 50
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -229,7 +229,7 @@
       },
       "recurring": {
         "path": "indexes/mosques/darul-makmur/recurring.json",
-        "count": 2
+        "count": 3
       },
       "undated": {
         "path": "indexes/mosques/darul-makmur/undated.json",

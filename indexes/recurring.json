@@ -1457,6 +1457,91 @@
       "path": "events/6abd008b-cb75-40e7-92f9-d853a8948c1a.json"
     },
     {
+      "id": "6d1b96dc-25a8-48a7-8076-d579c3077eec",
+      "title": "ADIL: The Chosen One 2 – The Study of Prophetic Characteristics & Manners",
+      "description": "Module 2 of the ADIL series on the prophetic characteristics and manners of Rasulullah ﷺ, covering generosity, endurance, bravery, humility, human dignity, peaceful living, care for the environment and tenderness towards women, children and the elderly. A 10-hour ADIL module conducted online over weekly Monday sessions.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "ADIL",
+        "Sirah",
+        "Islamic education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Mondays, 14 Sep – 5 Oct 2026, 7.45 pm to 9.45 pm (Zoom Online)",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO"
+          ],
+          "rule_text": "14 Sep - 5 Oct 2026, Mondays, 7.45 pm to 9.45pm",
+          "starts_on": "2026-09-14",
+          "ends_on": "2026-10-05",
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:45",
+            "literal": "7.45 pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:45",
+            "literal": "9.45pm"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "online",
+        "name": "Zoom Online",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Ridwan Sarmidi",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://l.ead.me/ADILMDM2026",
+        "deadline_date": null,
+        "instructions": "Register online at l.ead.me/ADILMDM2026"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 50,
+            "currency": "SGD",
+            "label": "per module"
+          }
+        ],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Source gives a date range plus weekday rule (Mondays, 14 Sep - 5 Oct 2026) rather than an explicit session list; treated as weekly recurrence, so the exact number of sessions is not stated.",
+          "All sessions assumed to share the advertised 7.45 pm - 9.45 pm times; per-session times not itemised.",
+          "Caption mentions a 10-hour module while the advertised date range and 2-hour Monday sessions imply fewer hours; discrepancy unresolved.",
+          "Registration link is given as the short form 'l.ead.me/ADILMDM2026'; the https scheme was assumed for the URL field.",
+          "Zoom meeting URL not provided; the platform is named but no join link is published.",
+          "Audience/eligibility and registration deadline are not stated."
+        ]
+      },
+      "path": "events/6d1b96dc-25a8-48a7-8076-d579c3077eec.json"
+    },
+    {
       "id": "6eb46674-805c-4ec6-970e-83827a243bb2",
       "title": "Program Kesihatan (Steadylah oleh HPB)",
       "description": "Weekly Thursday health programme organised with HPB (Steadylah) for Muslimah aged 50 and above, presented under the Santunan Emas programme at Masjid Al-Islah.",
