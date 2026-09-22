@@ -1,0 +1,112 @@
+{
+  "title": "Blessings in Harmony (BIH) Gives – Free Food Wednesday",
+  "description": "Monthly community outreach by Masjid Al-Islah providing 250 free meals to Punggol residents; the advertised distribution runs from 12PM onwards while stocks last.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "community outreach",
+    "food distribution",
+    "charity"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "23 Sep, from 12PM onwards (while stocks last)",
+    "occurrences": [
+      {
+        "date": "2026-09-23",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "12:00",
+          "literal": "Distribution will start from 12pm"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Blk 208 Multi-Purpose Hall, Punggol Field",
+    "address": "Blk 208 Multi-Purpose Hall, Punggol Field, Singapore",
+    "online_url": null
+  },
+  "people": [],
+  "audience": [
+    "Punggol residents"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Free meals, while stocks last. Optional sponsorship/donation channels (PayNow QR; email info@islah.mosque.sg for individuals or organisations wishing to sponsor) are support channels, not admission charges."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982123160559969865",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/occurrences/0/date",
+        "/schedule/occurrences/0/start_time",
+        "/location/name",
+        "/pricing/kind",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3982123160559969865",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/occurrences/0/date",
+        "/schedule/occurrences/0/start_time",
+        "/location/name",
+        "/pricing/kind"
+      ],
+      "note": "Poster gives the date, venue and distribution start time, plus a PayNow donation QR for supporters."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Year is not printed on the poster; 2026 is inferred from the post's published date and the 'next Wednesday' wording, which matches Wednesday 23 Sep 2026.",
+      "The caption describes an ongoing monthly programme (250 free meals monthly), but only the 23 Sep distribution is dated, so no recurrence rule is encoded.",
+      "Whether any registration or eligibility check applies at the venue is not stated."
+    ]
+  },
+  "notes": "Community outreach meal distribution at a Punggol multi-purpose hall. Individuals or organisations wishing to sponsor are directed to email info@islah.mosque.sg; a PayNow QR is shown for donations.",
+  "extra_data": {
+    "programme_name": "Blessings in Harmony (BIH) Gives",
+    "stated_monthly_scale": "250 free meals to Punggol residents each month",
+    "sponsorship_email": "info@islah.mosque.sg",
+    "distribution_condition": "while stocks last"
+  },
+  "id": "18665c14-f8c6-47e5-8e8d-514a437e1af3",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982123160559969865",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdDV-qVCGZJ/",
+      "post_id": "3982123160559969865",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [
+        "https://www.instagram.com/alislahmosque/"
+      ],
+      "published_at": "2026-09-09T03:55:32.000Z",
+      "retrieved_at": "2026-09-22T07:03:05.492Z",
+      "caption": "Blessings in Harmony - BIH Gives\nAs part of our ongoing community outreach programme, BIH provides 250 free meals to Punggol residents every month.\n\n🗓️ 23 Sep\n🕛 From 12PM onwards (while stocks last)\n📍 Blk 208 Multi-Purpose Hall, Punggol Field\n\nCome and get your free lunch next Wednesday!\n\n#BlessingsInHarmony #BIH #CommunityCare #MasjidAlIslah"
+    }
+  ]
+}
