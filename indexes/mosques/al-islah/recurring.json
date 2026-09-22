@@ -75,6 +75,87 @@
       "path": "events/0141399f-eeae-476a-8cbc-5db81ca43a7e.json"
     },
     {
+      "id": "17b91c71-08bf-4ecf-8f1f-d4d5cbc01e1c",
+      "title": "AQS After School Quran & Solat",
+      "description": "After-school Quran and Solat class for children, offered under the Al-Islah Quran & Solat Academy (AQSA) 2027 weekly physical classes.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "education",
+        "quran",
+        "solat"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Mondays – Fridays, 4:00pm – 6:00pm (2027 weekly physical classes)",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "TH",
+            "FR"
+          ],
+          "rule_text": "After School Quran & Solat: Mondays – Fridays, 4:00pm – 6:00pm",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "16:00",
+            "literal": "4:00pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "18:00",
+            "literal": "6:00pm"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "children"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://alislah.school.qirom.sg/",
+        "deadline_date": null,
+        "instructions": "Registration opens on 5 October 2026 at 9am; scan the QR code or register at https://alislah.school.qirom.sg/. Payment upon registration is required to secure your spot. Registration guide: https://bit.ly/AQSA_New_RegGuide2027"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 70,
+            "currency": "SGD",
+            "label": "Registration fee + Jan & Feb 2027 fees (physical classes)"
+          }
+        ],
+        "notes": "Payment upon registration is required to secure your spot. SGD70 is stated for the physical class offerings as a whole."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No explicit first or last class date is given; the intake year 2027 is stated but schedule.starts_on/ends_on remain null.",
+          "The post does not state a per-series fee; SGD70 is stated for the physical classes as a whole.",
+          "Venue within the mosque and language of instruction are not stated."
+        ]
+      },
+      "path": "events/17b91c71-08bf-4ecf-8f1f-d4d5cbc01e1c.json"
+    },
+    {
       "id": "6eb46674-805c-4ec6-970e-83827a243bb2",
       "title": "Program Kesihatan (Steadylah oleh HPB)",
       "description": "Weekly Thursday health programme organised with HPB (Steadylah) for Muslimah aged 50 and above, presented under the Santunan Emas programme at Masjid Al-Islah.",
