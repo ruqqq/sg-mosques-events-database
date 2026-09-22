@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "id": "al-falah",
+  "name": "Al-Falah",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://alfalah.sg/",
+  "logo": {"path": "assets/logos/al-falah.png", "source_url": "https://alfalah.sg/wp-content/uploads/2022/06/logonew-1.png"},
+  "social_sources": [{
+    "platform": "instagram", "handle": "masjidalfalah", "profile_id": "3010365740",
+    "role": "primary", "status": "confirmed", "confidence": "high",
+    "evidence": ["https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/", "https://www.instagram.com/masjidalfalah/"],
+    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
+  }]
+}

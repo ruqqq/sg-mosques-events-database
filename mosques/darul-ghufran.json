@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "id": "darul-ghufran",
+  "name": "Darul Ghufran",
+  "country": "SG",
+  "timezone": "Asia/Singapore",
+  "website": "https://donate.darulghufran.org/",
+  "logo": {"path": "assets/logos/darul-ghufran.png", "source_url": "https://static.qiromconsulting.com/assets/img/logo-image/101/101_logo_image_101.png"},
+  "social_sources": [{
+    "platform": "instagram", "handle": "darulghufran", "profile_id": "727401386",
+    "role": "primary", "status": "confirmed", "confidence": "high",
+    "evidence": ["https://www.muis.gov.sg/community/mosque/mosque-directory/darul-ghufran/", "https://www.instagram.com/darulghufran/"],
+    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
+  }]
+}

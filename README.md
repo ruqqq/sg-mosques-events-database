@@ -1,10 +1,12 @@
 # Singapore mosque events database
 
 Public, versioned facts and source references for Singapore mosque events.
-This pilot covers **Sultan, An-Nahdhah, Al-Firdaus, Assyafaah and An-Nur**. It is not a complete
+This pilot covers **Sultan, An-Nahdhah, Al-Firdaus, Assyafaah, An-Nur, Yusof Ishak,
+Ahmad Ibrahim, Darul Ghufran, Al-Ansar, Al-Falah and Al-Islah**. It is not a complete
 Singapore mosque directory or a guarantee that every event is captured.
 
 - `mosques/`: mosque identities and multiple social sources with confidence/evidence.
+- `assets/logos/`: committed logo assets referenced by each mosque record.
 - `events/<event-id>.json`: canonical candidate events/series at stable UUID paths.
 - `indexes/`: generated listings by month and mosque, plus recurring and undated events.
 - `schemas/`: versioned JSON Schema contracts.
@@ -12,7 +14,7 @@ Singapore mosque directory or a guarantee that every event is captured.
 - `scripts/`: public data validation used by CI and the private worker.
 
 A mosque record carries its identity (`id`, `name`, `country`, `timezone`,
-`website`) and its social sources. It may also carry `musolla_uuid`, the UUID of
+`website`), a committed official logo asset, and its social sources. It may also carry `musolla_uuid`, the UUID of
 the same mosque in the [musolla database](https://raw.githubusercontent.com/ruqqq/musolla-database/master/data.json)
 that the PrayerTimePro app uses, so consumers can join these events to that
 record's name, address, coordinates and type. The field is optional and absent

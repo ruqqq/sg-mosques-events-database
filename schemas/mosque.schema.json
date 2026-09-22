@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Mosque source registry",
   "type": "object", "additionalProperties": false,
-  "required": ["schema_version", "id", "name", "country", "timezone", "website", "social_sources"],
+  "required": ["schema_version", "id", "name", "country", "timezone", "website", "logo", "social_sources"],
   "properties": {
     "schema_version": {"const": "1.0"},
     "id": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
@@ -10,6 +10,14 @@
     "country": {"const": "SG"},
     "timezone": {"const": "Asia/Singapore"},
     "website": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "logo": {
+      "type": "object", "additionalProperties": false,
+      "required": ["path", "source_url"],
+      "properties": {
+        "path": {"type": "string", "pattern": "^assets/logos/[a-z0-9-]+\\.(?:png|jpe?g)$"},
+        "source_url": {"type": "string", "format": "uri", "pattern": "^https://"}
+      }
+    },
     "musolla_uuid": {"type": "string", "format": "uuid", "description": "Optional record id of this mosque in the ruqqq/musolla-database dataset (https://raw.githubusercontent.com/ruqqq/musolla-database/master/data.json), as used by the PrayerTimePro app; absent when no matching record is known."},
     "social_sources": {"type": "array", "items": {
       "type": "object", "additionalProperties": false,

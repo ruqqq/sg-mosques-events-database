@@ -5,6 +5,7 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://assyafaah.sg/",
+  "logo": {"path": "assets/logos/assyafaah.jpg", "source_url": "https://www.instagram.com/assyafaahmosque/"},
   "musolla_uuid": "8964eae7-d869-41b6-af84-085c4119e645",
   "social_sources": [
     {

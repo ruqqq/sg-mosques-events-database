@@ -5,6 +5,7 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://www.annurmosque.sg/",
+  "logo": {"path": "assets/logos/an-nur.jpg", "source_url": "https://www.instagram.com/masjidannursg/"},
   "musolla_uuid": "5469a4ff-900c-4c82-a305-77952588b945",
   "social_sources": [
     {

@@ -19,6 +19,9 @@ def main():
         validator.validate(record)
         if path.stem != record['id'] or record['id'] in known:
             raise ValueError(f'Invalid or duplicate mosque filename: {path.name}')
+        logo = ROOT / record['logo']['path']
+        if not logo.is_file():
+            raise ValueError(f'Missing mosque logo: {record["logo"]["path"]}')
         known.add(record['id'])
     if not known:
         raise ValueError('Empty mosque registry')

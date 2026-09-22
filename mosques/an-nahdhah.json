@@ -5,6 +5,7 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://annahdhah.org/",
+  "logo": {"path": "assets/logos/an-nahdhah.jpg", "source_url": "https://www.instagram.com/annahdhah/"},
   "musolla_uuid": "4342d920-ae35-4fc4-a9ff-6a0f45086511",
   "social_sources": [
     {
