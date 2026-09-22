@@ -2,6 +2,74 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "0faa3ec4-6c34-423f-a26f-36d329df5e20",
+      "title": "Kuliah Dhuha Muslimah: Tadabbur Al-Quran",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Selasa, 10:15 pagi, di Dewan Solat",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TU"
+          ],
+          "rule_text": "Hari Selasa — 10:15 pagi",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:15",
+            "literal": "10:15 pagi"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "hybrid",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Shareem Sultanah Abdul Gaffoor",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/0faa3ec4-6c34-423f-a26f-36d329df5e20.json"
+    },
+    {
       "id": "3a018905-7395-4bca-8cc0-6d37edf7f9e6",
       "title": "Pos Kesihatan Masyarakat (CHP) @ Masjid Darul Ghufran",
       "description": "Monthly community health post on the first Monday of each month at Masjid Darul Ghufran, offering health screening and advice from community health officers of Hospital Besar Changi (CGH).",

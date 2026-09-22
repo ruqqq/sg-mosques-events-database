@@ -1,0 +1,100 @@
+{
+  "title": "Kuliah Dhuha Muslimah: Tadabbur Al-Quran",
+  "description": null,
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kuliah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Hari Selasa, 10:15 pagi, di Dewan Solat",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "TU"
+      ],
+      "rule_text": "Hari Selasa — 10:15 pagi",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "10:15",
+        "literal": "10:15 pagi"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "hybrid",
+    "name": "Dewan Solat, Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Shareem Sultanah Abdul Gaffoor",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimah"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3865474918218527467",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "book": "Buku Nota My QuranTime",
+    "format": "Fizikal & Online"
+  },
+  "id": "0faa3ec4-6c34-423f-a26f-36d329df5e20",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3865474918218527467",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DWk7PU8mPLr",
+      "post_id": "3865474918218527467",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-04-01T05:15:40.000Z",
+      "retrieved_at": "2026-09-22T07:01:12.363Z",
+      "caption": "Kuliah bukan sekadar ilmu, tapi ruang untuk kita pulang kepada Allah 🤍\n\nJadual Kuliah-Kuliah 2026 di Masjid Darul Ghufran.\nPilih hari, atur masa, dan hadirkan diri.\n\nSemoga setiap langkah ke masjid menjadi asbab kebaikan. 🤲\n\n#MDG #MasjidDarulGhufran\n#KuliahMDG"
+    }
+  ]
+}
