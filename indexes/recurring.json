@@ -936,6 +936,78 @@
         ]
       },
       "path": "events/f5afb7a7-f40f-41ae-9745-5a643cb4c119.json"
+    },
+    {
+      "id": "faf04a89-0696-4104-854f-90ff5947dd3b",
+      "title": "Kuliah Dhuha (Friday 9.30am–10.30am)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Friday at 9.30am–10.30am",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Setiap Jumaat",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:30",
+            "literal": "9.30pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "10:30",
+            "literal": "10.30pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Nadia Hanim Abdul Rahman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/faf04a89-0696-4104-854f-90ff5947dd3b.json"
     }
   ]
 }
