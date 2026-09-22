@@ -1,0 +1,137 @@
+{
+  "title": "Forum Ilmu: Mengenali Mazhab Imam Syafi'i",
+  "description": "Forum ilmu introducing Imam Syafi'i, the history of his pursuit of knowledge and the principles and methods of the Shafi'i madhhab, including a Q&A session with asatizah. Open to all.",
+  "mosque_ids": [
+    "ahmad-ibrahim"
+  ],
+  "categories": [
+    "forum",
+    "religious education"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Ahad, 11 Oktober, 10.00am - 1.00pm",
+    "occurrences": [
+      {
+        "date": "2026-10-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10.00am"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "13:00",
+          "literal": "1.00pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Ahmad Ibrahim",
+    "address": "15 Jalan Ulu Seletar, Sembawang Road",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Irfan Haron",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Zulzawaid Zulkifli",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Open to all"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Scan the QR code on the poster to join/register."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 15,
+        "currency": "SGD",
+        "label": "per pax with free forum notes"
+      }
+    ],
+    "notes": "Light refreshments provided (jamuan ringan disediakan); no donation request stated."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3985839991539351234",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/audience",
+        "/registration",
+        "/pricing"
+      ],
+      "note": "Poster heading Forum Ilmiyyah; title Mengenali Mazhab Imam Syafi'i; Ustaz Irfan Haron and Ustaz Zulzawaid Zulkifli; Ahad, 11 Oktober, 10.00am-1.00pm; terbuka kepada semua, jamuan ringan disediakan; scan QR to join; $15 per pax with free forum notes; 15 Jalan Ulu Seletar, Sembawang Road."
+    },
+    {
+      "source_id": "instagram:3985839991539351234",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/categories"
+      ],
+      "note": null
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Poster states '11 Oktober' without a year; the occurrence date 2026-10-11 is derived from the post's publication date (2026-09-14) and matches 'Ahad' (Sunday).",
+      "QR code destination is not decoded, so registration.url is unknown; registration requirement inferred from 'Imbas QR untuk sertai'.",
+      "Currency is not stated; SGD assumed for this Singapore mosque.",
+      "The seating/pricing line on the poster is only partly legible ($15 per pax with free forum notes)."
+    ]
+  },
+  "notes": "Community forum (public lecture) at Masjid Ahmad Ibrahim with two asatizah speakers and a Q&A session; not a Friday congregational-prayer notice, recruitment or fundraising post.",
+  "extra_data": {
+    "poster_heading": "Forum Ilmiyyah",
+    "refreshments": "Jamuan ringan disediakan",
+    "organiser_contact": "AhmadIbrahim.sg"
+  },
+  "id": "ed8ffb6b-e6a3-4d97-a67d-4176c20078d2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3985839991539351234",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdQjFq7P77C",
+      "post_id": "3985839991539351234",
+      "author_handle": "masjidahmadibrahim",
+      "author_profile_id": "1022654390",
+      "discovered_via": [],
+      "published_at": "2026-09-14T06:59:53.000Z",
+      "retrieved_at": "2026-09-22T06:57:09.066Z",
+      "caption": "Pernahkah kita tertanya-tanya mengapa sesuatu ibadah dilakukan dengan cara tertentu, atau dari mana datangnya panduan fiqh yang kita amalkan setiap hari?\n\nForum Ilmu: Mengenali Mazhab Imam Syafi‘i mengajak anda mengenali dengan lebih dekat Imam Syafi‘i, sejarah perjalanan ilmunya serta prinsip dan kaedah mazhab yang menjadi pegangan majoriti umat Islam di rantau ini. Bukan sekadar mengenali sejarah, forum ini juga akan membantu kita memahami bagaimana Mazhab Syafi‘i berkait rapat dengan amalan ibadah dan kehidupan seharian.\n\nTurut disediakan sesi soal jawab bersama asatizah untuk anda mendapatkan penjelasan secara langsung.\n\nJom hadir, tambah ilmu dan fahami dengan lebih mendalam pegangan yang kita amalkan selama ini.",
+      "links": [
+        {
+          "url": "https://form.jotform.com/262560768601460",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

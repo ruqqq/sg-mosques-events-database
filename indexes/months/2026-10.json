@@ -1004,6 +1004,106 @@
       ]
     },
     {
+      "id": "ed8ffb6b-e6a3-4d97-a67d-4176c20078d2",
+      "title": "Forum Ilmu: Mengenali Mazhab Imam Syafi'i",
+      "description": "Forum ilmu introducing Imam Syafi'i, the history of his pursuit of knowledge and the principles and methods of the Shafi'i madhhab, including a Q&A session with asatizah. Open to all.",
+      "mosque_ids": [
+        "ahmad-ibrahim"
+      ],
+      "categories": [
+        "forum",
+        "religious education"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Ahad, 11 Oktober, 10.00am - 1.00pm",
+        "occurrences": [
+          {
+            "date": "2026-10-11",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "10:00",
+              "literal": "10.00am"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1.00pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Ahmad Ibrahim",
+        "address": "15 Jalan Ulu Seletar, Sembawang Road",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Irfan Haron",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Zulzawaid Zulkifli",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Open to all"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": "Scan the QR code on the poster to join/register."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 15,
+            "currency": "SGD",
+            "label": "per pax with free forum notes"
+          }
+        ],
+        "notes": "Light refreshments provided (jamuan ringan disediakan); no donation request stated."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Poster states '11 Oktober' without a year; the occurrence date 2026-10-11 is derived from the post's publication date (2026-09-14) and matches 'Ahad' (Sunday).",
+          "QR code destination is not decoded, so registration.url is unknown; registration requirement inferred from 'Imbas QR untuk sertai'.",
+          "Currency is not stated; SGD assumed for this Singapore mosque.",
+          "The seating/pricing line on the poster is only partly legible ($15 per pax with free forum notes)."
+        ]
+      },
+      "path": "events/ed8ffb6b-e6a3-4d97-a67d-4176c20078d2.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-11",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1.00pm"
+          }
+        }
+      ]
+    },
+    {
       "id": "47dca4cc-8cad-4bfa-acf6-aba18a5b1908",
       "title": "MindFest 2026",
       "description": "A family and community event focused on mental well-being, with conversations, family activities and opportunities to connect.",
