@@ -1179,6 +1179,85 @@
           }
         }
       ]
+    },
+    {
+      "id": "f0438699-4578-4b82-9b6d-2869885d1998",
+      "title": "Health & Well-being Screening",
+      "description": "Health and well-being screening for seniors aged 60 years and above only, organised by SGH x Masjid Sultan.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "health screening"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 26 September 2026, 9:00 AM–2:00 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-26",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "09:00",
+              "literal": "9:00 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "14:00",
+              "literal": "2:00 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "MPH, Level 1, Annexe Building",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Seniors aged 60 years and above"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/f0438699-4578-4b82-9b6d-2869885d1998.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-26",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9:00 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "14:00",
+            "literal": "2:00 PM"
+          }
+        }
+      ]
     }
   ]
 }
