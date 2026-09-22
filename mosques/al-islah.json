@@ -5,11 +5,25 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://alislah.sg/",
-  "logo": {"path": "assets/logos/al-islah.png", "source_url": "https://alislah.sg/media/yootheme/cache/22/logo-120-223defb2.png"},
-  "social_sources": [{
-    "platform": "instagram", "handle": "alislahmosque", "profile_id": "2775158754",
-    "role": "primary", "status": "confirmed", "confidence": "high",
-    "evidence": ["https://alislah.sg/", "https://www.instagram.com/alislahmosque/"],
-    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
-  }]
+  "logo": {
+    "path": "assets/logos/al-islah.png",
+    "source_url": "https://alislah.sg/media/yootheme/cache/22/logo-120-223defb2.png"
+  },
+  "musolla_uuid": "cb0c39a0-031d-4a5d-b942-5455616be7e1",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "alislahmosque",
+      "profile_id": "2775158754",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://alislah.sg/",
+        "https://www.instagram.com/alislahmosque/"
+      ],
+      "last_verified_at": "2026-09-22T06:28:14Z",
+      "notes": null
+    }
+  ]
 }

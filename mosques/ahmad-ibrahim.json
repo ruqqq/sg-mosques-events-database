@@ -5,11 +5,25 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://ahmadibrahim.sg/",
-  "logo": {"path": "assets/logos/ahmad-ibrahim.jpg", "source_url": "https://www.instagram.com/masjidahmadibrahim/"},
-  "social_sources": [{
-    "platform": "instagram", "handle": "masjidahmadibrahim", "profile_id": "1022654390",
-    "role": "primary", "status": "confirmed", "confidence": "high",
-    "evidence": ["https://ahmadibrahim.sg/", "https://www.instagram.com/masjidahmadibrahim/"],
-    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
-  }]
+  "logo": {
+    "path": "assets/logos/ahmad-ibrahim.jpg",
+    "source_url": "https://www.instagram.com/masjidahmadibrahim/"
+  },
+  "musolla_uuid": "9f259807-283c-46d5-a06a-7b57ff3f32fd",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "masjidahmadibrahim",
+      "profile_id": "1022654390",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://ahmadibrahim.sg/",
+        "https://www.instagram.com/masjidahmadibrahim/"
+      ],
+      "last_verified_at": "2026-09-22T06:28:14Z",
+      "notes": null
+    }
+  ]
 }

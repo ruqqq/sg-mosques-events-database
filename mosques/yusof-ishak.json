@@ -5,11 +5,25 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://masjidyusofishak.sg/",
-  "logo": {"path": "assets/logos/yusof-ishak.jpg", "source_url": "https://www.instagram.com/masjidyusofishak/"},
-  "social_sources": [{
-    "platform": "instagram", "handle": "masjidyusofishak", "profile_id": "4304478658",
-    "role": "primary", "status": "confirmed", "confidence": "high",
-    "evidence": ["https://masjidyusofishak.sg/", "https://www.instagram.com/masjidyusofishak/"],
-    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
-  }]
+  "logo": {
+    "path": "assets/logos/yusof-ishak.jpg",
+    "source_url": "https://www.instagram.com/masjidyusofishak/"
+  },
+  "musolla_uuid": "067ecc8d-d1ea-4018-9f23-0bb60d8dd3d1",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "masjidyusofishak",
+      "profile_id": "4304478658",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://masjidyusofishak.sg/",
+        "https://www.instagram.com/masjidyusofishak/"
+      ],
+      "last_verified_at": "2026-09-22T06:28:14Z",
+      "notes": null
+    }
+  ]
 }

@@ -5,11 +5,25 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://alansarmosque.sg/",
-  "logo": {"path": "assets/logos/al-ansar.png", "source_url": "https://alansarmosque.sg/wp-content/uploads/2020/07/cropped-Logo-512-x-512-1.png"},
-  "social_sources": [{
-    "platform": "instagram", "handle": "alansarmosque", "profile_id": "8472687957",
-    "role": "primary", "status": "confirmed", "confidence": "high",
-    "evidence": ["https://alansarmosque.sg/", "https://www.instagram.com/alansarmosque/"],
-    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
-  }]
+  "logo": {
+    "path": "assets/logos/al-ansar.png",
+    "source_url": "https://alansarmosque.sg/wp-content/uploads/2020/07/cropped-Logo-512-x-512-1.png"
+  },
+  "musolla_uuid": "683f61a9-4dbe-4445-a3c2-1006da17c713",
+  "social_sources": [
+    {
+      "platform": "instagram",
+      "handle": "alansarmosque",
+      "profile_id": "8472687957",
+      "role": "primary",
+      "status": "confirmed",
+      "confidence": "high",
+      "evidence": [
+        "https://alansarmosque.sg/",
+        "https://www.instagram.com/alansarmosque/"
+      ],
+      "last_verified_at": "2026-09-22T06:28:14Z",
+      "notes": null
+    }
+  ]
 }
