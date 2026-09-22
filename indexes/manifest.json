@@ -25,7 +25,7 @@
   },
   "recurring": {
     "path": "indexes/recurring.json",
-    "count": 34
+    "count": 35
   },
   "undated": {
     "path": "indexes/undated.json",
@@ -236,7 +236,7 @@
       "months": {},
       "recurring": {
         "path": "indexes/mosques/petempatan-melayu-sembawang/recurring.json",
-        "count": 1
+        "count": 2
       },
       "undated": {
         "path": "indexes/mosques/petempatan-melayu-sembawang/undated.json",
