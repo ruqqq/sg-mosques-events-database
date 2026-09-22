@@ -614,6 +614,74 @@
       "path": "events/53762b7d-8400-499f-ac07-4847050be20b.json"
     },
     {
+      "id": "77063b3d-c6db-412a-b207-a7cf8b260879",
+      "title": "Kuliah Malam Muslimah: Fardhu Ain & Pengajian Islam",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Jumaat, 8.00 malam, Aras 4 Bilik 14-15, Lift 2 Lobby",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Hari Jumaat — 8.00 malam",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "20:00",
+            "literal": "8.00 malam"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Aras 4, Bilik 14-15, Lift 2 Lobby, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Kamariah Abdul Halim",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/77063b3d-c6db-412a-b207-a7cf8b260879.json"
+    },
+    {
       "id": "a3848b4a-e014-4cfa-be7f-f7dd99c43a2a",
       "title": "Santunan Emas @ Masjid Darul Ghufran",
       "description": "Weekly Monday programme at Masjid Darul Ghufran comprising Kuliah Mingguan (Menggapai Akhiran Yang Mewangi) with Ustaz Jamaluddin Abdul Wahab and Sesi Senaman Ibadah with Coach Hj Hussen.",
