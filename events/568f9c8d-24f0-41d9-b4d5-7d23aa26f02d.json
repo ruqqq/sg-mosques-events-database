@@ -1,0 +1,112 @@
+{
+  "title": "Prophetic Guidance: Endurance, Hope, Renewal",
+  "description": "English Jumuah khutbah.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "Jumuah khutbah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "11 September 2026; Jumuah khutbah",
+    "occurrences": [
+      {
+        "label": "Jumuah khutbah",
+        "date": "2026-09-11",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Al-Firdaus",
+    "address": "11 Jalan Ismail, Singapore 698995",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Mohd Hidayat Bin Mohd Ismail",
+      "role": "speaker"
+    },
+    {
+      "name": "Hj Zainor Bin Buang",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Jumuah attendees"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982996026948722226",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/description",
+        "/mosque_ids",
+        "/status",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages"
+      ]
+    },
+    {
+      "source_id": "instagram:3982996026948722226",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster lists Zuhur 01:03, but it is unclear whether this is the event start time or a prayer/azan time."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "bilal": "Hj Zainor Bin Buang",
+    "listed_zuhur_time": "01:03",
+    "donation_request_present": true
+  },
+  "id": "568f9c8d-24f0-41d9-b4d5-7d23aa26f02d",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982996026948722226",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdGccigEh4y",
+      "post_id": "3982996026948722226",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-10T08:49:08.000Z",
+      "retrieved_at": "2026-09-22T02:26:26.597Z",
+      "caption": "Assalamualaikum wr wb,\n\nSermon in English | Khutbah dalam Bahasa Inggeris\n\n* Prophetic guidance: Endurance, hope, renewal\n* Hadyun Nabawi: Ketabahan, harapan, pembaharuan\n\n🕌\n\nContribute to Masjid Al-Firdaus:\n\n1. PayNow UEN: S62MQ0011J\n2. OCBC Wadiah Account: 517-147690-001\n\nMay Allah s.w.t reward your efforts abundantly. Āmīn\n\n#Jumuah \n#MasjidAlFirdaus \n#AlFirdausMosque \n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}

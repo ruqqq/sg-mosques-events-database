@@ -87,6 +87,82 @@
       ]
     },
     {
+      "id": "568f9c8d-24f0-41d9-b4d5-7d23aa26f02d",
+      "title": "Prophetic Guidance: Endurance, Hope, Renewal",
+      "description": "English Jumuah khutbah.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "Jumuah khutbah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "11 September 2026; Jumuah khutbah",
+        "occurrences": [
+          {
+            "label": "Jumuah khutbah",
+            "date": "2026-09-11",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": "11 Jalan Ismail, Singapore 698995",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Mohd Hidayat Bin Mohd Ismail",
+          "role": "speaker"
+        },
+        {
+          "name": "Hj Zainor Bin Buang",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Jumuah attendees"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster lists Zuhur 01:03, but it is unclear whether this is the event start time or a prayer/azan time."
+        ]
+      },
+      "path": "events/568f9c8d-24f0-41d9-b4d5-7d23aa26f02d.json",
+      "matched_occurrences": [
+        {
+          "label": "Jumuah khutbah",
+          "date": "2026-09-11",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "5a237d7e-9645-4be3-91a0-288ce03dbf4e",
       "title": "Syarahan Majlis Maulidurrasul",
       "description": "Religious lecture and Maulidurrasul gathering with qasidah and communal meal.",
