@@ -98,6 +98,93 @@
       ]
     },
     {
+      "id": "8120b2b3-db73-4e34-858b-2440a9f71a31",
+      "title": "Dementia Awareness Talk: Understanding Dementia, Supporting Those We Love",
+      "description": "A Dementia Awareness Talk under the Santunan Emas Initiative. Participants learn to recognise the signs and changes of dementia, gain insight into what a person living with dementia may experience, and learn practical ways to offer support with empathy and care. The session is aimed at caregivers, family members, next-of-kin and anyone caring for an elderly loved one. Light refreshments are provided.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "talk",
+        "health",
+        "community",
+        "awareness"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 26 September 2026, 9.00am – 12.30pm",
+        "occurrences": [
+          {
+            "date": "2026-09-26",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "09:00",
+              "literal": "9.00am"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "12:30",
+              "literal": "12.30pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Auditorium, Level 5, Masjid Yusof Ishak",
+        "address": "Masjid Yusof Ishak, 10 Woodlands Drive 17, SG 737740",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "Caregivers",
+        "Family members and next-of-kin",
+        "Those caring for elderly loved ones",
+        "Anyone who wants to learn and support"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://tinyurl.com/MYI-DAT2609",
+        "deadline_date": null,
+        "instructions": "Free registration via the link https://tinyurl.com/MYI-DAT2609 or by scanning the QR code provided."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Free registration; light refreshments provided."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Poster headline lists 9.00 AM – 12.30 PM while the caption states 9.00am – 12.30pm; treated as the same times.",
+          "Language(s) of delivery are not stated.",
+          "Speakers or facilitators are not named."
+        ]
+      },
+      "path": "events/8120b2b3-db73-4e34-858b-2440a9f71a31.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-26",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9.00am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "12:30",
+            "literal": "12.30pm"
+          }
+        }
+      ]
+    },
+    {
       "id": "3dd991ac-6a11-46e6-ac7b-4621e3b37ad2",
       "title": "Gema Maulid Muslimah 1448H",
       "description": "Majlis Maulid khas buat para Muslimah dalam suasana penuh mahabbah: bacaan Qasidah Maulid, perkongsian rohani dan ceramah khas.",
