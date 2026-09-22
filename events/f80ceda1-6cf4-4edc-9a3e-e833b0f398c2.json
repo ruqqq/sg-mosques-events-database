@@ -1,0 +1,93 @@
+{
+  "title": "Maulid Ber-SOUTHri",
+  "description": "Maulid South x Majlis Al-Muwasolah SG x Masjid Sultan (Bilingual).",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "religious gathering"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sunday, 6 September 2026, 8:30 AM–12:30 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-06",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "08:30",
+          "literal": "8:30 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:30",
+          "literal": "12:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Prayer Hall, Level 1 & 2",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977865210212103749",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/location",
+        "/languages",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "f80ceda1-6cf4-4edc-9a3e-e833b0f398c2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977865210212103749",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0N1VDE7ZF",
+      "post_id": "3977865210212103749",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-03T06:55:07.000Z",
+      "retrieved_at": "2026-09-22T02:35:50.646Z",
+      "caption": "A new month, a new opportunity to learn, grow and connect✨\n\nSave the dates and plan your September with us! Swipe through to explore our programmes and mark your calender 📅 We look forward to welcoming you at Masjid Sultan 🕌 \n\n#MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}
