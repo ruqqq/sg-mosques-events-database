@@ -70,6 +70,74 @@
       "path": "events/0faa3ec4-6c34-423f-a26f-36d329df5e20.json"
     },
     {
+      "id": "11f74166-daa5-4d73-a954-79ad43f8b044",
+      "title": "Kuliah Khas Muslimah: Riyadussolihin",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Rabu, 3.00 petang, Aras 4 Bilik 15, Lift 2 Lobby",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "WE"
+          ],
+          "rule_text": "Hari Rabu — 3.00 petang",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "15:00",
+            "literal": "3.00 petang"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Aras 4, Bilik 15, Lift 2 Lobby, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Kathom Md Isa",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/11f74166-daa5-4d73-a954-79ad43f8b044.json"
+    },
+    {
       "id": "1f2e3ac4-6c0d-4306-aca5-105c4f010170",
       "title": "Kuliah Maghrib: Riyadussolihin",
       "description": null,
