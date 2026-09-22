@@ -2,6 +2,10 @@
   "schema_version": "1.0",
   "timezone": "Asia/Singapore",
   "months": {
+    "2026-08": {
+      "path": "indexes/months/2026-08.json",
+      "count": 1
+    },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
       "count": 27
@@ -65,6 +69,10 @@
     "an-nur": {
       "path": "mosques/an-nur.json",
       "months": {
+        "2026-08": {
+          "path": "indexes/mosques/an-nur/months/2026-08.json",
+          "count": 1
+        },
         "2026-09": {
           "path": "indexes/mosques/an-nur/months/2026-09.json",
           "count": 5
