@@ -796,6 +796,172 @@
       ]
     },
     {
+      "id": "75cf02eb-4b21-46ac-97f0-358823733901",
+      "title": "Siri Kuliah Subuh September 2026 — Para Sahabah: Generasi Terbaik Umat",
+      "description": "Monthly Kuliah Subuh series at Masjid Darul Makmur held every Sunday after Subuh prayer through September 2026, with invited asatizah speaking on the theme 'Para Sahabah: Generasi Terbaik Umat'.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "kuliah",
+        "religious-talk"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Setiap Ahad sepanjang September 2026, selepas solat Subuh, di Dewan Solat Masjid Darul Makmur (6, 13, 20, 27 Sep 2026)",
+        "occurrences": [
+          {
+            "date": "2026-09-06",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "selepas solat Subuh"
+            },
+            "end_time": null
+          },
+          {
+            "date": "2026-09-13",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "selepas solat Subuh"
+            },
+            "end_time": null
+          },
+          {
+            "date": "2026-09-20",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "selepas solat Subuh"
+            },
+            "end_time": null
+          },
+          {
+            "date": "2026-09-27",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "subuh",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "selepas solat Subuh"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Makmur",
+        "address": "950 Yishun Avenue 2, Singapore 769099",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Dr Md Yazid Yunos",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Reza Idris",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Md Zuhairi Md Yusoff",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Only 6, 13, 20 and 27 Sep are listed on the poster; whether the series continues on other Sundays of September is not stated.",
+          "Speaker for the 20 Sep session is not legible in the poster text and is omitted from people.",
+          "Speaker names are read from small poster text and may be imprecise.",
+          "No clock times are given; sessions are timed relative to Subuh prayer only.",
+          "Audience, registration requirement and pricing are not stated in the source.",
+          "Poster does not confirm whether past sessions (6, 13, 20 Sep) took place; status kept as scheduled."
+        ]
+      },
+      "path": "events/75cf02eb-4b21-46ac-97f0-358823733901.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-06",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "selepas solat Subuh"
+          },
+          "end_time": null
+        },
+        {
+          "date": "2026-09-13",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "selepas solat Subuh"
+          },
+          "end_time": null
+        },
+        {
+          "date": "2026-09-20",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "selepas solat Subuh"
+          },
+          "end_time": null
+        },
+        {
+          "date": "2026-09-27",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "selepas solat Subuh"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "ccbc659f-a00a-4a42-8322-ac8e9115260d",
       "title": "Kuliah Subuh: Meneladani Rasulullah SAW Melalui Keindahan Akhlaknya",
       "description": "Kuliah Subuh khas Rabiulawal 1448H by Ustaz Drs Ahmad Dahri.",

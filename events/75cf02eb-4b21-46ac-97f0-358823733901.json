@@ -1,0 +1,187 @@
+{
+  "title": "Siri Kuliah Subuh September 2026 — Para Sahabah: Generasi Terbaik Umat",
+  "description": "Monthly Kuliah Subuh series at Masjid Darul Makmur held every Sunday after Subuh prayer through September 2026, with invited asatizah speaking on the theme 'Para Sahabah: Generasi Terbaik Umat'.",
+  "mosque_ids": [
+    "darul-makmur"
+  ],
+  "categories": [
+    "kuliah",
+    "religious-talk"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Setiap Ahad sepanjang September 2026, selepas solat Subuh, di Dewan Solat Masjid Darul Makmur (6, 13, 20, 27 Sep 2026)",
+    "occurrences": [
+      {
+        "date": "2026-09-06",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "selepas solat Subuh"
+        },
+        "end_time": null
+      },
+      {
+        "date": "2026-09-13",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "selepas solat Subuh"
+        },
+        "end_time": null
+      },
+      {
+        "date": "2026-09-20",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "selepas solat Subuh"
+        },
+        "end_time": null
+      },
+      {
+        "date": "2026-09-27",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "selepas solat Subuh"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid Darul Makmur",
+    "address": "950 Yishun Avenue 2, Singapore 769099",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Dr Md Yazid Yunos",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Reza Idris",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Md Zuhairi Md Yusoff",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3978485503023438508",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/extra_data"
+      ],
+      "note": "Poster: Kuliah Subuh, setiap Ahad selepas solat Subuh, Dewan Solat Masjid Darul Makmur, tema bulan Sep 2026, dates 6/13/20/27 Sep with speakers and topics."
+    },
+    {
+      "source_id": "instagram:3978485503023438508",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/notes",
+        "/languages"
+      ],
+      "note": "Caption announces the September Kuliah Subuh series with invited asatizah every Sunday after Subuh."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Only 6, 13, 20 and 27 Sep are listed on the poster; whether the series continues on other Sundays of September is not stated.",
+      "Speaker for the 20 Sep session is not legible in the poster text and is omitted from people.",
+      "Speaker names are read from small poster text and may be imprecise.",
+      "No clock times are given; sessions are timed relative to Subuh prayer only.",
+      "Audience, registration requirement and pricing are not stated in the source.",
+      "Poster does not confirm whether past sessions (6, 13, 20 Sep) took place; status kept as scheduled."
+    ]
+  },
+  "notes": "Monthly themed Kuliah Subuh series: 'Para Sahabah رَضِيَ اللهُ عَنْهُمْ: Generasi Terbaik Umat'. Session topics: 6 Sep — Generasi Didikan Rasulullah ﷺ (Ustaz Dr Md Yazid Yunos); 13 Sep — Keutamaan & Kemuliaan Para Sahabat Nabi ﷺ (Ustaz Reza Idris); 20 Sep — Mencintai Para Sahabat Nabi Tanda Keimanan; 27 Sep — Persaudaraan Para Sahabah: Model Perpaduan Ummah (Ustaz Md Zuhairi Md Yusoff).",
+  "extra_data": {
+    "theme": "Para Sahabah رَضِيَ اللهُ عَنْهُمْ: Generasi Terbaik Umat",
+    "theme_month": "Sep 2026",
+    "series_name": "Kuliah Subuh",
+    "venue_detail": "Dewan Solat",
+    "session_topics": [
+      {
+        "date": "2026-09-06",
+        "topic": "Para Sahabat رَضِيَ اللهُ عَنْهُمْ: Generasi Didikan Rasulullah ﷺ",
+        "speaker": "Ustaz Dr Md Yazid Yunos"
+      },
+      {
+        "date": "2026-09-13",
+        "topic": "Keutamaan & Kemuliaan Para Sahabat Nabi ﷺ",
+        "speaker": "Ustaz Reza Idris"
+      },
+      {
+        "date": "2026-09-20",
+        "topic": "Mencintai Para Sahabat Nabi Tanda Keimanan"
+      },
+      {
+        "date": "2026-09-27",
+        "topic": "Persaudaraan Para Sahabah: Model Perpaduan Ummah",
+        "speaker": "Ustaz Md Zuhairi Md Yusoff"
+      }
+    ],
+    "timing_note": "Setiap Ahad selepas solat Subuh"
+  },
+  "id": "75cf02eb-4b21-46ac-97f0-358823733901",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3978485503023438508",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc2a3xvwNqs/",
+      "post_id": "3978485503023438508",
+      "author_handle": "darulmakmur.mosque",
+      "author_profile_id": "11144095878",
+      "discovered_via": [
+        "https://www.instagram.com/darulmakmur.mosque/"
+      ],
+      "published_at": "2026-09-04T03:27:43.000Z",
+      "retrieved_at": "2026-09-22T07:27:15.161Z",
+      "caption": "Mereka adalah generasi yang dididik di sisi Rasulullah ﷺ. Mengenali kehidupan para Sahabat رَضِيَ اللهُ عَنْهُمْ bukan sekadar mengenang sejarah, tetapi menyelami iman, cinta dan pengorbanan yang membentuk diri mereka sebagai generasi pilihan.\n\n🌿 Tema Kuliah Subuh September:\n“Para Sahabah رَضِيَ اللهُ عَنْهُمْ: Generasi Terbaik Umat”\n\nIkuti siri Kuliah Subuh sepanjang bulan September bersama asatizah jemputan, setiap hari Ahad selepas solat Subuh di Masjid Darul Makmur.\n\nMari kita mengenali dan meneladani para Sahabat رَضِيَ اللهُ عَنْهُمْ — kecintaan mereka kepada Rasulullah ﷺ, kemuliaan akhlak serta persaudaraan yang menyatukan ummah.\n\nSemoga ilmu dan perkongsian daripada kuliah ini dapat memperbaiki hubungan kita sesama manusia serta menguatkan ukhuwah dalam kehidupan bermasyarakat. 🤍\n\n#TogetherMakmur #MasjidDarulMakmur #KuliahSubuh"
+    }
+  ]
+}
