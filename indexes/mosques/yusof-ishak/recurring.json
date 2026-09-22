@@ -2,6 +2,77 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "151441fc-0c2d-4cdd-8f29-68bac4929c60",
+      "title": "Kuliah Harian Rabu: 'Ulum Al-Quran",
+      "description": "Kuliah Dhuha setiap Rabu dalam siri Kuliah Harian Masjid Yusof Ishak, membincangkan sejarah, kedudukan, adab dan tafsir al-Quran.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah",
+        "tafsir"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Rabu, Dhuha",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "WE"
+          ],
+          "rule_text": "Rabu, Dhuha",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Dhuha"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Widayat Wahidon",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "umum"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock time is given; the session is tied to Dhuha and encoded as an unspecified time literal.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/151441fc-0c2d-4cdd-8f29-68bac4929c60.json"
+    },
+    {
       "id": "2f214cb9-2102-432b-a910-d4191d160b75",
       "title": "Kuliah Harian Selasa: Bimbingan Muslimin",
       "description": "Kuliah Dhuha setiap Selasa dalam siri Kuliah Harian Masjid Yusof Ishak, bimbingan hadith untuk muslimin.",
