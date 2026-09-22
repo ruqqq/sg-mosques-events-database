@@ -200,6 +200,71 @@
       ]
     },
     {
+      "id": "0c67c3eb-e857-423a-8981-921d4b2d22e2",
+      "title": "Talkshow 1 (Malay)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "20 September 2026 (Sunday)",
+        "occurrences": [
+          {
+            "label": "Talkshow 1 (Malay)",
+            "date": "2026-09-20",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "unknown",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The venue and time are not safely legible."
+        ]
+      },
+      "path": "events/0c67c3eb-e857-423a-8981-921d4b2d22e2.json",
+      "matched_occurrences": [
+        {
+          "label": "Talkshow 1 (Malay)",
+          "date": "2026-09-20",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "1ac24a27-7791-421a-ac20-7a8736df95b8",
       "title": "SCDF Roadshow 2026: Emergency Preparedness & Fire Safety Day",
       "description": "A community safety event with hands-on emergency preparedness, life-saving skills, and fire safety activities.",
