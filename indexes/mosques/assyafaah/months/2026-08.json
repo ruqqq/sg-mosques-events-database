@@ -2,6 +2,104 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "4bc6669b-ee75-429b-9a40-4a928e90fe55",
+      "title": "Solat Jumaat",
+      "description": "Friday prayers with two sessions.",
+      "mosque_ids": [
+        "assyafaah"
+      ],
+      "categories": [
+        "prayer"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Friday prayers on 28 August 2026",
+        "occurrences": [
+          {
+            "label": "Session 1",
+            "date": "2026-08-28",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "Session 2",
+            "date": "2026-08-28",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Assyafaah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Rashid",
+          "role": "speaker"
+        },
+        {
+          "name": "Saudara Ariff",
+          "role": "other"
+        },
+        {
+          "name": "Ustaz Amirul Fahmi",
+          "role": "speaker"
+        },
+        {
+          "name": "Haji Rosli",
+          "role": "other"
+        }
+      ],
+      "languages": [
+        "ms",
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Session clock times are not specified.",
+          "The mosque address is not specified."
+        ]
+      },
+      "path": "events/4bc6669b-ee75-429b-9a40-4a928e90fe55.json",
+      "matched_occurrences": [
+        {
+          "label": "Session 1",
+          "date": "2026-08-28",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "Session 2",
+          "date": "2026-08-28",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "84287435-02c8-4323-9a6f-1f96f3b7093c",
       "title": "Grand Maulid 2026",
       "description": "An evening programme commemorating and celebrating the life and teachings of Prophet Muhammad ﷺ.",
