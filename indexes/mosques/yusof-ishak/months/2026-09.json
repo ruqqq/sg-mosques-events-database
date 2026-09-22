@@ -2,6 +2,101 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "7562b92b-bba6-48dc-919a-fbdbe82c1583",
+      "title": "Tadabbur & Talaqqi: Surah Al-Qāri‘ah",
+      "description": "Sesi tadabbur dan talaqqi Surah Al-Qāri‘ah bersama Ustaz Muhammad Mansor Abdul Rahim, membincangkan kedahsyatan Hari Kiamat, keadaan manusia menghadapinya dan timbangan amal sebagai penentu nasib di akhirat. Ijazah Sanad disediakan kepada peserta yang lulus penilaian bacaan.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "education",
+        "quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Khamis, 17 September 2026, 7.30 malam – 9.30 malam",
+        "occurrences": [
+          {
+            "date": "2026-09-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7.30 malam"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9.30 malam"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Seminar Room, Aras 4, Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737740",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Mansor Abdul Rahim",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "18 tahun ke atas",
+        "Muslimin & Muslimah"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://www.masjidyusofishak.sg/courses",
+        "deadline_date": null,
+        "instructions": "Daftar sekarang di www.masjidyusofishak.sg/courses"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 20,
+            "currency": "SGD",
+            "label": "$20/seorang"
+          }
+        ],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration deadline not stated",
+          "Assessment details for the Ijazah Sanad are not specified"
+        ]
+      },
+      "path": "events/7562b92b-bba6-48dc-919a-fbdbe82c1583.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-17",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7.30 malam"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9.30 malam"
+          }
+        }
+      ]
+    },
+    {
       "id": "1cdaaeed-06b0-4045-b0ba-683e109a6075",
       "title": "NEED4DEEN: Hadith Masterclass",
       "description": "Hadith and Sunnah masterclass covering the basics of Hadith, Matan, Sanad, Hadith categories and Maudhu'. The class, previously scheduled physically at Masjid Yusof Ishak, is now conducted online; date, time and content remain unchanged.",

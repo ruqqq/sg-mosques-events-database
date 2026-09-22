@@ -1,0 +1,132 @@
+{
+  "title": "Tadabbur & Talaqqi: Surah Al-Qāri‘ah",
+  "description": "Sesi tadabbur dan talaqqi Surah Al-Qāri‘ah bersama Ustaz Muhammad Mansor Abdul Rahim, membincangkan kedahsyatan Hari Kiamat, keadaan manusia menghadapinya dan timbangan amal sebagai penentu nasib di akhirat. Ijazah Sanad disediakan kepada peserta yang lulus penilaian bacaan.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "education",
+    "quran"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Khamis, 17 September 2026, 7.30 malam – 9.30 malam",
+    "occurrences": [
+      {
+        "date": "2026-09-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7.30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9.30 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Seminar Room, Aras 4, Masjid Yusof Ishak",
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Mansor Abdul Rahim",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "18 tahun ke atas",
+    "Muslimin & Muslimah"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://www.masjidyusofishak.sg/courses",
+    "deadline_date": null,
+    "instructions": "Daftar sekarang di www.masjidyusofishak.sg/courses"
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 20,
+        "currency": "SGD",
+        "label": "$20/seorang"
+      }
+    ],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3985978428209265323",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing",
+        "/registration",
+        "/audience",
+        "/extra_data"
+      ],
+      "note": "Poster text gives date, time, venue, fee, speaker and registration link."
+    },
+    {
+      "source_id": "instagram:3985978428209265323",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/pricing",
+        "/registration",
+        "/people"
+      ],
+      "note": null
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Registration deadline not stated",
+      "Assessment details for the Ijazah Sanad are not specified"
+    ]
+  },
+  "notes": "Programme is part of the 'My Qur'anic Journey' series at Masjid Yusof Ishak. Ijazah Sanad is awarded to participants who pass the reading assessment.",
+  "extra_data": {
+    "series": "My Qur'anic Journey",
+    "ijazah_sanad": "Ijazah Sanad disediakan kepada peserta yang lulus penilaian bacaan",
+    "poster_components": [
+      "Tadabbur",
+      "Talaqqi"
+    ]
+  },
+  "id": "7562b92b-bba6-48dc-919a-fbdbe82c1583",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3985978428209265323",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdRCkMHyHqr",
+      "post_id": "3985978428209265323",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-09-14T11:34:54.000Z",
+      "retrieved_at": "2026-09-22T07:07:59.148Z",
+      "caption": "Tadabbur & Talaqqi: Surah Al-Qāri‘ah\n\nHari Kiamat adalah suatu kepastian. Surah Al-Qāri‘ah menggambarkan kedahsyatan Hari Kiamat, keadaan manusia ketika menghadapinya serta bagaimana timbangan amal menjadi penentu nasib seseorang di akhirat.\n\nJom sertai sesi Tadabbur & Talaqqi bersama Ustaz Muhammad Mansor Abdul Rahim dan hayati peringatan Surah Al-Qāri‘ah sebagai persediaan kita menuju kehidupan akhirat.\n\n🗓️ Khamis, 17 September 2026\n🕢 7.30 malam – 9.30 malam\n📍 Seminar Room, Aras 4\n💰 $20/seorang | 18 tahun ke atas\n\n🎓 Ijazah Sanad disediakan kepada peserta yang lulus penilaian bacaan.\n\n🔗 Daftar sekarang:\nwww.masjidyusofishak.sg/courses"
+    }
+  ]
+}
