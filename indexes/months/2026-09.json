@@ -954,6 +954,75 @@
       ]
     },
     {
+      "id": "4091198e-eaa8-4b0d-b104-9d24e6b1dee8",
+      "title": "Kuliah Dhuha bersama Ustazah Dr. Sakinah Saptu - sesi 9 Sep 2026",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "cancelled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Rabu, 9 Sep 2026 (direhatkan)",
+        "occurrences": [
+          {
+            "date": "2026-09-09",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Dr. Sakinah Saptu",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Masa mula dan tamat kuliah tidak dinyatakan dalam sumber",
+          "Sama ada sesi lain turut direhatkan tidak dinyatakan"
+        ]
+      },
+      "path": "events/4091198e-eaa8-4b0d-b104-9d24e6b1dee8.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-09",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "42cfb8ef-90a2-4c36-80fb-a092d3d50c6c",
       "title": "Tajwid Masterclass 3.0",
       "description": "Elevating Your Recitation: Advanced Rules and Waqaf",

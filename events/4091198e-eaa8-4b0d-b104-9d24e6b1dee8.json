@@ -1,0 +1,111 @@
+{
+  "title": "Kuliah Dhuha bersama Ustazah Dr. Sakinah Saptu - sesi 9 Sep 2026",
+  "description": null,
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kuliah"
+  ],
+  "status": "cancelled",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3981353404694637935",
+      "locator": "caption",
+      "quote": "kuliah dhuha bimbingan Ustazah Dr. Sakinah Saptu pada hari Rabu, 9 Sep 2026 DIREHATKAN"
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Rabu, 9 Sep 2026 (direhatkan)",
+    "occurrences": [
+      {
+        "date": "2026-09-09",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Dr. Sakinah Saptu",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3981353404694637935",
+      "locator": "caption",
+      "supports": [
+        "/status",
+        "/status_evidence",
+        "/schedule/text",
+        "/schedule/occurrences/0/date"
+      ]
+    },
+    {
+      "source_id": "instagram:3981353404694637935",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/people/0/name",
+        "/status"
+      ],
+      "note": "Poster: kuliah bersama Ustazah Dr. Sakinah Saptu pada Rabu, 9 Sep 2026 DIREHATKAN."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Masa mula dan tamat kuliah tidak dinyatakan dalam sumber",
+      "Sama ada sesi lain turut direhatkan tidak dinyatakan"
+    ]
+  },
+  "notes": "Sesi kuliah dhuha pada Rabu, 9 Sep 2026 direhatkan; kuliah bersambung semula pada Rabu, 16 Sep 2026.",
+  "extra_data": {
+    "cancelled_session_date": "2026-09-09",
+    "resumes_on": "2026-09-16"
+  },
+  "id": "4091198e-eaa8-4b0d-b104-9d24e6b1dee8",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3981353404694637935",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdAm9PUHa1v/",
+      "post_id": "3981353404694637935",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [
+        "https://www.instagram.com/darulghufran/"
+      ],
+      "published_at": "2026-09-08T02:25:33.000Z",
+      "retrieved_at": "2026-09-22T07:06:31.071Z",
+      "caption": "Ingin dimaklumkan bahawa kuliah dhuha bimbingan Ustazah Dr. Sakinah Saptu pada hari Rabu, 9 Sep 2026 DIREHATKAN.\n\nKuliah akan bersambung semula pada Rabu, 16 Sep 2026.\n\nTerima kasih atas kesefahaman yang diberikan."
+    }
+  ]
+}
