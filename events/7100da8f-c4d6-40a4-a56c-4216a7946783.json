@@ -1,0 +1,93 @@
+{
+  "title": "Bersamamu Forum 2026: Happily Ever After... Dream or Reality?",
+  "description": "Bilingual forum by ROMM x Masjid Sultan.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "forum"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 5 September 2026, 9:30 AM–12:30 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-05",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "09:30",
+          "literal": "9:30 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:30",
+          "literal": "12:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Auditorium, Level 2, Annexe Building",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977865210212103749",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/location",
+        "/languages",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "7100da8f-c4d6-40a4-a56c-4216a7946783",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977865210212103749",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0N1VDE7ZF",
+      "post_id": "3977865210212103749",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-03T06:55:07.000Z",
+      "retrieved_at": "2026-09-22T02:35:50.646Z",
+      "caption": "A new month, a new opportunity to learn, grow and connect✨\n\nSave the dates and plan your September with us! Swipe through to explore our programmes and mark your calender 📅 We look forward to welcoming you at Masjid Sultan 🕌 \n\n#MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}
