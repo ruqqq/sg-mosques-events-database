@@ -2,6 +2,77 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "2f214cb9-2102-432b-a910-d4191d160b75",
+      "title": "Kuliah Harian Selasa: Bimbingan Muslimin",
+      "description": "Kuliah Dhuha setiap Selasa dalam siri Kuliah Harian Masjid Yusof Ishak, bimbingan hadith untuk muslimin.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah",
+        "hadith"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Selasa, Dhuha",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TU"
+          ],
+          "rule_text": "Selasa, Dhuha",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Dhuha"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Tuty Alawiyah Binte Ahmad",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "muslimin"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock time is given; the session is tied to Dhuha and encoded as an unspecified time literal.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/2f214cb9-2102-432b-a910-d4191d160b75.json"
+    },
+    {
       "id": "987db233-edec-4128-aacb-ff512fb1e130",
       "title": "Kuliah Harian Isnin: Fathul Bari",
       "description": "Kuliah Dhuha setiap Isnin dalam siri Kuliah Harian Masjid Yusof Ishak, membincangkan Hadith Sahih Bukhari.",
