@@ -6,10 +6,24 @@
   "timezone": "Asia/Singapore",
   "website": "https://alfalah.sg/",
   "logo": {"path": "assets/logos/al-falah.png", "source_url": "https://alfalah.sg/wp-content/uploads/2022/06/logonew-1.png"},
-  "social_sources": [{
-    "platform": "instagram", "handle": "masjidalfalah", "profile_id": "3010365740",
-    "role": "primary", "status": "confirmed", "confidence": "high",
-    "evidence": ["https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/", "https://www.instagram.com/masjidalfalah/"],
-    "last_verified_at": "2026-09-22T06:28:14Z", "notes": null
-  }]
+  "social_sources": [
+    {
+      "platform": "instagram", "handle": "alfalah.sg", "profile_id": "3253152311",
+      "role": "primary", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/", "https://www.instagram.com/alfalah.sg/"],
+      "last_verified_at": "2026-09-22T07:42:00Z", "notes": null
+    },
+    {
+      "platform": "instagram", "handle": "masjidalfalah", "profile_id": "3010365740",
+      "role": "other", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/", "https://www.instagram.com/masjidalfalah/"],
+      "last_verified_at": "2026-09-22T06:28:14Z", "notes": "Former scheduled account; retained for historical source attribution."
+    },
+    {
+      "platform": "instagram", "handle": "alfalahyouth", "profile_id": "295336579",
+      "role": "youth", "status": "confirmed", "confidence": "high",
+      "evidence": ["https://www.instagram.com/alfalahyouth/"],
+      "last_verified_at": "2026-09-22T07:42:00Z", "notes": "Youth organisation under @alfalah.sg; not part of the primary daily collection set."
+    }
+  ]
 }
