@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "title": "NEED4DEEN: Hadith Masterclass",
+  "description": "Hadith and Sunnah masterclass covering the basics of Hadith, Matan, Sanad, Hadith categories and Maudhu'. The class, previously scheduled physically at Masjid Yusof Ishak, is now conducted online; date, time and content remain unchanged.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "class",
+    "religious-education",
+    "hadith"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sabtu, 19 September 2026, 10.00 pagi - 1.00 petang (secara dalam talian)",
+    "occurrences": [
+      {
+        "date": "2026-09-19",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10.00 pagi"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "13:00",
+          "literal": "1.00 petang"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimin",
+    "Muslimah"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://www.masjidyusofishak.sg/courses",
+    "deadline_date": null,
+    "instructions": "Bagi yang belum mendaftar, daftar sekarang di www.masjidyusofishak.sg/courses. Peserta yang telah mendaftar akan menerima maklumat lanjut mengenai pautan kelas."
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988540021749076943",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location/mode",
+        "/languages",
+        "/audience"
+      ],
+      "note": "Poster states the class is now conducted online with the same date (19 Sept 2026) and time (10.00 PG - 1.00 PTG), Bahasa: Melayu, for Muslimin & Muslimah."
+    },
+    {
+      "source_id": "instagram:3988540021749076943",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/registration/requirement",
+        "/registration/url",
+        "/registration/instructions",
+        "/status",
+        "/extra_data"
+      ],
+      "note": "Caption announces the venue change to online and gives the registration link; no cancellation, postponement or completion is stated."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Registration address given without scheme ('www.masjidyusofishak.sg/courses'); normalised to https",
+      "Online platform/class link and any room details are not stated; registrants receive the link separately",
+      "Original physical venue date/time before the change is not separately stated beyond 'tarikh, masa dan kandungan kelas kekal sama'",
+      "Fee or donation requirements are not stated"
+    ]
+  },
+  "notes": "Live update post ('KEMAS KINI'): class moved from physical at Masjid Yusof Ishak to online delivery; date, time and content unchanged. Registration via masjidyusofishak.sg/courses.",
+  "extra_data": {
+    "update_type": "venue_change_to_online",
+    "previous_location_mode": "physical",
+    "previous_location_name": "Masjid Yusof Ishak",
+    "content_unchanged": true,
+    "registration_url_text": "www.masjidyusofishak.sg/courses",
+    "hashtags": [
+      "Need4Deen",
+      "HadithMasterclass",
+      "MasjidYusofIshak",
+      "Hadith",
+      "Sunnah"
+    ]
+  },
+  "id": "1cdaaeed-06b0-4045-b0ba-683e109a6075",
+  "sources": [
+    {
+      "id": "instagram:3988540021749076943",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdaJASAyFPP",
+      "post_id": "3988540021749076943",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [],
+      "published_at": "2026-09-18T00:24:18.000Z",
+      "retrieved_at": "2026-09-22T07:07:24.797Z",
+      "caption": "📢 KEMAS KINI | NEED4DEEN: HADITH MASTERCLASS\n\nPerhatian kepada semua peserta! NEED4DEEN: Hadith Masterclass yang sebelum ini dijadualkan secara fizikal di Masjid Yusof Ishak kini akan diadakan secara dalam talian (online). 💻\n\n📅 Sabtu, 19 September 2026\n⏰ 10.00 pagi – 1.00 petang\n💻 Secara Dalam Talian\n\nTarikh, masa dan kandungan kelas kekal sama.\n\nBagi yang belum mendaftar, daftar sekarang di:\n👉 www.masjidyusofishak.sg/courses\n\nPeserta yang telah mendaftar akan menerima maklumat lanjut mengenai pautan kelas.\n\nTerima kasih atas pemahaman dan kerjasama anda. Jumpa anda secara dalam talian! 💻📚\n\n#Need4Deen #HadithMasterclass #MasjidYusofIshak #Hadith #Sunnah"
+    }
+  ]
+}

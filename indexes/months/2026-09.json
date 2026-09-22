@@ -2535,6 +2535,93 @@
       ]
     },
     {
+      "id": "1cdaaeed-06b0-4045-b0ba-683e109a6075",
+      "title": "NEED4DEEN: Hadith Masterclass",
+      "description": "Hadith and Sunnah masterclass covering the basics of Hadith, Matan, Sanad, Hadith categories and Maudhu'. The class, previously scheduled physically at Masjid Yusof Ishak, is now conducted online; date, time and content remain unchanged.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "class",
+        "religious-education",
+        "hadith"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sabtu, 19 September 2026, 10.00 pagi - 1.00 petang (secara dalam talian)",
+        "occurrences": [
+          {
+            "date": "2026-09-19",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "10:00",
+              "literal": "10.00 pagi"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1.00 petang"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimin",
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://www.masjidyusofishak.sg/courses",
+        "deadline_date": null,
+        "instructions": "Bagi yang belum mendaftar, daftar sekarang di www.masjidyusofishak.sg/courses. Peserta yang telah mendaftar akan menerima maklumat lanjut mengenai pautan kelas."
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration address given without scheme ('www.masjidyusofishak.sg/courses'); normalised to https",
+          "Online platform/class link and any room details are not stated; registrants receive the link separately",
+          "Original physical venue date/time before the change is not separately stated beyond 'tarikh, masa dan kandungan kelas kekal sama'",
+          "Fee or donation requirements are not stated"
+        ]
+      },
+      "path": "events/1cdaaeed-06b0-4045-b0ba-683e109a6075.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-19",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00 pagi"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1.00 petang"
+          }
+        }
+      ]
+    },
+    {
       "id": "0c67c3eb-e857-423a-8981-921d4b2d22e2",
       "title": "Talkshow 1 (Malay)",
       "description": null,
