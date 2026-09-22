@@ -1,0 +1,115 @@
+{
+  "title": "Pos Kesihatan Masyarakat (CHP) @ Masjid Darul Ghufran",
+  "description": "Monthly community health post on the first Monday of each month at Masjid Darul Ghufran, offering health screening and advice from community health officers of Hospital Besar Changi (CGH).",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kesihatan",
+    "komuniti"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Pos Kesihatan Masyarakat (CHP) pada Isnin pertama setiap bulan",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "monthly",
+      "weekdays": [
+        "MO"
+      ],
+      "week_ordinals": [
+        1
+      ],
+      "rule_text": "Turut diadakan Pos Kesihatan Masyarakat (CHP) pada Isnin pertama setiap bulan",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": null,
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Pegawai Kesihatan Komuniti, Hospital Besar Changi (CGH)",
+      "role": "other"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3981558721973642556",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/people"
+      ],
+      "note": null
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Clock times and the exact venue within the mosque are not stated.",
+      "It is unclear whether the health post requires separate registration from Santunan Emas, so registration requirement is left unknown.",
+      "No explicit date is given; the monthly first-Monday rule is taken from the caption wording."
+    ]
+  },
+  "notes": "Health post held within the Santunan Emas Monday programme on the first Monday of each month.",
+  "extra_data": {
+    "parent_programme": "Santunan Emas @ Masjid Darul Ghufran",
+    "service_provider": "Pegawai kesihatan Komuniti dari Hospital Besar Changi (CGH)",
+    "services": [
+      "pemeriksaan kesihatan",
+      "khidmat nasihat"
+    ]
+  },
+  "id": "3a018905-7395-4bca-8cc0-6d37edf7f9e6",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3981558721973642556",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdBVo_7mOU8/",
+      "post_id": "3981558721973642556",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [
+        "https://www.instagram.com/darulghufran/"
+      ],
+      "published_at": "2026-09-08T09:13:28.000Z",
+      "retrieved_at": "2026-09-22T07:06:42.860Z",
+      "caption": "🌟 Santunan Emas @ Masjid Darul Ghufran\n\nAlhamdulillah, sekitar Santunan Emas Isnin lalu. Terima kasih kepada semua yang hadir dan bersama-sama memeriahkan pagi dengan pengisian ilmu dan aktiviti kesihatan.\n\n📚 Dalam Kuliah Mingguan: Menggapai Akhiran Yang Mewangi bersama Ustaz Jamaluddin Abdul Wahab, para jemaah meneruskan pengisian berkaitan pra-kematian dan persediaan menuju akhirat.\n💪 Sesi Senaman Ibadah bersama Coach Hj Hussen pula mengajak para peserta untuk kekal aktif dan menjaga kecergasan melalui senaman yang sesuai dan terpandu.\n\nSantunan Emas bukan sekadar pengisian ilmu dan aktiviti fizikal. Turut diadakan Pos Kesihatan Masyarakat (CHP) pada Isnin pertama setiap bulan, dengan pemeriksaan kesihatan serta khidmat nasihat daripada para pegawai kesihatan Komuniti dari Hospital Besar Changi (CGH).🩺\n\nInsyaAllah, kita bertemu lagi setiap hari Isnin di Masjid Darul Ghufran!\n\nIngin sertai Santunan Emas?\nDaftar di sini:\n🔗 darulghufran.org/santunanemas\n\nIkuti WhatsApp Channel Santunan Emas @ Masjid Darul Ghufran untuk makluman, peringatan dan perkembangan terkini:\n🔗 https://whatsapp.com/channel/0029VbDwSqLI1rcrepRVOh3U",
+      "links": [
+        {
+          "url": "https://whatsapp.com/channel/0029VbDwSqLI1rcrepRVOh3U",
+          "via": "caption",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
