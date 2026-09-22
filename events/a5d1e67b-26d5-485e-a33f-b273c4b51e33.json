@@ -1,0 +1,104 @@
+{
+  "title": "Program Kids Maulid",
+  "description": "Program pengisian untuk kanak-kanak sempena Maulid.",
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "maulid",
+    "children"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sabtu, 5 September 2026, 7:30 malam–9:30 malam",
+    "occurrences": [
+      {
+        "label": "Program Kids Maulid",
+        "date": "2026-09-05",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 malam"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 malam"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "MPH Aras 3, Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "children aged 7–12"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "sources": [
+    {
+      "id": "instagram:3972228765649013817",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcgMQQ_GQw5/",
+      "post_id": "3972228765649013817",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [
+        "https://www.instagram.com/annahdhah/"
+      ],
+      "published_at": "2026-08-26T12:16:30.000Z",
+      "retrieved_at": "2026-09-22T02:30:47.223Z",
+      "caption": "𝗠𝗔𝗝𝗟𝗜𝗦 & 𝗙𝗢𝗥𝗨𝗠 𝗣𝗘𝗥𝗗𝗔𝗡𝗔 - “𝗡𝗔𝗕𝗜 𝗗𝗜 𝗛𝗔𝗧𝗜𝗞𝗨” 💚\n\nSempena Rabiulawal, marilah kita bersama-sama menyemarakkan kecintaan kepada Rasulullah s.a.w. dengan mengenali sirah Baginda, menghayati sunnahnya serta meneladani akhlak dan kehidupan Baginda.\n\nAyuh hadir bersama seisi keluarga untuk sebuah majlis yang sarat dengan pengisian, menampilkan Forum Perdana, selawat bersama The Miraj Project serta “Program Kids Maulid” khas buat kanak-kanak.\n\n📅 Sabtu, 5 September 2026\n⏰ 7.30 malam – 9.45 malam\n📍 Dewan Solat, Masjid An-Nahdhah\n\n✨ Jom hadir bersama keluarga, semarakkan Rabiulawal dan bersama-sama membentuk generasi berteraskan cinta kepada Rasulullah s.a.w.!\n\n🤲 Sokonglah Program Rabiulawal kami melalui Infaq Maulid.\n💳 PayNow UEN: T06MQ0029K\nRujukan: AN MAULID 2026"
+    }
+  ],
+  "evidence": [
+    {
+      "source_id": "instagram:3972228765649013817",
+      "locator": "slide:1",
+      "supports": [
+        "/title"
+      ]
+    },
+    {
+      "source_id": "instagram:3972228765649013817",
+      "locator": "slide:2",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location/name",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "refreshments": "Jamuan disediakan pada jam 6:30 petang."
+  },
+  "id": "a5d1e67b-26d5-485e-a33f-b273c4b51e33",
+  "schema_version": "1.0"
+}
