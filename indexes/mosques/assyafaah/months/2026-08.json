@@ -2,6 +2,471 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "07acbf19-465b-48a5-812c-e8c732582958",
+      "title": "12 Days of Maulid",
+      "description": "A 12-session Maulid programme featuring Maulid recitation and tazkirah by invited asatizah.",
+      "mosque_ids": [
+        "assyafaah"
+      ],
+      "categories": [
+        "Maulid",
+        "religious lecture",
+        "recitation"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Daily from 13 to 24 August 2026, after Maghrib; sessions generally end at 9:30 PM.",
+        "occurrences": [
+          {
+            "label": "Day 1",
+            "date": "2026-08-13",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 2",
+            "date": "2026-08-14",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 3",
+            "date": "2026-08-15",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 4",
+            "date": "2026-08-16",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 5",
+            "date": "2026-08-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 6",
+            "date": "2026-08-18",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 7",
+            "date": "2026-08-19",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 8",
+            "date": "2026-08-20",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 9",
+            "date": "2026-08-21",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 10",
+            "date": "2026-08-22",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "label": "Day 11",
+            "date": "2026-08-23",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Day 12",
+            "date": "2026-08-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "prayer_relative",
+              "prayer": "maghrib",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Maghrib"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Assyafaah Mosque (Main Prayer Hall)",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Haziq Zainal",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Haron Akhtar",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Mahmod Abdullah",
+          "role": "speaker"
+        }
+      ],
+      "languages": [],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The exact start clock time after Maghrib is not stated.",
+          "The mosque street address, languages, audience, and registration requirements are not stated."
+        ]
+      },
+      "path": "events/07acbf19-465b-48a5-812c-e8c732582958.json",
+      "matched_occurrences": [
+        {
+          "label": "Day 1",
+          "date": "2026-08-13",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 2",
+          "date": "2026-08-14",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 3",
+          "date": "2026-08-15",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 4",
+          "date": "2026-08-16",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 5",
+          "date": "2026-08-17",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 6",
+          "date": "2026-08-18",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 7",
+          "date": "2026-08-19",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 8",
+          "date": "2026-08-20",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 9",
+          "date": "2026-08-21",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 10",
+          "date": "2026-08-22",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "label": "Day 11",
+          "date": "2026-08-23",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Day 12",
+          "date": "2026-08-24",
+          "end_date": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Maghrib"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "fdee8362-fb56-4cb9-b846-c2ae3c5efdf2",
       "title": "Monthly Qutbiyyah Majlis",
       "description": "Monthly Qutbiyyah Majlis with remembrance, tahlil, and prayers for departed loved ones.",

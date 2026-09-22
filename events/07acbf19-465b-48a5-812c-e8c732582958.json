@@ -1,0 +1,342 @@
+{
+  "title": "12 Days of Maulid",
+  "description": "A 12-session Maulid programme featuring Maulid recitation and tazkirah by invited asatizah.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "Maulid",
+    "religious lecture",
+    "recitation"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Daily from 13 to 24 August 2026, after Maghrib; sessions generally end at 9:30 PM.",
+    "occurrences": [
+      {
+        "label": "Day 1",
+        "date": "2026-08-13",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 2",
+        "date": "2026-08-14",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 3",
+        "date": "2026-08-15",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 4",
+        "date": "2026-08-16",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 5",
+        "date": "2026-08-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 6",
+        "date": "2026-08-18",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 7",
+        "date": "2026-08-19",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 8",
+        "date": "2026-08-20",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 9",
+        "date": "2026-08-21",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 10",
+        "date": "2026-08-22",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "label": "Day 11",
+        "date": "2026-08-23",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Day 12",
+        "date": "2026-08-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Assyafaah Mosque (Main Prayer Hall)",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Haziq Zainal",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Haron Akhtar",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Mahmod Abdullah",
+      "role": "speaker"
+    }
+  ],
+  "languages": [],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3967127949485064040",
+      "locator": "slide:5",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/schedule/occurrences",
+        "/location/name"
+      ],
+      "note": "Programme table lists Days 1–12 from 13 to 24 August 2026 and identifies the venue and general timing."
+    },
+    {
+      "source_id": "instagram:3967127949485064040",
+      "locator": "slide:1",
+      "supports": [
+        "/schedule/occurrences/8",
+        "/people"
+      ],
+      "note": "Day 9 poster identifies 21 August 2026, after Maghrib until 9:30 PM, and speaker Ustaz Haziq Zainal."
+    },
+    {
+      "source_id": "instagram:3967127949485064040",
+      "locator": "slide:2",
+      "supports": [
+        "/schedule/occurrences/9",
+        "/people"
+      ],
+      "note": "Day 10 poster identifies 22 August 2026, after Maghrib until 9:30 PM, and speaker Ustaz Haron Akhtar."
+    },
+    {
+      "source_id": "instagram:3967127949485064040",
+      "locator": "slide:3",
+      "supports": [
+        "/schedule/occurrences/10"
+      ],
+      "note": "Day 11 poster identifies 23 August 2026 and an after-Maghrib session."
+    },
+    {
+      "source_id": "instagram:3967127949485064040",
+      "locator": "slide:4",
+      "supports": [
+        "/schedule/occurrences/11",
+        "/people"
+      ],
+      "note": "Day 12 poster identifies 24 August 2026, after Maghrib until 9:30 PM, and speaker Ustaz Mahmod Abdullah."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The exact start clock time after Maghrib is not stated.",
+      "The mosque street address, languages, audience, and registration requirements are not stated."
+    ]
+  },
+  "notes": "The post also invites sponsorship for Maulid slots; this is separate from event admission and does not establish a ticket price.",
+  "extra_data": {
+    "daily_programme": "After Maghrib: Maulid recitation; after Isya: tazkirah by invited asatizah.",
+    "day_9_group": "Mahabbah Rasulullah",
+    "day_10_group": "Assyafaah Inspiring Muslims",
+    "day_11_group": "Assyafaah Inspiring Muslims",
+    "day_12_group": "Assyafaah Inspiring Muslims"
+  },
+  "id": "07acbf19-465b-48a5-812c-e8c732582958",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3967127949485064040",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcOEdnvlL9o/",
+      "post_id": "3967127949485064040",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [
+        "https://www.instagram.com/assyafaahmosque/"
+      ],
+      "published_at": "2026-08-19T11:22:06.000Z",
+      "retrieved_at": "2026-09-22T02:38:16.103Z",
+      "caption": "12 Days of Maulid 🌙 | Day 9–12\n\nAssalamualaikum wr. wb., blessed jemaah! 🌹\n\nAs we enter the final stretch of our 12 Days of Maulid, here are the Maulid groups and invited asatizah who will be joining us for Day 9 to Day 12.\n\nJoin us daily for:\n🌹 After Maghrib — Recitation of Maulid\n🎙️ After Isya’ — Tazkirah by our invited asatizah\n\nMay we make the most of these final evenings together, increasing our selawat and deepening our love for our beloved Prophet Muhammad ﷺ.\n\nShould you wish to sponsor a Maulid slot, you may do so here:\nhttps://form.jotform.com/Assyafaah_Mosque/maulid-sponsorship\n\nSee you there, insyaAllah! 🤍",
+      "links": [
+        {
+          "url": "https://form.jotform.com/Assyafaah_Mosque/maulid-sponsorship",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
