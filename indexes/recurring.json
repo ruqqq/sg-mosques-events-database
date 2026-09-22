@@ -941,6 +941,78 @@
       "path": "events/c3f6507f-1667-4223-bf0c-3f76011585e0.json"
     },
     {
+      "id": "d3ca281f-92ae-409d-b491-5222b566aed3",
+      "title": "Kuliah Dhuha (Sunday 8.30am–9.30am)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Sunday at 8.30am–9.30am",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "SU"
+          ],
+          "rule_text": "Setiap Ahad",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "08:30",
+            "literal": "8.30pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "09:30",
+            "literal": "9.30pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Md Faizal Wahab",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/d3ca281f-92ae-409d-b491-5222b566aed3.json"
+    },
+    {
       "id": "f5afb7a7-f40f-41ae-9745-5a643cb4c119",
       "title": "Friday Ratib Al-‘Attas Recitation",
       "description": "Friday Ratib Al-‘Attas recitation.",
