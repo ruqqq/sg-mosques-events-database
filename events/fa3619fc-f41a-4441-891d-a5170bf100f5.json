@@ -1,0 +1,111 @@
+{
+  "title": "Highlighting The Companions r.a. (English Talk)",
+  "description": "An English talk uncovering lesser-known stories of the Companions r.a. and timeless lessons from those who stood beside the Prophet s.a.w.",
+  "mosque_ids": [
+    "an-nahdhah"
+  ],
+  "categories": [
+    "English talk",
+    "Islamic lecture"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 25 September 2026, after Maghrib prayers at 8:07 PM",
+    "occurrences": [
+      {
+        "label": "English Talk",
+        "date": "2026-09-25",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "20:07",
+          "literal": "After Maghrib prayers - 8.07 PM"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "MPH Level 3, Masjid An-Nahdhah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Hidayah Azman",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Muslimin",
+    "Muslimah"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3981584330524807966",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages"
+      ]
+    },
+    {
+      "source_id": "instagram:3981584330524807966",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster gives both an after-Maghrib reference and an 8:07 PM time; 8:07 PM is recorded as the start time."
+    ]
+  },
+  "notes": null,
+  "extra_data": {},
+  "id": "fa3619fc-f41a-4441-891d-a5170bf100f5",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3981584330524807966",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdBbdpwMVMe",
+      "post_id": "3981584330524807966",
+      "author_handle": "annahdhah",
+      "author_profile_id": "1625702944",
+      "discovered_via": [],
+      "published_at": "2026-09-08T10:05:19.000Z",
+      "retrieved_at": "2026-09-22T02:26:16.376Z",
+      "caption": "🤝🏻𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝗶𝗻𝗴 𝗧𝗵𝗲 𝗖𝗼𝗺𝗽𝗮𝗻𝗶𝗼𝗻𝘀 𝗿.𝗮. (English Talk)\n\nJoin Ustazah Hidayah Azman as we uncover the lesser-known stories of the Companions r.a. and discover timeless lessons from those who stood beside the Prophet s.a.w.\n\n📅 Friday, 25 September 2026\n🕰️ After Maghrib Prayers - 8.07 PM\n📍 MPH Level 3, Masjid An-Nahdhah\n\nCome, learn their stories. Reflect on their sacrifices. And discover what their legacy means for us today. \n\nMuslimin & Muslimah are all welcome!"
+    }
+  ]
+}

@@ -354,6 +354,88 @@
           "end_time": null
         }
       ]
+    },
+    {
+      "id": "fa3619fc-f41a-4441-891d-a5170bf100f5",
+      "title": "Highlighting The Companions r.a. (English Talk)",
+      "description": "An English talk uncovering lesser-known stories of the Companions r.a. and timeless lessons from those who stood beside the Prophet s.a.w.",
+      "mosque_ids": [
+        "an-nahdhah"
+      ],
+      "categories": [
+        "English talk",
+        "Islamic lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 25 September 2026, after Maghrib prayers at 8:07 PM",
+        "occurrences": [
+          {
+            "label": "English Talk",
+            "date": "2026-09-25",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "20:07",
+              "literal": "After Maghrib prayers - 8.07 PM"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "MPH Level 3, Masjid An-Nahdhah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Hidayah Azman",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Muslimin",
+        "Muslimah"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster gives both an after-Maghrib reference and an 8:07 PM time; 8:07 PM is recorded as the start time."
+        ]
+      },
+      "path": "events/fa3619fc-f41a-4441-891d-a5170bf100f5.json",
+      "matched_occurrences": [
+        {
+          "label": "English Talk",
+          "date": "2026-09-25",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "20:07",
+            "literal": "After Maghrib prayers - 8.07 PM"
+          },
+          "end_time": null
+        }
+      ]
     }
   ]
 }
