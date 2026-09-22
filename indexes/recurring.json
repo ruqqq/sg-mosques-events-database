@@ -3336,6 +3336,76 @@
       "path": "events/dc1b1cb9-41f7-4dda-bcc0-d47748e3d389.json"
     },
     {
+      "id": "e006e510-0c07-48a9-83ef-95e4aeed5af5",
+      "title": "Kuliah Maghrib: Tafsir Berterna",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Rabu, selepas solat Maghrib, di Dewan Solat",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "WE"
+          ],
+          "rule_text": "Hari Rabu — Kuliah Maghrib selepas solat Maghrib",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas solat Maghrib"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "hybrid",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Dr. Abdul Aziz Mohamed",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Tajuk dibaca daripada poster sebagai 'Tafsir Berterna'; ejaan sebenar mungkin 'Tafsir Bertema'."
+        ]
+      },
+      "path": "events/e006e510-0c07-48a9-83ef-95e4aeed5af5.json"
+    },
+    {
       "id": "e99ab4aa-3425-470b-b209-ffe6957b2ad5",
       "title": "BQS Weeknight Basic Quran & Solat",
       "description": "Weeknight Basic Quran & Solat class for children, offered under the Al-Islah Quran & Solat Academy (AQSA) 2027 weekly physical classes.",
