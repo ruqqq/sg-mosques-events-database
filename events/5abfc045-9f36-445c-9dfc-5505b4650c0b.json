@@ -1,0 +1,125 @@
+{
+  "title": "TBT: The Good Husband Series — When Everything Depends On You",
+  "description": "A morning session of Tarbiyyah Bukan Terbiar (TBT): The Good Husband Series exploring the pressures, responsibilities and amanah of married men, comprising a main talk and breakout discussions, with Ustaz Ahmad Faritz Mohamed Hairudin.",
+  "mosque_ids": [
+    "al-falah"
+  ],
+  "categories": [
+    "Talk",
+    "Breakout discussions",
+    "Education"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 3 October 2026, 1.30pm – 4pm",
+    "occurrences": [
+      {
+        "date": "2026-10-03",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "13:30",
+          "literal": "1.30pm"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "16:00",
+          "literal": "4pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Al-Falah Mosque",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Ahmad Faritz Mohamed Hairudin",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [
+    "Men",
+    "Married men"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://alfalah.sg/programmes/tbt",
+    "deadline_date": null,
+    "instructions": "Register via alfalah.sg/programmes/tbt"
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Poster states 'Free Course'."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3990821043697417416",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/pricing",
+        "/people"
+      ],
+      "note": "Poster shows series name, title, date, timing, venue, free-course label and speaker."
+    },
+    {
+      "source_id": "instagram:3990821043697417416",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/registration",
+        "/audience",
+        "/languages"
+      ],
+      "note": "Caption describes the session content, breakout discussions and register link."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Poster note '(Updated Timing)' indicates a timing change; the earlier timing is not shown.",
+      "Full venue address is not stated on the poster or caption.",
+      "Whether attendance is limited to men (audience inferred from the married-men theme) is not explicitly stated.",
+      "'Tarbiyyah Bukan Terbiar' in the caption is assumed to be the expansion of the TBT acronym."
+    ]
+  },
+  "notes": "Free course with a main talk and breakout discussions. Registration is via the mosque programme page alfalah.sg/programmes/tbt.",
+  "extra_data": {
+    "series": "Tarbiyyah Bukan Terbiar (TBT): The Good Husband Series",
+    "poster_note": "Updated Timing",
+    "format": [
+      "Main Talk",
+      "Breakout Discussions"
+    ]
+  },
+  "id": "5abfc045-9f36-445c-9dfc-5505b4650c0b",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3990821043697417416",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdiPphPvPzI",
+      "post_id": "3990821043697417416",
+      "author_handle": "alfalah.sg",
+      "author_profile_id": "3253152311",
+      "discovered_via": [],
+      "published_at": "2026-09-21T03:56:15.000Z",
+      "retrieved_at": "2026-09-22T07:54:05.133Z",
+      "caption": "When Everything Depends On You\nTarbiyyah Bukan Terbiar (TBT): The Good Husband Series\n\nMarriage comes with responsibilities that extend beyond providing and protecting. For many men, the expectations of being a husband can carry pressures that are often left unspoken. From financial responsibilities and emotional strength to leadership, decision-making and fulfilling the amanah entrusted to them.\n\nIn this session of TBT: The Good Husband Series, we take a closer look at the realities faced by married men and explore what it means to carry these responsibilities with wisdom, ihsan and faith.\n\nJoin us for a morning of meaningful conversations through a main talk and breakout discussions, as we reflect on the pressures, responsibilities and amanah of married men.\n\n📅 Saturday, 3 October 2026 ⏰ 1.30pm – 4pm 📍 Al-Falah Mosque 🎟️ Free course\n👨‍🏫 Ustaz Ahmad Faritz Mohamed Hairudin\n\n🔗 Register via alfalah.sg/programmes/tbt"
+    }
+  ]
+}

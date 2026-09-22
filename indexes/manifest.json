@@ -16,7 +16,7 @@
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
-      "count": 13
+      "count": 14
     },
     "2026-11": {
       "path": "indexes/months/2026-11.json",
@@ -67,7 +67,12 @@
     },
     "al-falah": {
       "path": "mosques/al-falah.json",
-      "months": {},
+      "months": {
+        "2026-10": {
+          "path": "indexes/mosques/al-falah/months/2026-10.json",
+          "count": 1
+        }
+      },
       "recurring": {
         "path": "indexes/mosques/al-falah/recurring.json",
         "count": 0
