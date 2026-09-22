@@ -600,6 +600,95 @@
       ]
     },
     {
+      "id": "ee187119-a5df-46e6-bae1-fb257da6bd09",
+      "title": "Majlis Maulidurrasul",
+      "description": "Majlis featuring maulid, azan, a religious lecture and qasidah.",
+      "mosque_ids": [
+        "al-firdaus"
+      ],
+      "categories": [
+        "religious lecture",
+        "maulid",
+        "qasidah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 12 September 2026, 6:00 PM–9:00 PM",
+        "occurrences": [
+          {
+            "label": "Majlis Maulidurrasul",
+            "date": "2026-09-12",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "18:00",
+              "literal": "6.00pm"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:00",
+              "literal": "9.00pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Al-Firdaus",
+        "address": "11 Jalan Ibadah, S(698955)",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Fadlon Osman",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "jemaah",
+        "families"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Donation details are provided separately and are not an admission charge."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/ee187119-a5df-46e6-bae1-fb257da6bd09.json",
+      "matched_occurrences": [
+        {
+          "label": "Majlis Maulidurrasul",
+          "date": "2026-09-12",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "18:00",
+            "literal": "6.00pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:00",
+            "literal": "9.00pm"
+          }
+        }
+      ]
+    },
+    {
       "id": "94a1a1a0-6be5-49fd-87ed-4ab0260b69dd",
       "title": "Kupasan Kitab Ihya Ulumuddin",
       "description": "Kuliah Subuh on the book Ihya Ulumuddin.",

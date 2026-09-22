@@ -1,0 +1,128 @@
+{
+  "title": "Majlis Maulidurrasul",
+  "description": "Majlis featuring maulid, azan, a religious lecture and qasidah.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "religious lecture",
+    "maulid",
+    "qasidah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 12 September 2026, 6:00 PM–9:00 PM",
+    "occurrences": [
+      {
+        "label": "Majlis Maulidurrasul",
+        "date": "2026-09-12",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "18:00",
+          "literal": "6.00pm"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:00",
+          "literal": "9.00pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Al-Firdaus",
+    "address": "11 Jalan Ibadah, S(698955)",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Fadlon Osman",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "jemaah",
+    "families"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Donation details are provided separately and are not an admission charge."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982200745671982780",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/mosque_ids",
+        "/schedule",
+        "/location",
+        "/people",
+        "/languages",
+        "/audience",
+        "/extra_data/programme"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "programme": [
+      {
+        "time": "18:00",
+        "item": "Maulid oleh Kumpulan Nurul Ibadah"
+      },
+      {
+        "time": "19:05",
+        "item": "Azan Maghrib"
+      },
+      {
+        "time": "19:30",
+        "item": "Syarahan 'Cinta Yang Tidak Bermusim' oleh Ustaz Fadlon Osman"
+      },
+      {
+        "time": "20:14",
+        "item": "Azan Isya'"
+      },
+      {
+        "time": "20:40",
+        "item": "Qasidah oleh Kumpulan Nurul Ibadah; makan berulang"
+      }
+    ],
+    "organising_group": "Kumpulan Nurul Ibadah"
+  },
+  "id": "ee187119-a5df-46e6-bae1-fb257da6bd09",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982200745671982780",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdDnnrGEv68",
+      "post_id": "3982200745671982780",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-09T06:29:03.000Z",
+      "retrieved_at": "2026-09-22T02:26:23.982Z",
+      "caption": "🌙✨ CINTA KEPADA RASULULLAH ﷺ, CINTA YANG TIDAK BERMUSIM ✨🌙\n\nSempena Majlis Maulidurrasul, Masjid Al-Firdaus dengan penuh sukacita menjemput para jemaah untuk bersama-sama menghidupkan malam yang penuh keberkatan dengan maulid, selawat, syarahan dan qasidah. 🌹\n\n📅 Sabtu, 12 September 2026\n⏰ 6.00 petang – 9.00 malam\n📍 Masjid Al-Firdaus\n\n❤️ Cinta kepada Rasulullah ﷺ bukan sekadar di bibir. Ia dizahirkan dengan memperbanyakkan selawat, menghidupkan sunnah dan meneladani akhlak Baginda ﷺ.\n\nMarilah hadir bersama keluarga, sahabat dan insan tersayang. Semoga majlis ini menjadi ruang untuk kita menyuburkan cinta kepada Rasulullah ﷺ, menghidupkan sunnah Baginda dan membawa akhlak Baginda dalam kehidupan kita.\n\n🌙 Jom berselawat. Jom hidupkan sunnah. Jom suburkan cinta kepada Rasulullah ﷺ.\n\nSemoga cinta ini terus hidup — tidak bermusim, tidak berpenghujung. \n\n🕌\n\nSumbangan kepada Masjid Al-Firdaus:\nPayNow UEN: S62MQ0011J\nOCBC Wadiah Account: 517-147690-001\n\n#Rabiulawal1448\n#MenghidupkanSunnahMenyuburkanCintaRasulullahSAW\n#MasjidAlFirdaus\n#AlFirdausMosque\n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}
