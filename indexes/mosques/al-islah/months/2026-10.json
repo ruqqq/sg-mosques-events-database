@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "3a84054a-fea5-4ee8-843c-7c1226da3ab5",
+      "title": "The Chosen One 1 & 2: A Study of Prophet Muhammad s.a.w.'s Character and Values",
+      "description": "ADIL @ Al-Islah Mosque course exploring the personality, characteristics, values and ethics of Prophet Muhammad s.a.w., drawing lessons for contemporary social and multi-religious contexts. Module objectives include appreciating lessons from the Prophet's life, identifying enduring prophetic values, strengthening faith in Allah and increasing love for Prophet Muhammad s.a.w.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "Core",
+        "Akhlaq",
+        "IslamicCourse",
+        "FaithAndKnowledge"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Mod 1: 18 Sep – 9 Oct 26 (every Friday); Mod 2: 16 Oct – 6 Nov 26 (every Friday), 7.45pm – 9.45pm",
+        "occurrences": [
+          {
+            "label": "Mod 1",
+            "date": "2026-09-18",
+            "end_date": "2026-10-09",
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7.45pm"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9.45pm"
+            }
+          },
+          {
+            "label": "Mod 2",
+            "date": "2026-10-16",
+            "end_date": "2026-11-06",
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:45",
+              "literal": "7.45pm"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:45",
+              "literal": "9.45pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": "Zoom (Online)",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Unaisah Adam",
+          "role": "teacher"
+        },
+        {
+          "name": "Ustazah HidayAh Azman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Adults",
+        "Community members"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://tinyurl.com/adilayislah",
+        "deadline_date": null,
+        "instructions": "Register today: tinyurl.com/adilayislah"
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 50,
+            "currency": "SGD",
+            "label": "per module"
+          }
+        ],
+        "notes": "$50 per module"
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Currency for the $50 per module fee is not explicitly stated (assumed SGD given Singapore mosque)",
+          "Exact session dates within each module are not individually listed beyond module start/end dates and 'every Friday'",
+          "Audience is not explicitly stated",
+          "Registration deadline not stated",
+          "Online URL for Zoom session not provided"
+        ]
+      },
+      "path": "events/3a84054a-fea5-4ee8-843c-7c1226da3ab5.json",
+      "matched_occurrences": [
+        {
+          "label": "Mod 1",
+          "date": "2026-09-18",
+          "end_date": "2026-10-09",
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:45",
+            "literal": "7.45pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:45",
+            "literal": "9.45pm"
+          }
+        },
+        {
+          "label": "Mod 2",
+          "date": "2026-10-16",
+          "end_date": "2026-11-06",
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:45",
+            "literal": "7.45pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:45",
+            "literal": "9.45pm"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -12,15 +12,15 @@
     },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
-      "count": 34
+      "count": 35
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
-      "count": 5
+      "count": 6
     },
     "2026-11": {
       "path": "indexes/months/2026-11.json",
-      "count": 2
+      "count": 3
     }
   },
   "recurring": {
@@ -91,7 +91,20 @@
     },
     "al-islah": {
       "path": "mosques/al-islah.json",
-      "months": {},
+      "months": {
+        "2026-09": {
+          "path": "indexes/mosques/al-islah/months/2026-09.json",
+          "count": 1
+        },
+        "2026-10": {
+          "path": "indexes/mosques/al-islah/months/2026-10.json",
+          "count": 1
+        },
+        "2026-11": {
+          "path": "indexes/mosques/al-islah/months/2026-11.json",
+          "count": 1
+        }
+      },
       "recurring": {
         "path": "indexes/mosques/al-islah/recurring.json",
         "count": 0

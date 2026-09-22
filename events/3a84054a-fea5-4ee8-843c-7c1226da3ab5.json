@@ -1,0 +1,177 @@
+{
+  "title": "The Chosen One 1 & 2: A Study of Prophet Muhammad s.a.w.'s Character and Values",
+  "description": "ADIL @ Al-Islah Mosque course exploring the personality, characteristics, values and ethics of Prophet Muhammad s.a.w., drawing lessons for contemporary social and multi-religious contexts. Module objectives include appreciating lessons from the Prophet's life, identifying enduring prophetic values, strengthening faith in Allah and increasing love for Prophet Muhammad s.a.w.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "Core",
+    "Akhlaq",
+    "IslamicCourse",
+    "FaithAndKnowledge"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Mod 1: 18 Sep – 9 Oct 26 (every Friday); Mod 2: 16 Oct – 6 Nov 26 (every Friday), 7.45pm – 9.45pm",
+    "occurrences": [
+      {
+        "label": "Mod 1",
+        "date": "2026-09-18",
+        "end_date": "2026-10-09",
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7.45pm"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9.45pm"
+        }
+      },
+      {
+        "label": "Mod 2",
+        "date": "2026-10-16",
+        "end_date": "2026-11-06",
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:45",
+          "literal": "7.45pm"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:45",
+          "literal": "9.45pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": "Zoom (Online)",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustazah Unaisah Adam",
+      "role": "teacher"
+    },
+    {
+      "name": "Ustazah HidayAh Azman",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Adults",
+    "Community members"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://tinyurl.com/adilayislah",
+    "deadline_date": null,
+    "instructions": "Register today: tinyurl.com/adilayislah"
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 50,
+        "currency": "SGD",
+        "label": "per module"
+      }
+    ],
+    "notes": "$50 per module"
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3986475829835736193",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/categories",
+        "/schedule",
+        "/location",
+        "/people",
+        "/pricing",
+        "/registration",
+        "/mosque_ids",
+        "/languages"
+      ]
+    },
+    {
+      "source_id": "instagram:3986475829835736193",
+      "locator": "slide:2",
+      "supports": [
+        "/description",
+        "/categories",
+        "/registration"
+      ]
+    },
+    {
+      "source_id": "instagram:3986475829835736193",
+      "locator": "caption",
+      "supports": [
+        "/description",
+        "/registration",
+        "/pricing",
+        "/schedule",
+        "/location",
+        "/categories"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Currency for the $50 per module fee is not explicitly stated (assumed SGD given Singapore mosque)",
+      "Exact session dates within each module are not individually listed beyond module start/end dates and 'every Friday'",
+      "Audience is not explicitly stated",
+      "Registration deadline not stated",
+      "Online URL for Zoom session not provided"
+    ]
+  },
+  "notes": "Two modules of the same course series; each module runs weekly on Fridays. Year 2026 given explicitly (26 in poster, 2026 in caption).",
+  "extra_data": {
+    "modules": [
+      {
+        "label": "Mod 1",
+        "date_range": "18 Sep – 9 Oct 2026"
+      },
+      {
+        "label": "Mod 2",
+        "date_range": "16 Oct – 6 Nov 2026"
+      }
+    ],
+    "day_of_week": "Friday",
+    "organiser": "ADIL @ Al-Islah Mosque",
+    "hashtags": [
+      "#MasjidAlIslah",
+      "#ADIL",
+      "#IslamicCourse",
+      "#FaithAndKnowledge"
+    ]
+  },
+  "id": "3a84054a-fea5-4ee8-843c-7c1226da3ab5",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3986475829835736193",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdSzqVfCiSB",
+      "post_id": "3986475829835736193",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [],
+      "published_at": "2026-09-15T04:03:28.000Z",
+      "retrieved_at": "2026-09-22T06:58:28.549Z",
+      "caption": "Prophet Muhammad ﷺ was sent as a mercy to all creation, and his character, values and actions continue to offer timeless lessons for the way we live today. Through the study of his character, ethics and individual actions, discover how his teachings can be applied within our current social context and multi-religious society— while strengthening our faith in Allah and deepening our love for Rasulullah ﷺ.\n\nJoin us in The Chosen One 1 & 2 and discover how the timeless example of Prophet Muhammad ﷺ can inspire the way we live, interact with others and contribute to our communities today.\n\n🎯 Appreciate lessons from the life of Prophet Muhammad ﷺ\n🎯 Identify enduring Prophetic values and apply them in today’s context\n🎯 Strengthen our faith in Allah by emulating the best practices of the Prophet ﷺ\n🎯 Increase our love for Prophet Muhammad ﷺ\n\n📅 Mod 1: 18 Sep – 9 Oct 2026\nMod 2: 16 Oct – 6 Nov 2026 (every Friday)\n🕢 7.45pm – 9.45pm\n💻 Zoom (Online)\n💰 $50 per module\n\nRegister today: tinyurl.com/adilayislah\n#MasjidAlIslah #ADIL #IslamicCourse #FaithAndKnowledge"
+    }
+  ]
+}
