@@ -1,0 +1,117 @@
+{
+  "title": "Friday Blessings: Rabiul Akhir — Istiqamah, Small Deeds Big Impact",
+  "description": "Youth gathering of reminders and reflections on the topic 'Rabiul Akhir: Istiqamah — Small Deeds, Big Impact', with a limited bubble tea giveaway. Free and open to all youths.",
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "youth",
+    "religious talk"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 25 September 2026, 3.00 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-25",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "15:00",
+          "literal": "3.00 PM"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Darul Ghufran, Level 3 Youth Hub",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Syakir",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "youth"
+  ],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Open to all youths; no registration mentioned."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "FREE! Open to all youths."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3988818834412282695",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/status",
+        "/schedule",
+        "/location",
+        "/audience",
+        "/pricing",
+        "/extra_data/topic"
+      ]
+    },
+    {
+      "source_id": "instagram:3988818834412282695",
+      "locator": "slide:1",
+      "supports": [
+        "/schedule/occurrences/0/date",
+        "/schedule/occurrences/0/start_time",
+        "/location/name",
+        "/people/0",
+        "/pricing",
+        "/extra_data/bubble_tea_giveaway"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "End time of the programme is not stated.",
+      "Whether registration is truly unnecessary is not explicitly stated; the post says it is open to all youths.",
+      "Speaker's role on the poster is 'Youth Development Officer'; role encoded as speaker."
+    ]
+  },
+  "notes": "Poster title: 'Friday Blessings'. Topic: Rabiul Akhir: Istiqamah — Small Deeds, Big Impact. Limited bubble tea giveaway for attendees.",
+  "extra_data": {
+    "topic": "Rabiul Akhir: Istiqamah — Small Deeds, Big Impact",
+    "bubble_tea_giveaway": "Limited bubble tea giveaway",
+    "poster_programme_name": "Friday Blessings",
+    "speaker_title": "Youth Development Officer"
+  },
+  "id": "13dae6db-6425-4d27-baf1-1688e6e46d1e",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3988818834412282695",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdbIZiiiCNH",
+      "post_id": "3988818834412282695",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-09-19T10:00:14.000Z",
+      "retrieved_at": "2026-09-22T07:00:22.492Z",
+      "caption": "✨ FRIDAY BLESSINGS IS BACK! 💚\n\nJoin us for next week’s Friday Blessings as we reflect on:\n\n🌿 Rabiul Akhir: Istiqamah\nSmall Deeds, Big Impact\n\n🗓️ Friday, 25 September 2026\n🕒 3.00 PM\n📍 Masjid Darul Ghufran, Level 3 Youth Hub\n\n✨ FREE! Open to all youths.\n🧋 Limited bubble tea giveaway!\n\nBring a friend and join us for an afternoon of meaningful reminders and good company. See you there, insyaAllah 🫡"
+    }
+  ]
+}

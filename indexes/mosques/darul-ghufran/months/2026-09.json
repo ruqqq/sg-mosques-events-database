@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "13dae6db-6425-4d27-baf1-1688e6e46d1e",
+      "title": "Friday Blessings: Rabiul Akhir — Istiqamah, Small Deeds Big Impact",
+      "description": "Youth gathering of reminders and reflections on the topic 'Rabiul Akhir: Istiqamah — Small Deeds, Big Impact', with a limited bubble tea giveaway. Free and open to all youths.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "youth",
+        "religious talk"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Friday, 25 September 2026, 3.00 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-25",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "15:00",
+              "literal": "3.00 PM"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran, Level 3 Youth Hub",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Syakir",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "youth"
+      ],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": "Open to all youths; no registration mentioned."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "FREE! Open to all youths."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "End time of the programme is not stated.",
+          "Whether registration is truly unnecessary is not explicitly stated; the post says it is open to all youths.",
+          "Speaker's role on the poster is 'Youth Development Officer'; role encoded as speaker."
+        ]
+      },
+      "path": "events/13dae6db-6425-4d27-baf1-1688e6e46d1e.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-25",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "15:00",
+            "literal": "3.00 PM"
+          },
+          "end_time": null
+        }
+      ]
+    }
+  ]
+}
