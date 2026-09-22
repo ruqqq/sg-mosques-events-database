@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "32dcb342-361c-4781-88ee-08273b71271c",
+      "title": "Crossroads Dialogues Sesi Kedua: Apabila Sakinah Dinoda",
+      "description": "Open dialogue session on trust, infidelity, recovery and rebuilding Sakinah, Mawaddah and Rahmah in marriage, with two panelists and a moderator. Free admission; light refreshments served before the session starts.",
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "dialogue",
+        "marriage",
+        "family"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sabtu, 10 Oktober 2026, 5.00 petang – 6.30 petang",
+        "occurrences": [
+          {
+            "date": "2026-10-10",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "17:00",
+              "literal": "5.00 petang"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "18:30",
+              "literal": "6.30 petang"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran, Auditorium, Aras 3",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Ma'az Sallim",
+          "role": "speaker"
+        },
+        {
+          "name": "Puan Murni Abbas",
+          "role": "speaker"
+        },
+        {
+          "name": "Suhairyte Riz Supak",
+          "role": "host"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": "https://darulghufran.org/cdasd",
+        "deadline_date": null,
+        "instructions": "Daftar sekarang di darulghufran.org/cdasd; peserta perlu membuat pendaftaran secara individu."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Penyertaan adalah percuma dan makanan ringan akan disediakan sebelum sesi bermula."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Poster carries a festival/organiser logo block (Rising Festa, MFF) whose exact role in the programme is not stated in the source text.",
+          "No end date is given; the event is treated as a single one-off session.",
+          "Whether further sessions of Crossroads Dialogues are scheduled is not stated.",
+          "Audience restriction is not stated; registration instruction only says participants register individually."
+        ]
+      },
+      "path": "events/32dcb342-361c-4781-88ee-08273b71271c.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-10",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "17:00",
+            "literal": "5.00 petang"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "18:30",
+            "literal": "6.30 petang"
+          }
+        }
+      ]
+    }
+  ]
+}
