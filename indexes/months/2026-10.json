@@ -565,6 +565,132 @@
       ]
     },
     {
+      "id": "2d110e99-fb0e-4d23-9079-4a135619da7b",
+      "title": "Triple P Webinar Series (Parenting Teenagers)",
+      "description": "Evidence-based parenting webinar programme for parents of children aged 13-16, run over two online sessions covering practical strategies to support teenagers' emotional, social and psychological development. Each session builds on the previous one.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "parenting",
+        "webinar",
+        "family",
+        "youth"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Session 1: 3 October 2026 (Sat) 10.00am - 12.30pm; Session 2: 10 October 2026 (Sat) 10.00am - 12.00pm",
+        "occurrences": [
+          {
+            "label": "Session 1",
+            "date": "2026-10-03",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "10:00",
+              "literal": "10.00am"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "12:30",
+              "literal": "12.30pm"
+            }
+          },
+          {
+            "label": "Session 2",
+            "date": "2026-10-10",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "10:00",
+              "literal": "10.00am"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "12:00",
+              "literal": "12.00pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "online",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Joyceallyn",
+          "role": "teacher"
+        },
+        {
+          "name": "Farhan",
+          "role": "teacher"
+        }
+      ],
+      "languages": [],
+      "audience": [
+        "Parents with children aged 13-16 years old"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": "Scan the QR code to register now"
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration URL is only presented as a QR code and is not readable from the text; registration.url left null.",
+          "Poster and caption do not state the organising mosque; the mosque association comes from the source account (darulmakmur.mosque). The poster names Allkin and partner/support organisations instead.",
+          "Language(s) of delivery are not stated.",
+          "Price/fee for the programme is not stated; pricing recorded as unknown rather than free."
+        ]
+      },
+      "path": "events/2d110e99-fb0e-4d23-9079-4a135619da7b.json",
+      "matched_occurrences": [
+        {
+          "label": "Session 1",
+          "date": "2026-10-03",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "12:30",
+            "literal": "12.30pm"
+          }
+        },
+        {
+          "label": "Session 2",
+          "date": "2026-10-10",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "12:00",
+            "literal": "12.00pm"
+          }
+        }
+      ]
+    },
+    {
       "id": "32dcb342-361c-4781-88ee-08273b71271c",
       "title": "Crossroads Dialogues Sesi Kedua: Apabila Sakinah Dinoda",
       "description": "Open dialogue session on trust, infidelity, recovery and rebuilding Sakinah, Mawaddah and Rahmah in marriage, with two panelists and a moderator. Free admission; light refreshments served before the session starts.",

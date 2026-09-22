@@ -16,7 +16,7 @@
     },
     "2026-10": {
       "path": "indexes/months/2026-10.json",
-      "count": 11
+      "count": 12
     },
     "2026-11": {
       "path": "indexes/months/2026-11.json",
@@ -225,6 +225,10 @@
         "2026-09": {
           "path": "indexes/mosques/darul-makmur/months/2026-09.json",
           "count": 3
+        },
+        "2026-10": {
+          "path": "indexes/mosques/darul-makmur/months/2026-10.json",
+          "count": 1
         }
       },
       "recurring": {

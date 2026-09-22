@@ -1,0 +1,158 @@
+{
+  "title": "Triple P Webinar Series (Parenting Teenagers)",
+  "description": "Evidence-based parenting webinar programme for parents of children aged 13-16, run over two online sessions covering practical strategies to support teenagers' emotional, social and psychological development. Each session builds on the previous one.",
+  "mosque_ids": [
+    "darul-makmur"
+  ],
+  "categories": [
+    "parenting",
+    "webinar",
+    "family",
+    "youth"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Session 1: 3 October 2026 (Sat) 10.00am - 12.30pm; Session 2: 10 October 2026 (Sat) 10.00am - 12.00pm",
+    "occurrences": [
+      {
+        "label": "Session 1",
+        "date": "2026-10-03",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10.00am"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:30",
+          "literal": "12.30pm"
+        }
+      },
+      {
+        "label": "Session 2",
+        "date": "2026-10-10",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "10:00",
+          "literal": "10.00am"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "12:00",
+          "literal": "12.00pm"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Joyceallyn",
+      "role": "teacher"
+    },
+    {
+      "name": "Farhan",
+      "role": "teacher"
+    }
+  ],
+  "languages": [],
+  "audience": [
+    "Parents with children aged 13-16 years old"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Scan the QR code to register now"
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3978429419849218585",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/schedule/occurrences",
+        "/audience",
+        "/location",
+        "/registration"
+      ],
+      "note": "Caption names the series, both session dates and times, the age range of the target audience, online delivery and the registration call-to-action."
+    },
+    {
+      "source_id": "instagram:3978429419849218585",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/schedule/occurrences",
+        "/location",
+        "/people",
+        "/audience",
+        "/registration"
+      ],
+      "note": "Poster shows the trainer profiles and repeats the session dates, times, Zoom delivery and QR registration."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Registration URL is only presented as a QR code and is not readable from the text; registration.url left null.",
+      "Poster and caption do not state the organising mosque; the mosque association comes from the source account (darulmakmur.mosque). The poster names Allkin and partner/support organisations instead.",
+      "Language(s) of delivery are not stated.",
+      "Price/fee for the programme is not stated; pricing recorded as unknown rather than free."
+    ]
+  },
+  "notes": "Two-session online parenting webinar series listed as Session 1 and Session 2; attendance at both sessions encouraged. Poster names Allkin as organiser with partner and supporting organisations. Enquiries contact given on poster as famforlife@allkin.org.sg.",
+  "extra_data": {
+    "delivery_platform": "Zoom",
+    "organiser": "Allkin",
+    "session_dependency": "Each session builds on the previous one; parents are highly encouraged to complete both sessions",
+    "enquiry_email": "famforlife@allkin.org.sg",
+    "trainer_background": [
+      "Joyceallyn: registered Senior Social Worker and Positive Parenting Trainer with over 10 years of experience working with families and children",
+      "Farhan: Registered Social Worker and Family Life Educator with more than six years of experience working with individuals, couples and families"
+    ],
+    "in_partnership_with": [
+      "MENDAKI",
+      "FAMILIES FOR LIFE (M³)"
+    ],
+    "in_support_of": [
+      "FAM@FAMWES"
+    ]
+  },
+  "id": "2d110e99-fb0e-4d23-9079-4a135619da7b",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3978429419849218585",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc2OHqOE3oZ/",
+      "post_id": "3978429419849218585",
+      "author_handle": "darulmakmur.mosque",
+      "author_profile_id": "11144095878",
+      "discovered_via": [
+        "https://www.instagram.com/darulmakmur.mosque/"
+      ],
+      "published_at": "2026-09-04T01:36:06.000Z",
+      "retrieved_at": "2026-09-22T07:27:15.160Z",
+      "caption": "📣 Parents of Teenagers, This One’s for You! 👨‍👩‍👧‍👦\n\nThe teenage years come with new challenges, changing emotions, and plenty of moments where we may wonder, “Am I handling this the right way?” 💭\n\nJoin us for the Triple P Webinar Series, an evidence-based parenting programme designed to equip parents with practical strategies to better understand and support their teenagers’ emotional, social and psychological development.\n\n✨ For parents with children aged 13–16 years old\n\n📅 Session 1: 3 October 2026 (Saturday)\n⏰ 10.00am – 12.30pm\n\n📅 Session 2: 10 October 2026 (Saturday)\n⏰ 10.00am – 12.00pm\n\n💻 Online via Zoom\n\nEach session builds on the previous one, so parents are highly encouraged to attend both sessions for the full learning experience. 🌱\n\nParenting a teenager doesn’t come with a manual, but with the right strategies, we can journey through these years with greater confidence, connection and understanding. ❤️\n\n📲 Scan the QR code to register now!"
+    }
+  ]
+}
