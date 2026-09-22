@@ -792,6 +792,79 @@
       "path": "events/27467f05-45b6-480e-8bf5-30dcfe6232ba.json"
     },
     {
+      "id": "2807c77e-8a50-430e-b1fa-837431e52e74",
+      "title": "Kuliah Subuh (Minggu Kelima): Al-Azkar",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Ahad, minggu kelima setiap bulan, selepas solat Subuh, di Dewan Solat",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "monthly",
+          "weekdays": [
+            "SU"
+          ],
+          "week_ordinals": [
+            5
+          ],
+          "rule_text": "Hari Ahad — Kuliah Subuh, Minggu Kelima",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas solat Subuh"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Irwan Hadi Mohd Shuhaimy",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Masa mula Kuliah Subuh dinyatakan hanya sebagai selepas solat Subuh."
+        ]
+      },
+      "path": "events/2807c77e-8a50-430e-b1fa-837431e52e74.json"
+    },
+    {
       "id": "2a3d97aa-344b-49ed-b012-c6b93061aaee",
       "title": "Kuliah Subuh",
       "description": null,

@@ -1,0 +1,105 @@
+{
+  "title": "Kuliah Subuh (Minggu Kelima): Al-Azkar",
+  "description": null,
+  "mosque_ids": [
+    "darul-ghufran"
+  ],
+  "categories": [
+    "kuliah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Hari Ahad, minggu kelima setiap bulan, selepas solat Subuh, di Dewan Solat",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "monthly",
+      "weekdays": [
+        "SU"
+      ],
+      "week_ordinals": [
+        5
+      ],
+      "rule_text": "Hari Ahad — Kuliah Subuh, Minggu Kelima",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "prayer_relative",
+        "prayer": "subuh",
+        "relation": "after",
+        "offset_minutes": null,
+        "literal": "Selepas solat Subuh"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid Darul Ghufran",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Irwan Hadi Mohd Shuhaimy",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3865474918218527467",
+      "locator": "slide:9",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Masa mula Kuliah Subuh dinyatakan hanya sebagai selepas solat Subuh."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "slot": "Kuliah Subuh",
+    "week_label": "Minggu Kelima",
+    "book": "Al-Azkar"
+  },
+  "id": "2807c77e-8a50-430e-b1fa-837431e52e74",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3865474918218527467",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DWk7PU8mPLr",
+      "post_id": "3865474918218527467",
+      "author_handle": "darulghufran",
+      "author_profile_id": "727401386",
+      "discovered_via": [],
+      "published_at": "2026-04-01T05:15:40.000Z",
+      "retrieved_at": "2026-09-22T07:01:12.363Z",
+      "caption": "Kuliah bukan sekadar ilmu, tapi ruang untuk kita pulang kepada Allah 🤍\n\nJadual Kuliah-Kuliah 2026 di Masjid Darul Ghufran.\nPilih hari, atur masa, dan hadirkan diri.\n\nSemoga setiap langkah ke masjid menjadi asbab kebaikan. 🤲\n\n#MDG #MasjidDarulGhufran\n#KuliahMDG"
+    }
+  ]
+}
