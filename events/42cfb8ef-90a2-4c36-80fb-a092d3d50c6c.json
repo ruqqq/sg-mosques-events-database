@@ -1,0 +1,172 @@
+{
+  "title": "Tajwid Masterclass 3.0",
+  "description": "Elevating Your Recitation: Advanced Rules and Waqaf",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "education",
+    "tajwid",
+    "quran"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Thursdays: 10, 17, 24 September and 1 October 2026, 7:30 PM–9:30 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-10",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "date": "2026-09-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "date": "2026-09-24",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      },
+      {
+        "date": "2026-10-01",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "21:30",
+          "literal": "9:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Classroom 2A, Level 3",
+    "address": "Masjid Sultan Annexe Building",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Zulkifli Fadzil",
+      "role": "teacher"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Participants who have completed Masterclass 2.0",
+    "Anyone wanting to sharpen their tajwid"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://bit.ly/mstajwid3",
+    "deadline_date": null,
+    "instructions": "Register via the provided link; seats are limited."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 60,
+        "currency": "SGD",
+        "label": "1 pax"
+      },
+      {
+        "amount": 100,
+        "currency": "SGD",
+        "label": "2 pax"
+      }
+    ],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977961806639310363",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/text",
+        "/registration/url",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3977961806639310363",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people/0/name",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "topics": [
+      "Advanced tajwid rules",
+      "Waqaf",
+      "Recitation precision"
+    ]
+  },
+  "id": "42cfb8ef-90a2-4c36-80fb-a092d3d50c6c",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977961806639310363",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0jy_ezqYb/",
+      "post_id": "3977961806639310363",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [
+        "https://www.instagram.com/masjidsultan/"
+      ],
+      "published_at": "2026-09-03T10:08:01.000Z",
+      "retrieved_at": "2026-09-22T02:40:07.857Z",
+      "caption": "Have you ever recited a verse and paused, wondering if you got the waqaf right? 🤔📖\n\nIntroducing TAJWID MASTERCLASS 3.0\nElevating Your Recitation: Advanced Rules and Waqaf\n\nTake your recitation beyond the basics, refine your precision, deepen your understanding of advanced tajwid rules, and recite with greater confidence and khusyu’.\n\n🗓️ Thursdays: 10, 17, 24 September & 1 October 2026\n🕢 Time: 7:30 PM – 9:30 PM\n📍 Venue: Classroom 2A, Level 3, Masjid Sultan Annexe Building\n\nWhether you’ve completed Masterclass 2.0 or simply want to sharpen your tajwid, this series is for you.\n\n📌 Limited seats — register now!\n🔗 bit.ly/mstajwid3\n\n#TajwidMasterclass #MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}

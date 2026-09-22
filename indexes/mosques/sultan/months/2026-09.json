@@ -2,6 +2,174 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "42cfb8ef-90a2-4c36-80fb-a092d3d50c6c",
+      "title": "Tajwid Masterclass 3.0",
+      "description": "Elevating Your Recitation: Advanced Rules and Waqaf",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "education",
+        "tajwid",
+        "quran"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Thursdays: 10, 17, 24 September and 1 October 2026, 7:30 PM–9:30 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-10",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "date": "2026-09-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "date": "2026-09-24",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          },
+          {
+            "date": "2026-10-01",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "21:30",
+              "literal": "9:30 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Classroom 2A, Level 3",
+        "address": "Masjid Sultan Annexe Building",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Muhammad Zulkifli Fadzil",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "Participants who have completed Masterclass 2.0",
+        "Anyone wanting to sharpen their tajwid"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://bit.ly/mstajwid3",
+        "deadline_date": null,
+        "instructions": "Register via the provided link; seats are limited."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 60,
+            "currency": "SGD",
+            "label": "1 pax"
+          },
+          {
+            "amount": 100,
+            "currency": "SGD",
+            "label": "2 pax"
+          }
+        ],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/42cfb8ef-90a2-4c36-80fb-a092d3d50c6c.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-10",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "date": "2026-09-17",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        },
+        {
+          "date": "2026-09-24",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "21:30",
+            "literal": "9:30 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "7dfb170f-c775-4a44-bbd4-284e8c45ebef",
       "title": "Basic ‘Umrah Guide",
       "description": "A bilingual session covering the meaning and virtues of ‘Umrah, conditions, pillars and obligations, prohibitions during Ihram, and a step-by-step guide to performing ‘Umrah.",
