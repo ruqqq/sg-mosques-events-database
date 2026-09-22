@@ -1,0 +1,97 @@
+{
+  "title": "Kuliah Subuh: Meneladani Rasulullah SAW Melalui Keindahan Akhlaknya",
+  "description": "Kuliah Subuh khas Rabiulawal 1448H by Ustaz Drs Ahmad Dahri.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "religious lecture"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Ahad, 6 September 2026, selepas Subuh",
+    "occurrences": [
+      {
+        "label": "Kuliah Subuh",
+        "date": "2026-09-06",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "subuh",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "Selepas Subuh"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat Utama, Masjid Al-Firdaus",
+    "address": "11 Jalan Ibadah, Singapore 698955",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Drs Ahmad Dahri",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3976919698389919735",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/description",
+        "/mosque_ids",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "theme": "Rabiulawal 1448H"
+  },
+  "id": "ccbc659f-a00a-4a42-8322-ac8e9115260d",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3976919698389919735",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dcw22UiyOf3",
+      "post_id": "3976919698389919735",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-01T23:36:49.000Z",
+      "retrieved_at": "2026-09-22T02:25:53.113Z",
+      "caption": "Assalamualaikum wr wb,\n\nPada pagi hari minggu ini marilah bersama kami di Al-Firdaus untuk mendengar dan menghayati kuliah Subuh khas Rabiulawal 1448H “Meneladani Rasulullah SAW Melalui Keindahan Akhlaknya” oleh Ustaz Drs Ahmad Dahri.\n\nJumpa anda di Al-Firdaus, inshāAllāh.\n\n🕌\n\nContribute to Masjid Al-Firdaus :\n\n1. PayNow UEN: S62MQ0011J\n2. OCBC Wadiah Account: 517-147690-001\n\nMay Allah s.w.t reward your efforts abundantly. Āmīn.\n\n#Kuliah\n#Rabiulawal1448H\n#MasjidAlFirdaus \n#AlFirdausMosque \n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}
