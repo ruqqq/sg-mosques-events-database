@@ -1809,6 +1809,72 @@
       "path": "events/ac1518f9-ec0f-4ca3-a45a-4891d9672804.json"
     },
     {
+      "id": "b38a9cb8-c0d2-4286-92b6-ba4ab574c53d",
+      "title": "Kuliah Dhuha bersama Ustazah Dr. Sakinah Saptu (siri mingguan)",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Kuliah pada hari Rabu; bersambung semula pada Rabu, 16 Sep 2026",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "WE"
+          ],
+          "rule_text": "Kuliah dhuha pada hari Rabu; kuliah akan bersambung semula pada Rabu, 16 Sep 2026",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": null,
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustazah Dr. Sakinah Saptu",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Frekuensi mingguan setiap Rabu diinferenskan daripada tarikh 9 Sep 2026 dan 16 Sep 2026 yang kedua-duanya hari Rabu",
+          "Tarikh mula sebenar siri ini tidak dinyatakan",
+          "Masa kuliah tidak dinyatakan"
+        ]
+      },
+      "path": "events/b38a9cb8-c0d2-4286-92b6-ba4ab574c53d.json"
+    },
+    {
       "id": "c3f6507f-1667-4223-bf0c-3f76011585e0",
       "title": "Kuliah Dhuha (10.15am–11.15am)",
       "description": null,
