@@ -1,0 +1,137 @@
+{
+  "title": "Community Health Post @ MYI",
+  "description": "Free community health post where the healthcare team helps attendees monitor vital signs, understand medications, receive personalised care and support planning, geriatric assessment and medication review, and guidance on healthier lifestyle choices.",
+  "mosque_ids": [
+    "yusof-ishak"
+  ],
+  "categories": [
+    "health",
+    "community"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every first Monday of the month (except public holidays), 9.00am - 12.00pm, starting Monday, 7 September 2026",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "monthly",
+      "weekdays": [
+        "MO"
+      ],
+      "week_ordinals": [
+        1
+      ],
+      "rule_text": "Every first Monday of the month (except public holidays)",
+      "starts_on": "2026-09-07",
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "09:00",
+        "literal": "9.00am"
+      },
+      "end_time": {
+        "kind": "clock",
+        "local_time": "12:00",
+        "literal": "12.00pm"
+      },
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Yusof Ishak, Seminar Room 1, Level 2",
+    "address": "10 Woodlands Drive 17, Singapore 737740",
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "Ages 18 and above"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": "https://tinyurl.com/myi-communityhealthpost",
+    "deadline_date": null,
+    "instructions": "Scan the QR code to register for our services or refer someone in need, or visit tinyurl.com/myi-communityhealthpost"
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Free for the community."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3978563844326312519",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/text",
+        "/schedule/recurrence/starts_on",
+        "/pricing",
+        "/registration/url",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3978563844326312519",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/recurrence/frequency",
+        "/schedule/recurrence/weekdays",
+        "/schedule/recurrence/week_ordinals",
+        "/schedule/recurrence/start_time",
+        "/schedule/recurrence/end_time",
+        "/location/name",
+        "/location/address",
+        "/audience",
+        "/pricing",
+        "/registration/instructions",
+        "/extra_data"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Caption says the service runs 'every first week of the month' while the poster says 'Every first Monday of the month'; recurrence encoded per the poster (first Monday).",
+      "Registration requirement not explicitly stated as mandatory; registration link/QR is offered and walk-in eligibility is unstated.",
+      "Excluded public holidays are not enumerated."
+    ]
+  },
+  "notes": "Recurring free community health post at Masjid Yusof Ishak, run with MYI Care, starting Monday 7 September 2026. Services include vital signs monitoring, medication review, geriatric assessment, care and support planning, lifestyle guidance and referral to community resources. Community members may also refer family, friends or others who could benefit.",
+  "extra_data": {
+    "organiser": "Masjid Yusof Ishak (MYI Care)",
+    "services": [
+      "Learn to monitor your vital signs",
+      "Learn about healthy lifestyle choices",
+      "Personalise your health journey through care and support planning",
+      "Connect you with community resources, activities and care services",
+      "Geriatric assessment and medication review"
+    ],
+    "age_limit": "18 years old & above",
+    "uen": "T16MQ0003E",
+    "start_date_note": "Starting Monday, 7 September 2026",
+    "referral": "Attendees may refer a family member, friend or community member"
+  },
+  "id": "f8618700-0a97-47a5-90a0-4525643b4b15",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3978563844326312519",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc2sryxSEpH/",
+      "post_id": "3978563844326312519",
+      "author_handle": "masjidyusofishak",
+      "author_profile_id": "4304478658",
+      "discovered_via": [
+        "https://www.instagram.com/masjidyusofishak/"
+      ],
+      "published_at": "2026-09-04T06:03:19.000Z",
+      "retrieved_at": "2026-09-22T07:13:46.983Z",
+      "caption": "COMMUNITY HEALTH POST @ MYI\n\nKnowing your vital signs, understanding your medications and making small, healthier lifestyle choices can go a long way in taking better care of yourself.\n\nStarting Monday, 7 September 2026, the Community Health Post @ MYI will be available FREE for our community!\n\nCome by and speak with the healthcare team to:\n🩺 Learn how to monitor your vital signs\n🥗 Get guidance on healthier lifestyle choices\n💬 Receive personalised care & support planning\n🤝 Connect with useful community resources and care services\n💊 Get geriatric assessment & medication review\n\n📅 Every first week of the month (except public holidays)\n⏰ 9.00am – 12.00pm\n📍 Masjid Yusof Ishak\n👥 For ages 18 & above\n💚 FREE\n\nYou can also refer a family member, friend or someone in the community who may benefit from this service.\n\n👉 Register FREE:\nwww.tinyurl.com/myi-communityhealthpost\n\nPlease share this with your family and friends, it might be the little reminder someone needs to start taking better care of their health."
+    }
+  ]
+}

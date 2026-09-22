@@ -729,6 +729,79 @@
       "path": "events/f357bbc3-847b-4cd7-b8ce-daa34832f3c8.json"
     },
     {
+      "id": "f8618700-0a97-47a5-90a0-4525643b4b15",
+      "title": "Community Health Post @ MYI",
+      "description": "Free community health post where the healthcare team helps attendees monitor vital signs, understand medications, receive personalised care and support planning, geriatric assessment and medication review, and guidance on healthier lifestyle choices.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "health",
+        "community"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every first Monday of the month (except public holidays), 9.00am - 12.00pm, starting Monday, 7 September 2026",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "monthly",
+          "weekdays": [
+            "MO"
+          ],
+          "week_ordinals": [
+            1
+          ],
+          "rule_text": "Every first Monday of the month (except public holidays)",
+          "starts_on": "2026-09-07",
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9.00am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "12:00",
+            "literal": "12.00pm"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak, Seminar Room 1, Level 2",
+        "address": "10 Woodlands Drive 17, Singapore 737740",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "Ages 18 and above"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": "https://tinyurl.com/myi-communityhealthpost",
+        "deadline_date": null,
+        "instructions": "Scan the QR code to register for our services or refer someone in need, or visit tinyurl.com/myi-communityhealthpost"
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Free for the community."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Caption says the service runs 'every first week of the month' while the poster says 'Every first Monday of the month'; recurrence encoded per the poster (first Monday).",
+          "Registration requirement not explicitly stated as mandatory; registration link/QR is offered and walk-in eligibility is unstated.",
+          "Excluded public holidays are not enumerated."
+        ]
+      },
+      "path": "events/f8618700-0a97-47a5-90a0-4525643b4b15.json"
+    },
+    {
       "id": "fc681306-7c4f-40ba-9061-9f9261396f37",
       "title": "Kuliah Harian Khamis: Riyadhus Solihin",
       "description": "Kuliah Dhuha setiap Khamis dalam siri Kuliah Harian Masjid Yusof Ishak, hadith membawa kepada kehidupan Muslim.",
