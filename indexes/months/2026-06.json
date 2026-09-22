@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "01030119-ef75-44eb-85e2-b5d4daccc2f3",
+      "title": "Customised Home-Based Learning",
+      "description": "Tailored home-based Islamic learning covering Quran, Fiqh, Tauhid, Akhlak, Sirah and other subjects.",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "Islamic education",
+        "home services"
+      ],
+      "status": "unknown",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Four sessions; one hour per session.",
+        "occurrences": [
+          {
+            "label": "Session 1",
+            "date": "2026-06-01",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "Session 2",
+            "date": "2026-06-01",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "Session 3",
+            "date": "2026-06-01",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          },
+          {
+            "label": "Session 4",
+            "date": "2026-06-01",
+            "end_date": null,
+            "start_time": null,
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Customer home",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Asatizah",
+          "role": "teacher"
+        }
+      ],
+      "languages": [],
+      "audience": [
+        "individuals",
+        "families"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": "Contact 9071 9510 to enquire or book; subject to availability of Asatizah."
+      },
+      "pricing": {
+        "kind": "paid",
+        "prices": [
+          {
+            "amount": 100,
+            "currency": "SGD",
+            "label": "One-hour session"
+          },
+          {
+            "amount": 20,
+            "currency": "SGD",
+            "label": "Registration fee"
+          }
+        ],
+        "notes": "The poster advertises four sessions. Session dates are not provided."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The four-session count is explicit, but no dates are provided; session placeholders are not safely normalizable as dated occurrences."
+        ]
+      },
+      "path": "events/01030119-ef75-44eb-85e2-b5d4daccc2f3.json",
+      "matched_occurrences": [
+        {
+          "label": "Session 1",
+          "date": "2026-06-01",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "Session 2",
+          "date": "2026-06-01",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "Session 3",
+          "date": "2026-06-01",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        },
+        {
+          "label": "Session 4",
+          "date": "2026-06-01",
+          "end_date": null,
+          "start_time": null,
+          "end_time": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Customised Home-Based Learning",
+  "description": "Tailored home-based Islamic learning covering Quran, Fiqh, Tauhid, Akhlak, Sirah and other subjects.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "Islamic education",
+    "home services"
+  ],
+  "status": "unknown",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Four sessions; one hour per session.",
+    "occurrences": [
+      {
+        "label": "Session 1",
+        "date": "2026-06-01",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "Session 2",
+        "date": "2026-06-01",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "Session 3",
+        "date": "2026-06-01",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "Session 4",
+        "date": "2026-06-01",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Customer home",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Asatizah",
+      "role": "teacher"
+    }
+  ],
+  "languages": [],
+  "audience": [
+    "individuals",
+    "families"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": "Contact 9071 9510 to enquire or book; subject to availability of Asatizah."
+  },
+  "pricing": {
+    "kind": "paid",
+    "prices": [
+      {
+        "amount": 100,
+        "currency": "SGD",
+        "label": "One-hour session"
+      },
+      {
+        "amount": 20,
+        "currency": "SGD",
+        "label": "Registration fee"
+      }
+    ],
+    "notes": "The poster advertises four sessions. Session dates are not provided."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3909950353369570569",
+      "locator": "slide:10",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/text",
+        "/location",
+        "/people",
+        "/audience",
+        "/registration",
+        "/pricing"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The four-session count is explicit, but no dates are provided; session placeholders are not safely normalizable as dated occurrences."
+    ]
+  },
+  "notes": "Four sessions are advertised without dates.",
+  "extra_data": {
+    "subjects": [
+      "Quran",
+      "Fiqh",
+      "Tauhid",
+      "Akhlak",
+      "Sirah",
+      "Others"
+    ]
+  },
+  "id": "01030119-ef75-44eb-85e2-b5d4daccc2f3",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3909950353369570569",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DZC7yFuAZ0J",
+      "post_id": "3909950353369570569",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-06-01T14:00:25.000Z",
+      "retrieved_at": "2026-09-22T02:26:28.862Z",
+      "caption": "✨ Religious Services At Masjid An-Nur ✨\n\nMasjid An-Nur is pleased to offer a range of religious services to assist individuals and families in fulfilling their religious needs with confidence and ease at every stage of life.\n\nOur services include:\n\n👶 Newborn Package\n(Tahnik, Tahlik & Aqiqah)\n\n📖 Customised Home-Based Learning (New)\nTailored Islamic learning for individuals and families.\n\n💍 Marriage Advice & Family Counselling\nProfessional guidance for strengthening family relationships.\n\n🤝 Religious Advice\nConsultation with our Asatizah on religious matters.\n\n🏠 Home-Based Tahlil & Doa Selamat\nFor various occasions and milestones.\n\n💰 Zakat / Fidyah / Kaffarah\nAssistance in fulfilling your religious obligations.\n\n📜 Islamic Wealth Consultation\n(Faraidh, Wasiat, Hibah, Nuzriah & CPF Nomination)\n\n🤲 Jenazah Prayer\nFacilities available for funeral prayers by appointment.\n\n📝 iWasiat (Islamic Will)\nPlan your legacy according to Islamic principles.\n\n📞 To enquire or book a service, contact us at 9071 9510.\n\nWe look forward to serving you and your family with care, professionalism and compassion.\n\n#CahayaMenaraBiru #MasjidAnNur"
+    }
+  ]
+}
