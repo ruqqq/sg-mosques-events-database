@@ -879,6 +879,73 @@
       "path": "events/934a3f66-1435-4c69-b009-1c848a2aa0bb.json"
     },
     {
+      "id": "a4c45dcd-91ad-4136-ad0c-974e1496a886",
+      "title": "Kuliah Isyak",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Wednesday; time not specified",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "WE"
+          ],
+          "rule_text": "Setiap Rabu",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "unspecified",
+            "literal": "Time not stated"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz TM Fauwaz TM Fouzy",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Clock time is not provided."
+        ]
+      },
+      "path": "events/a4c45dcd-91ad-4136-ad0c-974e1496a886.json"
+    },
+    {
       "id": "a895395f-569e-482e-b575-68e18678cb29",
       "title": "Thursday Surah Yaseen & Tahlil Recitation",
       "description": "Thursday recitation led by the imam or muazzin of Masjid Sultan.",
