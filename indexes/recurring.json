@@ -1092,6 +1092,80 @@
       "path": "events/5b740f86-d346-429b-9d31-438eb53a9382.json"
     },
     {
+      "id": "5eb3d99e-b3ce-42dc-81f9-36fbcafea986",
+      "title": "Kuliah Harian Selasa: Fiqh Manhaji",
+      "description": "Kuliah Maghrib setiap Selasa dalam siri Kuliah Harian Masjid Yusof Ishak, himpunan hukum-hukum asas fardhu.",
+      "mosque_ids": [
+        "yusof-ishak"
+      ],
+      "categories": [
+        "kuliah",
+        "fiqh"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Selasa, Maghrib",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TU"
+          ],
+          "rule_text": "Selasa, Maghrib",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "maghrib",
+            "relation": "at",
+            "offset_minutes": null,
+            "literal": "Maghrib"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Yusof Ishak",
+        "address": "10 Woodlands Drive 17, Singapore 737741",
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Adnan Bin Ismail",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "umum"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock time is given; the session follows Maghrib and is encoded prayer-relative.",
+          "No start or end date is stated for the weekly series."
+        ]
+      },
+      "path": "events/5eb3d99e-b3ce-42dc-81f9-36fbcafea986.json"
+    },
+    {
       "id": "69329659-b0f0-4302-b193-3efac421dcc8",
       "title": "Kuliah ‘Asr",
       "description": "Tafsir lecture after Solat ‘Asr.",
