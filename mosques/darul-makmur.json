@@ -5,6 +5,7 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://darulmakmur.mimbar.sg/",
+  "musolla_uuid": "ea621d8f-488a-4269-8760-53a88bcd5929",
   "logo": {"path": "assets/logos/darul-makmur.png", "source_url": "https://static.qiromconsulting.com/assets/img/logo-image/121/121_logo_image_121.png"},
   "social_sources": [
     {

@@ -5,6 +5,7 @@
   "country": "SG",
   "timezone": "Asia/Singapore",
   "website": "https://www.mpms.sg/",
+  "musolla_uuid": "e928dcf3-883f-45db-b391-47971f702142",
   "logo": {"path": "assets/logos/petempatan-melayu-sembawang.jpg", "source_url": "https://www.instagram.com/masjidpetempatan/"},
   "social_sources": [
     {
