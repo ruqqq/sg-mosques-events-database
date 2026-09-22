@@ -1,0 +1,107 @@
+{
+  "title": "The Prophet's Guidance: For The Forgiveness Of Past Sins",
+  "description": "Special Rabiulawal 1448H Maghrib lecture delivered by Ustaz Hadi Jamil.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "lecture",
+    "kuliah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 11 September 2026, after Maghrib prayer",
+    "occurrences": [
+      {
+        "date": "2026-09-11",
+        "end_date": null,
+        "start_time": {
+          "kind": "prayer_relative",
+          "prayer": "maghrib",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Maghrib prayer"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Al-Firdaus Mosque",
+    "address": "11 Jalan Ibadat, Singapore 698995",
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Hadi Jamil",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3980647853840321797",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/mosque_ids",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3980647853840321797",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/mosque_ids",
+        "/people",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "theme": "Rabiulawal 1448H"
+  },
+  "id": "ffc2c02d-68e0-408f-83ca-b8e640cdd2c3",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3980647853840321797",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc-GiH4Es0F",
+      "post_id": "3980647853840321797",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [],
+      "published_at": "2026-09-07T03:03:44.000Z",
+      "retrieved_at": "2026-09-22T02:26:21.831Z",
+      "caption": "Assalamualaikum wr wb,\n\nJoin us this Friday at Al-Firdaus for a special Rabiulawal 1448H Maghrib kuliah, “The Prophet's Guidance: For The Forgiveness Of Past Sins”, delivered by Ustaz Hadi Jamil.\n\nThe kuliah will be conducted in Malay and English.\n\nSee you at Al-Firdaus, inshāAllāh.\n\n🕌\n\nContribute to Masjid Al-Firdaus:\n\n1. PayNow UEN: S62MQ0011J\n2. OCBC Wadiah Account: 517-147690-001\n\nMay Allah s.w.t reward your efforts abundantly. Āmīn.\n\n#Kuliah\n#Rabiulawal1448H\n#MasjidAlFirdaus \n#AlFirdausMosque \n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}
