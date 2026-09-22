@@ -1,0 +1,105 @@
+{
+  "title": "Menjadi Insan Kebanggaan Nabi Muhammad s.a.w.",
+  "description": "Khutbah Jumaat in Malay about becoming an individual whom Prophet Muhammad s.a.w. is proud of.",
+  "mosque_ids": [
+    "al-firdaus"
+  ],
+  "categories": [
+    "khutbah",
+    "jumuah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Friday, 28 August 2026",
+    "occurrences": [
+      {
+        "label": "Khutbah Jumaat",
+        "date": "2026-08-28",
+        "end_date": null,
+        "start_time": null,
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Al-Firdaus",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhd Firdaus Bin Abd Malik",
+      "role": "speaker"
+    },
+    {
+      "name": "Hj Hamzah Bin Siskandar",
+      "role": "leader"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "not_required",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3972826955884190074",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/description",
+        "/mosque_ids",
+        "/categories",
+        "/schedule",
+        "/location/name",
+        "/people",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster shows Zuhur 01:07, but it is unclear whether this is an event start time or a prayer/azan time; it is therefore not used as the khutbah start time.",
+      "The address is not normalized from the poster."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "zuhur_time": "01:07",
+    "sermon_language": "Malay",
+    "bilal": "Hj Hamzah Bin Siskandar"
+  },
+  "id": "d58d708b-c88b-4143-9fd5-d975350a5c28",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3972826955884190074",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DciURFDktl6/",
+      "post_id": "3972826955884190074",
+      "author_handle": "alfirdausmosquesg",
+      "author_profile_id": "21287478549",
+      "discovered_via": [
+        "https://www.instagram.com/alfirdausmosquesg/"
+      ],
+      "published_at": "2026-08-27T08:05:00.000Z",
+      "retrieved_at": "2026-09-22T02:30:35.736Z",
+      "caption": "Assalamualaikum wr wb,\n\nSermon in Malay | Khutbah dalam Bahasa Melayu\n\n* Becoming an individual whom Prophet Muhammad s.a.w. is proud of\n* Menjadi insan kebanggaan Nabi Muhammad s.a.w.\n\n🕌\n\nContribute to Masjid Al-Firdaus:\n\n1. PayNow UEN: S62MQ0011J\n2. OCBC Wadiah Account: 517-147690-001\n\nMay Allah s.w.t reward your efforts abundantly. Āmīn\n\n#Jumuah \n#MasjidAlFirdaus \n#AlFirdausMosque \n#MovingTowardsJannatulFirdaus"
+    }
+  ]
+}
