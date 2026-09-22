@@ -585,6 +585,72 @@
       "path": "events/1f2e3ac4-6c0d-4306-aca5-105c4f010170.json"
     },
     {
+      "id": "23767050-8f88-40c6-8262-7121e7ad8bfa",
+      "title": "Kuliah Al-Hikam",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Khamis, 9.00 malam, Aras 4 Bilik 12-13, Lift 2 Lobby",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TH"
+          ],
+          "rule_text": "Hari Khamis — 9.00 malam",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "21:00",
+            "literal": "9.00 malam"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Aras 4, Bilik 12-13, Lift 2 Lobby, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Jamaluddin Abdul Wahab",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": "Untuk mendaftar, sila hubungi Pejabat Masjid di 6786 5545."
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/23767050-8f88-40c6-8262-7121e7ad8bfa.json"
+    },
+    {
       "id": "27467f05-45b6-480e-8bf5-30dcfe6232ba",
       "title": "Senaman Syifa’ Yoga",
       "description": "Exercise and yoga class with Coach Riza Saidi for Muslimah.",
