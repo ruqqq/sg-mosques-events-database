@@ -1,0 +1,95 @@
+{
+  "title": "The Chosen Light",
+  "description": "English programme.",
+  "mosque_ids": [
+    "sultan"
+  ],
+  "categories": [
+    "lecture"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 12 September 2026, 7:30 PM–10:30 PM",
+    "occurrences": [
+      {
+        "date": "2026-09-12",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "22:30",
+          "literal": "10:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Auditorium, Level 2, Annexe Building",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3977865210212103749",
+      "locator": "slide:3",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/schedule",
+        "/location",
+        "/languages"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The poster states sold out; admission price and registration details are not stated."
+    ]
+  },
+  "notes": "Sold out as advertised.",
+  "extra_data": {
+    "availability_note": "SOLD OUT"
+  },
+  "id": "b0264b5f-8c8e-4a95-b8a2-0033b72df151",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3977865210212103749",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc0N1VDE7ZF",
+      "post_id": "3977865210212103749",
+      "author_handle": "masjidsultan",
+      "author_profile_id": "1593948450",
+      "discovered_via": [],
+      "published_at": "2026-09-03T06:55:07.000Z",
+      "retrieved_at": "2026-09-22T02:35:50.646Z",
+      "caption": "A new month, a new opportunity to learn, grow and connect✨\n\nSave the dates and plan your September with us! Swipe through to explore our programmes and mark your calender 📅 We look forward to welcoming you at Masjid Sultan 🕌 \n\n#MasjidSultanSG #MenaraSultanSG"
+    }
+  ]
+}

@@ -1918,6 +1918,85 @@
       ]
     },
     {
+      "id": "b0264b5f-8c8e-4a95-b8a2-0033b72df151",
+      "title": "The Chosen Light",
+      "description": "English programme.",
+      "mosque_ids": [
+        "sultan"
+      ],
+      "categories": [
+        "lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 12 September 2026, 7:30 PM–10:30 PM",
+        "occurrences": [
+          {
+            "date": "2026-09-12",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "22:30",
+              "literal": "10:30 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Auditorium, Level 2, Annexe Building",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The poster states sold out; admission price and registration details are not stated."
+        ]
+      },
+      "path": "events/b0264b5f-8c8e-4a95-b8a2-0033b72df151.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-12",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "22:30",
+            "literal": "10:30 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "ee187119-a5df-46e6-bae1-fb257da6bd09",
       "title": "Majlis Maulidurrasul",
       "description": "Majlis featuring maulid, azan, a religious lecture and qasidah.",
