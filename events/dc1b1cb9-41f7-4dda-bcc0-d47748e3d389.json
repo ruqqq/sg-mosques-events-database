@@ -1,0 +1,142 @@
+{
+  "title": "Free Online Legal Clinic",
+  "description": "Pro bono online legal consultation service offering initial legal guidance to the public, with Mr Abdul Rahman Bin Mohd Hanipah from Abdul Rahman Law Corporation.",
+  "mosque_ids": [
+    "darul-makmur"
+  ],
+  "categories": [
+    "legal clinic",
+    "community service"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Monday – Friday | 10am – 4pm, subject to available slots",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "rule_text": "Monday – Friday | 10am – 4pm",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "10:00",
+        "literal": "10am"
+      },
+      "end_time": {
+        "kind": "clock",
+        "local_time": "16:00",
+        "literal": "4pm"
+      },
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "online",
+    "name": null,
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Mr Abdul Rahman Bin Mohd Hanipah",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "public"
+  ],
+  "registration": {
+    "requirement": "required",
+    "url": "https://l.ead.me/LegalClinic26",
+    "deadline_date": null,
+    "instructions": "Registration required via l.ead.me/LegalClinic26; consultations are subject to available slots."
+  },
+  "pricing": {
+    "kind": "free",
+    "prices": [],
+    "notes": "Stated as FREE; pro bono service."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3986558856263080649",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/recurrence",
+        "/schedule/text",
+        "/registration",
+        "/pricing",
+        "/people",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3986558856263080649",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/location",
+        "/people",
+        "/pricing",
+        "/registration/url"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "No start or end date is stated for the recurring clinic; starts_on/ends_on left null.",
+      "The online consultation platform/meeting URL is not given; only the registration link is provided.",
+      "Whether the clinic runs during public holidays or is currently active is not stated."
+    ]
+  },
+  "notes": "Free pro bono online legal clinic advertised by Darul Makmur Mosque; consultations by appointment subject to available slots, weekdays only.",
+  "extra_data": {
+    "service_type": "pro bono legal consultation",
+    "practitioner_firm": "Abdul Rahman Law Corporation",
+    "practitioner_specialisms": [
+      "Family and Syariah Law"
+    ],
+    "practitioner_credentials": [
+      "ANUS LLB (Hons)",
+      "SMC Accredited Mediator"
+    ],
+    "availability_note": "Subject to available slots"
+  },
+  "id": "dc1b1cb9-41f7-4dda-bcc0-d47748e3d389",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3986558856263080649",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdTGih3v5rJ",
+      "post_id": "3986558856263080649",
+      "author_handle": "darulmakmur.mosque",
+      "author_profile_id": "11144095878",
+      "discovered_via": [],
+      "published_at": "2026-09-15T06:48:07.000Z",
+      "retrieved_at": "2026-09-22T07:03:04.741Z",
+      "caption": "“I have a legal issue… but I’m not sure what to do next.”\n\nLegal matters can be confusing, especially when you’re unsure of your rights, options or the next steps to take.\n\nGet initial legal guidance through our Free Online Legal Clinic, a pro bono legal consultation with Mr Abdul Rahman Bin Mohd Hanipah from Abdul Rahman Law Corporation.\n\n⚖️ FREE ONLINE LEGAL CLINIC\n💻 Online Consultation\n🗓 Monday – Friday | 10am – 4pm\nSubject to available slots\n💰 FREE | Registration Required >>\nl.ead.me/LegalClinic26\n\nUnderstand your options. Know your next step.\n\n#LegalClinic #TogetherMakmur",
+      "links": [
+        {
+          "url": "https://l.ead.me/nhghealthscreening",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

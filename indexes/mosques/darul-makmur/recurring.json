@@ -1,4 +1,86 @@
 {
   "schema_version": "1.0",
-  "events": []
+  "events": [
+    {
+      "id": "dc1b1cb9-41f7-4dda-bcc0-d47748e3d389",
+      "title": "Free Online Legal Clinic",
+      "description": "Pro bono online legal consultation service offering initial legal guidance to the public, with Mr Abdul Rahman Bin Mohd Hanipah from Abdul Rahman Law Corporation.",
+      "mosque_ids": [
+        "darul-makmur"
+      ],
+      "categories": [
+        "legal clinic",
+        "community service"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Monday – Friday | 10am – 4pm, subject to available slots",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "MO",
+            "TU",
+            "WE",
+            "TH",
+            "FR"
+          ],
+          "rule_text": "Monday – Friday | 10am – 4pm",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10am"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:00",
+            "literal": "4pm"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "online",
+        "name": null,
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Mr Abdul Rahman Bin Mohd Hanipah",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "public"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://l.ead.me/LegalClinic26",
+        "deadline_date": null,
+        "instructions": "Registration required via l.ead.me/LegalClinic26; consultations are subject to available slots."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Stated as FREE; pro bono service."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No start or end date is stated for the recurring clinic; starts_on/ends_on left null.",
+          "The online consultation platform/meeting URL is not given; only the registration link is provided.",
+          "Whether the clinic runs during public holidays or is currently active is not stated."
+        ]
+      },
+      "path": "events/dc1b1cb9-41f7-4dda-bcc0-d47748e3d389.json"
+    }
+  ]
 }
