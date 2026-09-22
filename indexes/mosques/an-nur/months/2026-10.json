@@ -2,6 +2,86 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "47dca4cc-8cad-4bfa-acf6-aba18a5b1908",
+      "title": "MindFest 2026",
+      "description": "A family and community event focused on mental well-being, with conversations, family activities and opportunities to connect.",
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "family",
+        "mental health",
+        "community"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 17 October 2026, 9 AM–1 PM",
+        "occurrences": [
+          {
+            "date": "2026-10-17",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "09:00",
+              "literal": "9 AM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "13:00",
+              "literal": "1 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": "6 Admiralty Road, Singapore 739983",
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "families",
+        "community members"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": []
+      },
+      "path": "events/47dca4cc-8cad-4bfa-acf6-aba18a5b1908.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-17",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9 AM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "13:00",
+            "literal": "1 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "45cdc74a-517b-44fb-8cf1-f72a0045ccc6",
       "title": "Mengejar Syafaat Nabi SAW",
       "description": "Kelas Asas Agama about the meaning of syafaat, love for Rasulullah through faith, sunnah and obedience, and practices that open the way to syafaat.",

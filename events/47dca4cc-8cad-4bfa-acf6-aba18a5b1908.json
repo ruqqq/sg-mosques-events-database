@@ -1,0 +1,118 @@
+{
+  "title": "MindFest 2026",
+  "description": "A family and community event focused on mental well-being, with conversations, family activities and opportunities to connect.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "family",
+    "mental health",
+    "community"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 17 October 2026, 9 AM–1 PM",
+    "occurrences": [
+      {
+        "date": "2026-10-17",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "09:00",
+          "literal": "9 AM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "13:00",
+          "literal": "1 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nur",
+    "address": "6 Admiralty Road, Singapore 739983",
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "families",
+    "community members"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3987317330364843506",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location/name",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3987317330364843506",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location/name",
+        "/location/address",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": []
+  },
+  "notes": null,
+  "extra_data": {
+    "event_alias": "Hari Usrah Saeedah MindFest 2026",
+    "theme": "Together for Healthy Minds & Happy Families",
+    "program_highlights": [
+      "Family Forum",
+      "Family Fun Activities",
+      "Parenting Conversation",
+      "Youth Identity Workshop",
+      "Community Partners Booth",
+      "Fun With Dad!",
+      "Performance",
+      "F&B & Retail Booth",
+      "Kids Workshop"
+    ]
+  },
+  "id": "47dca4cc-8cad-4bfa-acf6-aba18a5b1908",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3987317330364843506",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdVy_x7J8Xy",
+      "post_id": "3987317330364843506",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [],
+      "published_at": "2026-09-16T07:55:32.000Z",
+      "retrieved_at": "2026-09-22T02:25:52.766Z",
+      "caption": "𝗛𝗮𝗿𝗶 𝗨𝘀𝗿𝗮𝗵 𝗦𝗮𝗲𝗲𝗱𝗮𝗵 𝗶𝘀 𝗕𝗔𝗖𝗞!\n\nThis year, we're putting mental well-being at the heart of our Family Day, bringing families and the community together to learn, connect and have fun while creating a space where everyone feels supported and cared for.\n\nIn conjunction with 𝗠𝗲𝗻𝘁𝗮𝗹 𝗛𝗲𝗮𝗹𝘁𝗵 𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀 𝗠𝗼𝗻𝘁𝗵 this October, join us for 𝗠𝗶𝗻𝗱𝗙𝗲𝘀𝘁 𝟮𝟬𝟮𝟲, a morning filled with meaningful conversations, family activities and plenty of opportunities to connect with one another.\n\n📅 Saturday, 17 October 2026\n🕘 9 AM – 1 PM\n📍 Masjid An-Nur\n\nBring your family, invite your friends and come spend the morning with us! 💚\n\n𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝗳𝗼𝗿 𝗛𝗲𝗮𝗹𝘁𝗵𝘆 𝗠𝗶𝗻𝗱𝘀 & 𝗛𝗮𝗽𝗽𝘆 𝗙𝗮𝗺𝗶𝗹𝗶𝗲𝘀.\n\nSave the date. All are welcome!\n\n#CahayaMenaraBiru\n#MasjidDihatiku\n#HariUsrahSaeedah\n#salamsg\n#HealthyMindsHappyFamilies"
+    }
+  ]
+}
