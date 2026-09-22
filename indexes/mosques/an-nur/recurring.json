@@ -2,6 +2,78 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "05a52a53-53c0-4fbe-b34e-27dc49bf617d",
+      "title": "Kuliah Dhuha (Friday 8.30am–9.30am)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Friday at 8.30am–9.30am",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "FR"
+          ],
+          "rule_text": "Setiap Jumaat",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "08:30",
+            "literal": "8.30pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "09:30",
+            "literal": "9.30pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Qamarul Ariffin Kamarazaman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/05a52a53-53c0-4fbe-b34e-27dc49bf617d.json"
+    },
+    {
       "id": "2a3d97aa-344b-49ed-b012-c6b93061aaee",
       "title": "Kuliah Subuh",
       "description": null,
