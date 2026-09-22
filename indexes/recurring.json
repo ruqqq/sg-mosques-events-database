@@ -484,6 +484,78 @@
       "path": "events/54434e38-dc3f-46ef-ad5c-2f1894cd62c1.json"
     },
     {
+      "id": "5b740f86-d346-429b-9d31-438eb53a9382",
+      "title": "Kuliah Dhuha (Saturday 9.00am–10.00am)",
+      "description": null,
+      "mosque_ids": [
+        "an-nur"
+      ],
+      "categories": [
+        "religious lecture"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Every Saturday at 9.00am–10.00am",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "SA"
+          ],
+          "rule_text": "Setiap Sabtu",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "09:00",
+            "literal": "9.00pg"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "10:00",
+            "literal": "10.00pg"
+          },
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid An-Nur",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Dr Rizhan Leman",
+          "role": "teacher"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "not_required",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No calendar dates or year-specific start date are provided."
+        ]
+      },
+      "path": "events/5b740f86-d346-429b-9d31-438eb53a9382.json"
+    },
+    {
       "id": "69329659-b0f0-4302-b193-3efac421dcc8",
       "title": "Kuliah ‘Asr",
       "description": "Tafsir lecture after Solat ‘Asr.",
