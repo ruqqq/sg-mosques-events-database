@@ -2,6 +2,89 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "fdee8362-fb56-4cb9-b846-c2ae3c5efdf2",
+      "title": "Monthly Qutbiyyah Majlis",
+      "description": "Monthly Qutbiyyah Majlis with remembrance, tahlil, and prayers for departed loved ones.",
+      "mosque_ids": [
+        "assyafaah"
+      ],
+      "categories": [
+        "religious gathering",
+        "zikr",
+        "tahlil"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Sunday, 23 August 2026, 9:00 PM–10:30 PM",
+        "occurrences": [
+          {
+            "label": "Monthly Qutbiyyah Majlis",
+            "date": "2026-08-23",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "21:00",
+              "literal": "9:00 PM"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "22:30",
+              "literal": "10:30 PM"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Main Prayer Hall, Masjid Assyafaah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [],
+      "languages": [],
+      "audience": [
+        "jemaah"
+      ],
+      "registration": {
+        "requirement": "optional",
+        "url": "http://tinyurl.com/ZikirMajlis",
+        "deadline_date": null,
+        "instructions": "Register or contribute using the provided link."
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": "Donations and sponsorships are invited for inclusion of loved ones' names in the tahlil; no admission charge is stated."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "The mosque address is not stated."
+        ]
+      },
+      "path": "events/fdee8362-fb56-4cb9-b846-c2ae3c5efdf2.json",
+      "matched_occurrences": [
+        {
+          "label": "Monthly Qutbiyyah Majlis",
+          "date": "2026-08-23",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "21:00",
+            "literal": "9:00 PM"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "22:30",
+            "literal": "10:30 PM"
+          }
+        }
+      ]
+    },
+    {
       "id": "4bc6669b-ee75-429b-9a40-4a928e90fe55",
       "title": "Solat Jumaat",
       "description": "Friday prayers with two sessions.",

@@ -1,0 +1,117 @@
+{
+  "title": "Monthly Qutbiyyah Majlis",
+  "description": "Monthly Qutbiyyah Majlis with remembrance, tahlil, and prayers for departed loved ones.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "religious gathering",
+    "zikr",
+    "tahlil"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Sunday, 23 August 2026, 9:00 PM–10:30 PM",
+    "occurrences": [
+      {
+        "label": "Monthly Qutbiyyah Majlis",
+        "date": "2026-08-23",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "21:00",
+          "literal": "9:00 PM"
+        },
+        "end_time": {
+          "kind": "clock",
+          "local_time": "22:30",
+          "literal": "10:30 PM"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Main Prayer Hall, Masjid Assyafaah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [],
+  "audience": [
+    "jemaah"
+  ],
+  "registration": {
+    "requirement": "optional",
+    "url": "http://tinyurl.com/ZikirMajlis",
+    "deadline_date": null,
+    "instructions": "Register or contribute using the provided link."
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": "Donations and sponsorships are invited for inclusion of loved ones' names in the tahlil; no admission charge is stated."
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3967649374402376252",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location",
+        "/audience",
+        "/registration",
+        "/pricing"
+      ]
+    },
+    {
+      "source_id": "instagram:3967649374402376252",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "The mosque address is not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "sponsorship": "Maximum 2 sponsorship slots per session."
+  },
+  "id": "fdee8362-fb56-4cb9-b846-c2ae3c5efdf2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3967649374402376252",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcP7BWijfI8/",
+      "post_id": "3967649374402376252",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [
+        "https://www.instagram.com/assyafaahmosque/"
+      ],
+      "published_at": "2026-08-20T04:38:05.000Z",
+      "retrieved_at": "2026-09-22T02:38:10.286Z",
+      "caption": "🌙✨ Monthly Qutbiyyah Majlis ✨🌙\n\nAssalamualaikum wr wb, our beloved jemaah! 💙🕌\n\nJoin us for our Monthly Qutbiyyah Majlis on Sunday, 23rd August 2026 at 9:00 PM in the Main Prayer Hall of Masjid Assyafaah. Let’s gather in remembrance, seeking blessings and praying for our loved ones who have returned to Allah.\n\n🤲 You may contribute sincere donations to include the names of your loved ones in the tahlil. We also welcome sponsorships, with a maximum of 2 slots per session.\n\n📌 Event Details:\n📅 Date: Sunday, 23rd August 2026\n⏰ Time: 9:00 PM – 10:30 PM\n📍 Venue: Masjid Assyafaah, Main Prayer Hall\n\n🔗 Register or contribute here: http://tinyurl.com/ZikirMajlis\n\nMay Allah accept our prayers and grant mercy to our departed loved ones. Ameen. See you there, in shaa Allah!",
+      "links": [
+        {
+          "url": "http://tinyurl.com/ZikirMajlis",
+          "via": "caption",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
