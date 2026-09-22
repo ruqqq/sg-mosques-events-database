@@ -2,6 +2,120 @@
   "schema_version": "1.0",
   "events": [
     {
+      "id": "f451d787-ed18-48e1-8d20-6d582107fae5",
+      "title": "Teh & Slay Day",
+      "description": "Summit of Al-Falah Mosque's Teh & Slay series: a full-day programme beginning with Quranic recitation and an opening address, followed by three breakout sessions, exhibition and activity booths, a main panel discussion, and a closing Maulid recitation with a short tazkirah. 132 attendees.",
+      "mosque_ids": [
+        "al-falah"
+      ],
+      "categories": [
+        "community",
+        "education",
+        "religious"
+      ],
+      "status": "completed",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Full-day programme on 5 September 2026 (stated as 'Earlier today' in the post published 5 September 2026); day ran through to a close after Zuhr.",
+        "occurrences": [
+          {
+            "date": "2026-09-05",
+            "end_date": null,
+            "start_time": null,
+            "end_time": {
+              "kind": "prayer_relative",
+              "prayer": "zuhr",
+              "relation": "after",
+              "offset_minutes": null,
+              "literal": "After Zuhr"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Al-Falah Mosque",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Fizar Zainal",
+          "role": "speaker"
+        },
+        {
+          "name": "Jasmine Tay",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Nur Hidayah Azman",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustazah Zahraturrofiqah",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Nuzulul Qadar",
+          "role": "speaker"
+        },
+        {
+          "name": "Hafizah Ghazali",
+          "role": "speaker"
+        },
+        {
+          "name": "Prof Khairudin Aljunied",
+          "role": "speaker"
+        },
+        {
+          "name": "Ustaz Khairi Nazron",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "No clock times are given; only the close is anchored to a prayer-relative time ('After Zuhr').",
+          "Exact venue address within the mosque is not stated.",
+          "Admission/pricing is not stated (food and beverage vendors were present).",
+          "Language(s) of delivery are not stated; the caption is in English.",
+          "The breakout sessions, panel and Maulid recitation are treated as segments of the single Teh & Slay Day programme, not separate events."
+        ]
+      },
+      "path": "events/f451d787-ed18-48e1-8d20-6d582107fae5.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-09-05",
+          "end_date": null,
+          "start_time": null,
+          "end_time": {
+            "kind": "prayer_relative",
+            "prayer": "zuhr",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "After Zuhr"
+          }
+        }
+      ]
+    },
+    {
       "id": "9af56bc2-3cb6-4151-9b22-1f9feff408e2",
       "title": "Turning The Tides: Reawakening the Woman's Heart & Soul (Season 3)",
       "description": "Sisters-only guided reflection series (Thuma'ninah Circle for Sisters) exploring the stages of a woman's life through the light of the Qur'an and Sunnah, based on the book 'Turning The Tide: Reawakening the Woman's Heart and Soul' by Suma Din.",

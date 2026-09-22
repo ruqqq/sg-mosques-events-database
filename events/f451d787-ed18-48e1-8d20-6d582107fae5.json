@@ -1,0 +1,214 @@
+{
+  "title": "Teh & Slay Day",
+  "description": "Summit of Al-Falah Mosque's Teh & Slay series: a full-day programme beginning with Quranic recitation and an opening address, followed by three breakout sessions, exhibition and activity booths, a main panel discussion, and a closing Maulid recitation with a short tazkirah. 132 attendees.",
+  "mosque_ids": [
+    "al-falah"
+  ],
+  "categories": [
+    "community",
+    "education",
+    "religious"
+  ],
+  "status": "completed",
+  "status_evidence": [
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "caption",
+      "quote": "Earlier today, for the first time, Al-Falah Mosque held the summit of our Teh & Slay series: Teh & Slay Day."
+    },
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "caption",
+      "quote": "After Zuhr, we concluded with a Maulid recitation followed by a short tazkirah by Ustaz Khairi Nazron"
+    }
+  ],
+  "schedule": {
+    "kind": "one_off",
+    "timezone": "Asia/Singapore",
+    "text": "Full-day programme on 5 September 2026 (stated as 'Earlier today' in the post published 5 September 2026); day ran through to a close after Zuhr.",
+    "occurrences": [
+      {
+        "date": "2026-09-05",
+        "end_date": null,
+        "start_time": null,
+        "end_time": {
+          "kind": "prayer_relative",
+          "prayer": "zuhr",
+          "relation": "after",
+          "offset_minutes": null,
+          "literal": "After Zuhr"
+        }
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Al-Falah Mosque",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Fizar Zainal",
+      "role": "speaker"
+    },
+    {
+      "name": "Jasmine Tay",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Nur Hidayah Azman",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustazah Zahraturrofiqah",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Nuzulul Qadar",
+      "role": "speaker"
+    },
+    {
+      "name": "Hafizah Ghazali",
+      "role": "speaker"
+    },
+    {
+      "name": "Prof Khairudin Aljunied",
+      "role": "speaker"
+    },
+    {
+      "name": "Ustaz Khairi Nazron",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "audience": [],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/status",
+        "/status_evidence",
+        "/schedule",
+        "/location",
+        "/people",
+        "/extra_data"
+      ],
+      "note": "Recap caption naming the event, the mosque, the programme segments, speakers, vendors and attendance, and stating the day had already taken place."
+    },
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "slide:9",
+      "supports": [
+        "/extra_data/breakout_sessions"
+      ],
+      "note": "Photograph of a small-group breakout session with two seated speakers and audience."
+    },
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "slide:11",
+      "supports": [
+        "/extra_data/closing"
+      ],
+      "note": "Photograph of the Maulid recitation with the salawat text projected and reciters seated."
+    },
+    {
+      "source_id": "instagram:3979564294769432541",
+      "locator": "slide:15",
+      "supports": [
+        "/extra_data/vendors"
+      ],
+      "note": "Photograph of the live coffee station."
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "No clock times are given; only the close is anchored to a prayer-relative time ('After Zuhr').",
+      "Exact venue address within the mosque is not stated.",
+      "Admission/pricing is not stated (food and beverage vendors were present).",
+      "Language(s) of delivery are not stated; the caption is in English.",
+      "The breakout sessions, panel and Maulid recitation are treated as segments of the single Teh & Slay Day programme, not separate events."
+    ]
+  },
+  "notes": "One-off summit of the Teh & Slay series held at Al-Falah Mosque; the post is a post-event recap, so status is completed. A future Teh & Slay session is mentioned without a date and is not schedulable.",
+  "extra_data": {
+    "series": "Teh & Slay",
+    "attendance_count": 132,
+    "breakout_sessions": [
+      {
+        "title": "Chosen for This Life",
+        "speakers": [
+          "Ustaz Fizar Zainal",
+          "Jasmine Tay"
+        ]
+      },
+      {
+        "title": "Beyond the Page",
+        "speakers": [
+          "Ustazah Nur Hidayah Azman",
+          "Ustazah Zahraturrofiqah"
+        ]
+      },
+      {
+        "title": "What Do You Have To Give",
+        "speakers": [
+          "Ustaz Nuzulul Qadar",
+          "Hafizah Ghazali"
+        ]
+      }
+    ],
+    "main_panel": {
+      "topic": "The Ummah We Choose To Be: Becoming The Best Generation",
+      "speakers": [
+        "Ustaz Nuzulul Qadar",
+        "Prof Khairudin Aljunied"
+      ]
+    },
+    "closing": "Maulid recitation followed by a short tazkirah by Ustaz Khairi Nazron, after Zuhr",
+    "booths": [
+      "Illustration booth",
+      "Arabic calligraphy booth",
+      "Mini exhibition write-ups on the life of the Prophet"
+    ],
+    "vendors": [
+      "Ground Floor Coffee",
+      "Chulop"
+    ]
+  },
+  "id": "f451d787-ed18-48e1-8d20-6d582107fae5",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3979564294769432541",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Dc6QKQ2j1fd/",
+      "post_id": "3979564294769432541",
+      "author_handle": "alfalah.sg",
+      "author_profile_id": "3253152311",
+      "discovered_via": [
+        "https://www.instagram.com/alfalah.sg/"
+      ],
+      "published_at": "2026-09-05T15:10:54.000Z",
+      "retrieved_at": "2026-09-22T07:58:09.031Z",
+      "caption": "Earlier today, for the first time, Al-Falah Mosque held the summit of our Teh & Slay series: Teh & Slay Day. ✨\n\nThe event began with a Quranic recitation and opening address which then unfolded into a day of learning, reflection, connection and community based on the Vision of the Prophet Muhammad Peace Be Upon Him. The event brought together 132 attendees in one shared space.\n\nThroughout the day, our three breakout sessions offered different avenues for reflection and conversation relating to the Prophet ﷺ. The breakouts were Chosen for This Life with Ustaz Fizar Zainal and Jasmine Tay, Beyond the Page with Ustazah Nur Hidayah Azman and Ustazah Zahraturrofiqah, and What Do You Have To Give with Ustaz Nuzulul Qadar and Hafizah Ghazali.\n\nBeyond the sessions, there were plenty of spaces to pause, explore and connect; from the live coffee station by Ground Floor Coffee and churros by Chulop, to the illustration and Arabic Calligraphy booths, as well as mini exhibition write-ups sharing reflections on the life of the Prophet ﷺ.\n\nTeh & Slay Day culminated with our main panel discussion, bringing the conversations and perspectives from across the day into one powerful closing. The speakers, Ustaz Nuzulul Qadar and Prof Khairudin Aljunied inspired the audience to become the best Ummah, and honour this title, and carrying the Prophetic Legacy through the topic of the forum The Ummah We Choose To Be: Becoming The Best Generation. \n\nAfter Zuhr, we concluded with a Maulid recitation followed by a short tazkirah by Ustaz Khairi Nazron; a fitting close to a day centred around remembrance, learning and togetherness.\n\nTo everyone who attended, spoke, contributed, supported and helped bring Teh & Slay Day to lift: Thank you. 🤍\n\nWe hope the conversations continue, the reflections stay with you, and the connections made extend beyond the day itself.\n\nUntil we meet again in our next Teh & Slay session, inshaAllah. ❤️"
+    }
+  ]
+}
