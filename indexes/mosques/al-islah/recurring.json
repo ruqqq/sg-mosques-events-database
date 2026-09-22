@@ -73,6 +73,72 @@
         ]
       },
       "path": "events/0141399f-eeae-476a-8cbc-5db81ca43a7e.json"
+    },
+    {
+      "id": "6eb46674-805c-4ec6-970e-83827a243bb2",
+      "title": "Program Kesihatan (Steadylah oleh HPB)",
+      "description": "Weekly Thursday health programme organised with HPB (Steadylah) for Muslimah aged 50 and above, presented under the Santunan Emas programme at Masjid Al-Islah.",
+      "mosque_ids": [
+        "al-islah"
+      ],
+      "categories": [
+        "health"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Setiap Hari Khamis, 10.45 pagi",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "weekly",
+          "weekdays": [
+            "TH"
+          ],
+          "rule_text": "SETIAP HARI KHAMIS - 10.45 pagi Program Kesihatan (Steadylah oleh HPB)",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "10:45",
+            "literal": "10.45 pagi"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Auditorium Aras 3, Masjid Al-Islah",
+        "address": null,
+        "online_url": null
+      },
+      "languages": [
+        "ms"
+      ],
+      "audience": [
+        "Muslimah berumur 50 tahun ke atas"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "End date of the weekly series is not stated.",
+          "Registration requirement and any fee are not stated.",
+          "Session end time is not given."
+        ]
+      },
+      "path": "events/6eb46674-805c-4ec6-970e-83827a243bb2.json"
     }
   ]
 }

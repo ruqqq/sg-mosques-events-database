@@ -1,0 +1,119 @@
+{
+  "title": "Program Kesihatan (Steadylah oleh HPB)",
+  "description": "Weekly Thursday health programme organised with HPB (Steadylah) for Muslimah aged 50 and above, presented under the Santunan Emas programme at Masjid Al-Islah.",
+  "mosque_ids": [
+    "al-islah"
+  ],
+  "categories": [
+    "health"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Setiap Hari Khamis, 10.45 pagi",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "TH"
+      ],
+      "rule_text": "SETIAP HARI KHAMIS - 10.45 pagi Program Kesihatan (Steadylah oleh HPB)",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "clock",
+        "local_time": "10:45",
+        "literal": "10.45 pagi"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Auditorium Aras 3, Masjid Al-Islah",
+    "address": null,
+    "online_url": null
+  },
+  "languages": [
+    "ms"
+  ],
+  "audience": [
+    "Muslimah berumur 50 tahun ke atas"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3982792636389882038",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule/text",
+        "/schedule/recurrence",
+        "/location/name",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3982792636389882038",
+      "locator": "caption",
+      "supports": [
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "End date of the weekly series is not stated.",
+      "Registration requirement and any fee are not stated.",
+      "Session end time is not given."
+    ]
+  },
+  "notes": "Participants invited are Muslimah aged 50 and above; programme delivered with HPB's Steadylah initiative.",
+  "extra_data": {
+    "programme": "Santunan Emas",
+    "organiser": "Health Promotion Board (HPB) - Steadylah"
+  },
+  "id": "6eb46674-805c-4ec6-970e-83827a243bb2",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3982792636389882038",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdFuM0SD3i2/",
+      "post_id": "3982792636389882038",
+      "author_handle": "alislahmosque",
+      "author_profile_id": "2775158754",
+      "discovered_via": [
+        "https://www.instagram.com/alislahmosque/"
+      ],
+      "published_at": "2026-09-10T02:05:02.000Z",
+      "retrieved_at": "2026-09-22T07:02:30.742Z",
+      "caption": "✨ SANTUNAN EMAS MASJID AL-ISLAH ✨\n\nAyuh luangkan pagi dengan ilmu, kesihatan dan kebersamaan! \n\nSETIAP HARI KHAMIS\n\n🕤 9.30 pagi \nKuliah Dhuha Muslimah bersama Ustazah Dr Rohana Ithnin \n📖 Buku rujukan: “Formula Solat Sempurna”\n\n🕥 10.45 pagi \nProgram Kesihatan (Steadylah oleh HPB)\nMuslimah berumur 50 tahun ke atas dijemput hadir.\n\n📍 Auditorium Aras 3, Masjid Al-Islah\n\nTurut disediakan khidmat kesihatan dan sosial:\n\n🏥 Community Health Post oleh SKH\nKhamis, 1.00–4.00 petang \nPertanyaan: 9643 1062 \nhttps://for.sg/hsgneposter\n\n🤝 Allkin @ Al-Islah \nKhamis & Jumaat \n10.00 pagi–1.00 petang \n2.30–5.30 petang \nPertanyaan: 6038 4417 \nhttps://tinyurl.com/islahallkin\n\n#SantunanEmas #MasjidAlIslah #KuliahDhuha #Muslimah #Kesihatan #WargaEmas",
+      "links": [
+        {
+          "url": "https://for.sg/hsgneposter",
+          "via": "qr",
+          "label": null
+        },
+        {
+          "url": "https://tinyurl.com/islahallkin",
+          "via": "caption",
+          "label": null
+        }
+      ]
+    }
+  ]
+}
