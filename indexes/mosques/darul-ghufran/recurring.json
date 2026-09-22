@@ -682,6 +682,79 @@
       "path": "events/5e7534cc-36ca-4f68-aad3-dccd0c568f97.json"
     },
     {
+      "id": "6eaeb5ab-996a-4241-acb0-05fea46dd7d0",
+      "title": "Kuliah Subuh (Minggu Pertama): Fawaid Ayat-Ayat Pilihan",
+      "description": null,
+      "mosque_ids": [
+        "darul-ghufran"
+      ],
+      "categories": [
+        "kuliah"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "recurring",
+        "timezone": "Asia/Singapore",
+        "text": "Hari Ahad, minggu pertama setiap bulan, selepas solat Subuh, di Dewan Solat",
+        "occurrences": [],
+        "recurrence": {
+          "frequency": "monthly",
+          "weekdays": [
+            "SU"
+          ],
+          "week_ordinals": [
+            1
+          ],
+          "rule_text": "Hari Ahad — Kuliah Subuh, Minggu Pertama",
+          "starts_on": null,
+          "ends_on": null,
+          "start_time": {
+            "kind": "prayer_relative",
+            "prayer": "subuh",
+            "relation": "after",
+            "offset_minutes": null,
+            "literal": "Selepas solat Subuh"
+          },
+          "end_time": null,
+          "excluded_dates": []
+        }
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Dewan Solat, Masjid Darul Ghufran",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Jamaluddin Abdul Wahab",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "ms"
+      ],
+      "audience": [],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Masa mula Kuliah Subuh dinyatakan hanya sebagai selepas solat Subuh."
+        ]
+      },
+      "path": "events/6eaeb5ab-996a-4241-acb0-05fea46dd7d0.json"
+    },
+    {
       "id": "77063b3d-c6db-412a-b207-a7cf8b260879",
       "title": "Kuliah Malam Muslimah: Fardhu Ain & Pengajian Islam",
       "description": null,
