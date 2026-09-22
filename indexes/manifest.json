@@ -8,7 +8,7 @@
     },
     "2026-08": {
       "path": "indexes/months/2026-08.json",
-      "count": 6
+      "count": 7
     },
     "2026-09": {
       "path": "indexes/months/2026-09.json",
@@ -110,6 +110,10 @@
     "assyafaah": {
       "path": "mosques/assyafaah.json",
       "months": {
+        "2026-08": {
+          "path": "indexes/mosques/assyafaah/months/2026-08.json",
+          "count": 1
+        },
         "2026-09": {
           "path": "indexes/mosques/assyafaah/months/2026-09.json",
           "count": 3

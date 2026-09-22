@@ -1,0 +1,223 @@
+{
+  "title": "Grand Maulid 2026",
+  "description": "An evening programme commemorating and celebrating the life and teachings of Prophet Muhammad ﷺ.",
+  "mosque_ids": [
+    "assyafaah"
+  ],
+  "categories": [
+    "Maulid",
+    "religious programme"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "multi_session",
+    "timezone": "Asia/Singapore",
+    "text": "Saturday, 29 August 2026; programme from 4:19 PM to 9:15 PM, with closing at 9:00 PM.",
+    "occurrences": [
+      {
+        "label": "Asar prayers",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "16:19",
+          "literal": "4:19 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Islamic Canvas Painting for Kids (Level 4)",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "17:00",
+          "literal": "5:00 PM (concurrently)"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Youth Lepak @ Masjid (MPH, Level 2)",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "17:00",
+          "literal": "5:00 PM (concurrently)"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Maulid led by AIM (Main Prayer Hall)",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "17:00",
+          "literal": "5:00 PM (concurrently)"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Tausiyyah by Asatizah Assyafaah",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "18:30",
+          "literal": "6:30 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Maghrib prayers",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:10",
+          "literal": "7:10 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Syarahan Perdana by Ust Fizar Zainal",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "19:30",
+          "literal": "7:30 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Isya' prayers",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "20:17",
+          "literal": "8:17 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "Closing",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "21:00",
+          "literal": "9:00 PM"
+        },
+        "end_time": null
+      },
+      {
+        "label": "End",
+        "date": "2026-08-29",
+        "end_date": null,
+        "start_time": {
+          "kind": "clock",
+          "local_time": "21:15",
+          "literal": "9:15 PM"
+        },
+        "end_time": null
+      }
+    ],
+    "recurrence": null
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid Assyafaah",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ust Fizar Zainal",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "en",
+    "ms"
+  ],
+  "audience": [
+    "families",
+    "friends"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3972190825978361362",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule/text",
+        "/location/name",
+        "/schedule/occurrences/0/date"
+      ]
+    },
+    {
+      "source_id": "instagram:3972190825978361362",
+      "locator": "slide:2",
+      "supports": [
+        "/schedule",
+        "/schedule/occurrences",
+        "/people/0/name"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Address was not provided.",
+      "The exact duration of individual programme segments is not stated."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "advertised_end_time": "9:30 PM",
+    "programme_components": [
+      "Youth Lepak @ Masjid",
+      "Islamic Canvas Painting",
+      "Maulid Gathering",
+      "Syarahan by Ustaz Fizar Zainal"
+    ]
+  },
+  "id": "84287435-02c8-4323-9a6f-1f96f3b7093c",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3972190825978361362",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcgDoK6gXYS",
+      "post_id": "3972190825978361362",
+      "author_handle": "assyafaahmosque",
+      "author_profile_id": "3441600439",
+      "discovered_via": [],
+      "published_at": "2026-08-26T11:01:08.000Z",
+      "retrieved_at": "2026-09-22T02:34:56.718Z",
+      "caption": "🌙 GRAND MAULID 2026 @ MASJID ASSYAFAAH 🌙\n\nJoin us as we conclude our Maulid celebrations with an evening dedicated to remembering and celebrating the life and teachings of our beloved Prophet Muhammad ﷺ. 🌹\n\nLook forward to:\n🎮 Youth Lepak @ Masjid\n🎨 Islamic Canvas Painting\n🕌 Maulid Gathering\n🎙️ Syarahan by Ustaz Fizar Zainal\n\n📅 Saturday, 29 August 2026\n📍 Masjid Assyafaah\n\nBring your family and friends, and let us come together in our love for Rasulullah ﷺ.\n\nSee you at Grand Maulid 2026! 🤍\n\nاللهم صل وسلم على نبينا محمد ﷺ\n\nAyuh bersama kami menutup rangkaian sambutan Maulid dengan sebuah petang dan malam yang penuh dengan kecintaan kepada junjungan kita Nabi Muhammad ﷺ. 🌹\n\nAntara pengisian:\n🎮 Youth Lepak @ Masjid\n🎨 Islamic Canvas Painting\n🕌 Majlis Maulid\n🎙️ Syarahan oleh Ustaz Fizar Zainal\n\n📅 Sabtu, 29 Ogos 2026\n📍 Masjid Assyafaah\n\nBawalah keluarga dan ajaklah sahabat untuk bersama-sama memeriahkan majlis ini.\n\nJumpa anda di Grand Maulid 2026! 🤍\n\nاللهم صل وسلم على نبينا محمد ﷺ",
+      "links": [
+        {
+          "url": "https://www.tinyurl.com/assyafaahcanvas",
+          "via": "qr",
+          "label": null
+        }
+      ]
+    }
+  ]
+}

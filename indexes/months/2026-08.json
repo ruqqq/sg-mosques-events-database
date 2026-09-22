@@ -371,6 +371,288 @@
       ]
     },
     {
+      "id": "84287435-02c8-4323-9a6f-1f96f3b7093c",
+      "title": "Grand Maulid 2026",
+      "description": "An evening programme commemorating and celebrating the life and teachings of Prophet Muhammad ﷺ.",
+      "mosque_ids": [
+        "assyafaah"
+      ],
+      "categories": [
+        "Maulid",
+        "religious programme"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "multi_session",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 29 August 2026; programme from 4:19 PM to 9:15 PM, with closing at 9:00 PM.",
+        "occurrences": [
+          {
+            "label": "Asar prayers",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "16:19",
+              "literal": "4:19 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Islamic Canvas Painting for Kids (Level 4)",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "17:00",
+              "literal": "5:00 PM (concurrently)"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Youth Lepak @ Masjid (MPH, Level 2)",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "17:00",
+              "literal": "5:00 PM (concurrently)"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Maulid led by AIM (Main Prayer Hall)",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "17:00",
+              "literal": "5:00 PM (concurrently)"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Tausiyyah by Asatizah Assyafaah",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "18:30",
+              "literal": "6:30 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Maghrib prayers",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:10",
+              "literal": "7:10 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Syarahan Perdana by Ust Fizar Zainal",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "19:30",
+              "literal": "7:30 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Isya' prayers",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "20:17",
+              "literal": "8:17 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "Closing",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "21:00",
+              "literal": "9:00 PM"
+            },
+            "end_time": null
+          },
+          {
+            "label": "End",
+            "date": "2026-08-29",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "21:15",
+              "literal": "9:15 PM"
+            },
+            "end_time": null
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Masjid Assyafaah",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ust Fizar Zainal",
+          "role": "speaker"
+        }
+      ],
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "audience": [
+        "families",
+        "friends"
+      ],
+      "registration": {
+        "requirement": "unknown",
+        "url": null,
+        "deadline_date": null,
+        "instructions": null
+      },
+      "pricing": {
+        "kind": "unknown",
+        "prices": [],
+        "notes": null
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Address was not provided.",
+          "The exact duration of individual programme segments is not stated."
+        ]
+      },
+      "path": "events/84287435-02c8-4323-9a6f-1f96f3b7093c.json",
+      "matched_occurrences": [
+        {
+          "label": "Asar prayers",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "16:19",
+            "literal": "4:19 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Islamic Canvas Painting for Kids (Level 4)",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "17:00",
+            "literal": "5:00 PM (concurrently)"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Youth Lepak @ Masjid (MPH, Level 2)",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "17:00",
+            "literal": "5:00 PM (concurrently)"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Maulid led by AIM (Main Prayer Hall)",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "17:00",
+            "literal": "5:00 PM (concurrently)"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Tausiyyah by Asatizah Assyafaah",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "18:30",
+            "literal": "6:30 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Maghrib prayers",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:10",
+            "literal": "7:10 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Syarahan Perdana by Ust Fizar Zainal",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "19:30",
+            "literal": "7:30 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Isya' prayers",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "20:17",
+            "literal": "8:17 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "Closing",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "21:00",
+            "literal": "9:00 PM"
+          },
+          "end_time": null
+        },
+        {
+          "label": "End",
+          "date": "2026-08-29",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "21:15",
+            "literal": "9:15 PM"
+          },
+          "end_time": null
+        }
+      ]
+    },
+    {
       "id": "8093ecc1-2249-4283-aa24-fb59826972a1",
       "title": "Kuliah Subuh: Tawadhu' Rasulullah SAW: Kemuliaan Dalam Kerendahan Hati",
       "description": "Kuliah Subuh khas Rabiulawal 1448H.",
