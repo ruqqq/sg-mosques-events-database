@@ -1,0 +1,117 @@
+{
+  "title": "C4C: Caregiver to Caregiver",
+  "description": "A safe, supportive monthly gathering for caregivers of people living with dementia, with emotional support from professionals from Mindfull Community.",
+  "mosque_ids": [
+    "an-nur"
+  ],
+  "categories": [
+    "caregiver support",
+    "dementia support"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Every once a month at Masjid An-Nur",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "monthly",
+      "weekdays": [],
+      "rule_text": "Every once a month",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": null,
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Masjid An-Nur",
+    "address": null,
+    "online_url": null
+  },
+  "people": [],
+  "languages": [
+    "en"
+  ],
+  "audience": [
+    "Caregivers of people living with dementia"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3986577281158740224",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/description",
+        "/schedule",
+        "/location/name",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3986577281158740224",
+      "locator": "slide:1",
+      "supports": [
+        "/location/mode",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3986577281158740224",
+      "locator": "slide:2",
+      "supports": [
+        "/location/mode",
+        "/audience"
+      ]
+    },
+    {
+      "source_id": "instagram:3986577281158740224",
+      "locator": "slide:3",
+      "supports": [
+        "/location/mode",
+        "/audience"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "No specific meeting dates, times, registration details, or pricing are provided."
+    ]
+  },
+  "notes": null,
+  "extra_data": {
+    "support_provider": "Mindfull Community"
+  },
+  "id": "ea9025bf-b757-4e89-b16b-ff7aec09677d",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3986577281158740224",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DdTKupZG_kA/",
+      "post_id": "3986577281158740224",
+      "author_handle": "masjidannursg",
+      "author_profile_id": "6942526208",
+      "discovered_via": [
+        "https://www.instagram.com/masjidannursg/"
+      ],
+      "published_at": "2026-09-15T07:24:27.000Z",
+      "retrieved_at": "2026-09-22T02:34:47.988Z",
+      "caption": "𝗖𝟰𝗖: 𝗖𝗮𝗿𝗲𝗴𝗶𝘃𝗲𝗿 𝘁𝗼 𝗖𝗮𝗿𝗲𝗴𝗶𝘃𝗲𝗿\n\nEvery once a month at Masjid An-Nur\nC4C brings together caregivers of people living with dementia in a safe, supportive space.\n\nWith professionals from Mindfull Community, caregivers have someone to listen, understand their journey and provide emotional support—because caring for someone can sometimes feel overwhelming and lonely.\n\nWe care not only for the person living with dementia, but also for the caregiver who walks alongside them every day. Caregivers deserve to be cared for too. 🤍\n\n#masjiddihatiku \n#cahayamenarabiru"
+    }
+  ]
+}
