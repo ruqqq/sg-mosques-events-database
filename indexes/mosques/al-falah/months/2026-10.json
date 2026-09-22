@@ -95,6 +95,91 @@
       ]
     },
     {
+      "id": "c461274e-d37d-4cc0-9e57-27b49026b981",
+      "title": "When Everything Depends On You – TBT: The Good Husband Series",
+      "description": "A session of Tarbiyyah Bukan Terbiar (TBT): The Good Husband Series on the pressures, responsibilities and amanah of married men, comprising a main talk and breakout discussions.",
+      "mosque_ids": [
+        "al-falah"
+      ],
+      "categories": [
+        "Talk"
+      ],
+      "status": "scheduled",
+      "schedule": {
+        "kind": "one_off",
+        "timezone": "Asia/Singapore",
+        "text": "Saturday, 3 October 2026, 1.30pm – 4pm (updated timing)",
+        "occurrences": [
+          {
+            "date": "2026-10-03",
+            "end_date": null,
+            "start_time": {
+              "kind": "clock",
+              "local_time": "13:30",
+              "literal": "1.30pm"
+            },
+            "end_time": {
+              "kind": "clock",
+              "local_time": "16:00",
+              "literal": "4pm"
+            }
+          }
+        ],
+        "recurrence": null
+      },
+      "location": {
+        "mode": "physical",
+        "name": "Al-Falah Mosque",
+        "address": null,
+        "online_url": null
+      },
+      "people": [
+        {
+          "name": "Ustaz Ahmad Faritz Mohamed Hairudin",
+          "role": "speaker"
+        }
+      ],
+      "languages": [],
+      "audience": [
+        "Married men"
+      ],
+      "registration": {
+        "requirement": "required",
+        "url": "https://alfalah.sg/programmes/tbt",
+        "deadline_date": null,
+        "instructions": "Register via alfalah.sg/programmes/tbt. Registered participants will be emailed regarding attendance."
+      },
+      "pricing": {
+        "kind": "free",
+        "prices": [],
+        "notes": "Free course."
+      },
+      "review": {
+        "state": "candidate",
+        "uncertainties": [
+          "Registration requirement inferred from the registration call-to-action rather than an explicit 'compulsory' statement.",
+          "Audience is inferred from the programme topic about married men; the poster does not state an eligibility rule."
+        ]
+      },
+      "path": "events/c461274e-d37d-4cc0-9e57-27b49026b981.json",
+      "matched_occurrences": [
+        {
+          "date": "2026-10-03",
+          "end_date": null,
+          "start_time": {
+            "kind": "clock",
+            "local_time": "13:30",
+            "literal": "1.30pm"
+          },
+          "end_time": {
+            "kind": "clock",
+            "local_time": "16:00",
+            "literal": "4pm"
+          }
+        }
+      ]
+    },
+    {
       "id": "9af56bc2-3cb6-4151-9b22-1f9feff408e2",
       "title": "Turning The Tides: Reawakening the Woman's Heart & Soul (Season 3)",
       "description": "Sisters-only guided reflection series (Thuma'ninah Circle for Sisters) exploring the stages of a woman's life through the light of the Qur'an and Sunnah, based on the book 'Turning The Tide: Reawakening the Woman's Heart and Soul' by Suma Din.",
