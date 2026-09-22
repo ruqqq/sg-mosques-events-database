@@ -1,0 +1,111 @@
+{
+  "title": "Tazkirah Mingguan: Pembacaan Kitab Safinatun Najaa",
+  "description": "Weekly tazkirah session reading Kitab Safinatun Najaa, delivered by Ustaz Muhammad Huzaifah, held every Tuesday after Zohor prayer at the mosque's Dewan Solat.",
+  "mosque_ids": [
+    "petempatan-melayu-sembawang"
+  ],
+  "categories": [
+    "religious class",
+    "tazkirah"
+  ],
+  "status": "scheduled",
+  "schedule": {
+    "kind": "recurring",
+    "timezone": "Asia/Singapore",
+    "text": "Setiap Selasa, selepas Solat Zohor | Dewan Solat",
+    "occurrences": [],
+    "recurrence": {
+      "frequency": "weekly",
+      "weekdays": [
+        "TU"
+      ],
+      "rule_text": "Setiap Selasa, selepas Solat Zohor",
+      "starts_on": null,
+      "ends_on": null,
+      "start_time": {
+        "kind": "prayer_relative",
+        "prayer": "zuhr",
+        "relation": "after",
+        "offset_minutes": null,
+        "literal": "selepas Solat Zohor"
+      },
+      "end_time": null,
+      "excluded_dates": []
+    }
+  },
+  "location": {
+    "mode": "physical",
+    "name": "Dewan Solat, Masjid Petempatan Melayu Sembawang",
+    "address": null,
+    "online_url": null
+  },
+  "people": [
+    {
+      "name": "Ustaz Muhammad Huzaifah",
+      "role": "speaker"
+    }
+  ],
+  "languages": [
+    "ms"
+  ],
+  "registration": {
+    "requirement": "unknown",
+    "url": null,
+    "deadline_date": null,
+    "instructions": null
+  },
+  "pricing": {
+    "kind": "unknown",
+    "prices": [],
+    "notes": null
+  },
+  "evidence": [
+    {
+      "source_id": "instagram:3976558697761725115",
+      "locator": "slide:1",
+      "supports": [
+        "/title",
+        "/schedule",
+        "/location",
+        "/people"
+      ]
+    },
+    {
+      "source_id": "instagram:3976558697761725115",
+      "locator": "caption",
+      "supports": [
+        "/title",
+        "/people"
+      ]
+    }
+  ],
+  "review": {
+    "state": "candidate",
+    "uncertainties": [
+      "Event end time not stated",
+      "Venue address not stated",
+      "Series start and end dates not stated"
+    ]
+  },
+  "notes": "Recurring weekly tazkirah on Tuesdays after Zohor prayer at the mosque's Dewan Solat. The post is a 4-part carousel of notes on 14 things that invalidate prayer, based on Kitab Safinatun Najaa. No registration or fee mentioned.",
+  "extra_data": {
+    "kitab": "Safinatun Najaa",
+    "series_heading": "Nota Tazkirah Mingguan"
+  },
+  "id": "ea2ba2a7-259c-4f0a-8d81-1bc704473648",
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "instagram:3976558697761725115",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DcvkxEgk9q7",
+      "post_id": "3976558697761725115",
+      "author_handle": "masjidpetempatan",
+      "author_profile_id": "52611310486",
+      "discovered_via": [],
+      "published_at": "2026-09-01T11:39:18.000Z",
+      "retrieved_at": "2026-09-22T07:07:51.737Z",
+      "caption": "Nota Tazkirah Mingguan 🕌✨\n\nJom pelajari dan fahami 14 Perkara Yang Membatalkan Solat berdasarkan pembacaan Kitab Safinatun Najaa yang disampaikan oleh Ustaz Muhammad Huzaifah. \n\nSila swipe gambar di atas untuk membaca kesemua nota penuh dari bahagian 1 hingga 4 👉\n\nSemoga perkongsian ilmu ini bermanfaat untuk kita semua memperbaiki ibadah solat.\n\nJangan lupa save dan kongsikan post ini dengan keluarga serta rakan-rakan!\n\n#MasjidPetempatan #TazkirahMingguan #SafinatunNajaa #Ilmu #solat"
+    }
+  ]
+}
